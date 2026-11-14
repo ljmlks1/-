@@ -42,6 +42,31 @@
    "planned": "2026-11-14T20:00:00+09:00",
    "evidence": "ops/evidence/I-OLO.md",
    "music": false
+  },
+  {
+   "id": "I-CHIPLEAK",
+   "account": "issue.ap",
+   "title": "반도체 기술유출 전 삼성 부장 형량",
+   "status": "review",
+   "by": "claude",
+   "vidiq_postId": "7ec177d4-bf09-48c4-a524-3182202357e5",
+   "revision": "6283f0c2",
+   "planned": "2026-11-15T08:00:00+09:00",
+   "evidence": "ops/evidence/I-CHIPLEAK.md",
+   "music": false,
+   "note": "확정 사실은 뉴시스 단일 출처 → 귀속 표기"
+  },
+  {
+   "id": "L-ATTACH",
+   "account": "legendhumormeme",
+   "title": "읽씹 3시간 애착유형별 반응",
+   "status": "review",
+   "by": "claude",
+   "vidiq_postId": "148aeb59-1b2e-4901-a9dd-486a0c691c1f",
+   "revision": "5b51b943",
+   "planned": "2026-11-14T21:00:00+09:00",
+   "evidence": "ops/evidence/L-ATTACH.md",
+   "music": false
   }
  ]
 }

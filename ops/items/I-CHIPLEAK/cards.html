@@ -1,0 +1,89 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="base.css"><style>
+.acc{color:#b8f26b}
+.step{display:flex;align-items:center;gap:26px;margin:18px 0}
+.dot{width:150px;height:150px;border-radius:50%;display:flex;flex-direction:column;align-items:center;justify-content:center;font-weight:800}
+.law{border:2px solid #3a3f48;border-radius:14px;padding:30px 40px;width:860px;font-size:34px;line-height:1.7;text-align:left;background:#1b1e24}
+.law b{color:#b8f26b}
+</style></head><body>
+
+<div class="card cover" id="c1">
+ <canvas id="wafer" width="1080" height="860" style="position:absolute;top:0;left:0"></canvas>
+ <div style="position:absolute;left:0;top:560px;width:1080px;height:300px;background:linear-gradient(transparent,#15171c)"></div>
+ <div class="cap" style="top:40px">일러스트 · 반도체 웨이퍼(이미지 연출)</div>
+ <div class="txt"><span class="tag">사회 / 반도체 기술유출</span>
+  <h1>中에 반도체 기술 넘긴<br>전 삼성 부장, 형량이<br><span class="acc">다시 늘어난 이유</span></h1></div>
+ <div class="foot"><span>일러스트: 이슈압축</span><span>01/06</span></div>
+</div>
+
+<div class="card inner" id="c2">
+ <div class="frame"><svg width="940" height="520" viewBox="0 0 940 520" font-family="Pretendard">
+  <rect x="20" y="150" width="260" height="210" rx="18" fill="#1f2a3d" stroke="#4f86ff" stroke-width="3"/>
+  <text x="150" y="245" fill="#fff" font-size="36" font-weight="800" text-anchor="middle">삼성전자</text>
+  <text x="150" y="295" fill="#9fb6e8" font-size="26" text-anchor="middle">+ 협력업체</text>
+  <rect x="660" y="150" width="260" height="210" rx="18" fill="#3a1f1f" stroke="#ff6b5e" stroke-width="3"/>
+  <text x="790" y="268" fill="#fff" font-size="36" font-weight="800" text-anchor="middle">중국</text>
+  
+  <path d="M300 255 H640" stroke="#f6d64a" stroke-width="6" stroke-dasharray="18 12"/><path d="M620 235 L645 255 L620 275" fill="none" stroke="#f6d64a" stroke-width="6"/>
+  <rect x="380" y="105" width="180" height="120" rx="10" fill="#2a2d33" stroke="#888"/>
+  <text x="470" y="155" fill="#ddd" font-size="24" text-anchor="middle">증착장비</text><text x="470" y="190" fill="#ddd" font-size="24" text-anchor="middle">설계 도면</text>
+  <text x="470" y="320" fill="#bbb" font-size="24" text-anchor="middle">별도 서버(NAS)에 업로드</text>
+ </svg></div>
+ <div class="cap">도해 · 판결 보도 내용 정리</div>
+ <div class="txt"><h2>무슨 일이<br><span class="acc">있었나</span></h2>
+  <p>삼성전자를 나와 중국 D램 업체 CXMT로 옮긴 김모 씨는<br>삼성전자와 협력업체의 반도체 증착장비 설계 도면 등을<br>별도 서버에 몰래 올린 혐의로 2024년 기소됐어요.</p></div>
+ <div class="teaser">그런데 형량이 왜 바뀌었을까? →</div>
+ <div class="foot"><span>정리: 이슈압축 · 판결 보도 종합</span><span>02/06</span></div>
+</div>
+
+<div class="card inner" id="c3">
+ <div class="frame"><div>
+  <div class="step"><div class="dot" style="background:#2b2f37"><span style="font-size:28px;color:#aaa">1심</span><span style="font-size:52px">7년</span></div><div style="font-size:30px;color:#bbb;text-align:left">2025년 2월<br>서울중앙지법</div></div>
+  <div class="step"><div class="dot" style="background:#2b2f37"><span style="font-size:28px;color:#aaa">2심</span><span style="font-size:52px">6년</span></div><div style="font-size:30px;color:#bbb;text-align:left">‘사용’만 유죄<br>공범끼리 주고받은 건 무죄</div></div>
+ </div></div>
+ <div class="cap">도해 · 징역형 기준(벌금 2억 원 별도)</div>
+ <div class="txt"><h2>1심 7년 → 2심 6년<br><span class="acc">한 번 줄었어요</span></h2>
+  <p>1·2심은 빼돌린 기술을 ‘사용’한 건 유죄로 봤지만,<br>공범끼리 기밀을 주고받은 ‘누설·취득’은<br>사용을 위한 수단일 뿐이라며 무죄로 봤어요.</p></div>
+ <div class="teaser">대법원의 생각은 달랐어요 →</div>
+ <div class="foot"><span>정리: 이슈압축 · 판결 보도 종합</span><span>03/06</span></div>
+</div>
+
+<div class="card inner" id="c4">
+ <div class="frame"><div class="law">“부정경쟁방지법은 영업비밀의<br><b>취득, 사용, 제3자에게 누설</b> 등을<br><b>독립된 범죄</b>로 규정하고 있다”<div style="font-size:26px;color:#9aa0a6;margin-top:18px">— 대법원 판단 (2026년 2월 보도)</div></div></div>
+ <div class="txt"><h2>대법원 “주고받은 것도<br><span class="acc">따로 범죄</span>”</h2>
+  <p>대법원은 공범끼리 기밀을 넘겨준 것도<br>누설·취득죄가 될 수 있다며<br>사건을 서울고등법원으로 돌려보냈어요.</p></div>
+ <div class="teaser">다시 열린 재판의 결과는? →</div>
+ <div class="foot"><span>정리: 이슈압축 · 판결 보도 종합</span><span>04/06</span></div>
+</div>
+
+<div class="card inner" id="c5">
+ <div class="frame"><div>
+  <div class="step"><div class="dot" style="background:#2b2f37"><span style="font-size:28px;color:#aaa">2심</span><span style="font-size:52px">6년</span></div><div style="font-size:60px;color:#f6d64a">→</div><div class="dot" style="background:#b8f26b;color:#15171c;width:250px;height:250px"><span style="font-size:28px">파기환송심</span><span style="font-size:46px">6년 4개월</span></div></div>
+  <div style="font-size:28px;color:#bbb;text-align:center;margin-top:10px">2026년 4월 서울고법 · 벌금 2억 원</div>
+ </div></div>
+ <div class="cap" style="top:40px">도해 · 징역형 기준</div>
+ <div class="txt"><h2>다시 열린 재판에서<br><span class="acc">6년 4개월</span></h2>
+  <p>재판부는 “영업비밀 침해 범죄를 가볍게 처벌하면<br>오랜 시간과 비용을 들인 기술의 의미가 없어진다”고 했어요.<br>13일 보도에 따르면 김씨의 재상고는 받아들여지지 않아<br>이 형이 확정됐습니다.</p></div>
+ <div class="foot"><span>정리: 이슈압축 · 판결 보도 종합</span><span>05/06</span></div>
+</div>
+
+<div class="card end" id="c6">
+ <canvas id="wafer2" width="1080" height="1350" style="position:absolute;top:0;left:0;opacity:.16"></canvas>
+ <div class="c">
+  <div style="font-size:42px;color:#ddd">세상에 몰랐던</div>
+  <div style="font-size:74px;font-weight:800;margin-top:14px">흥미로운 <span class="acc">이슈</span></div>
+  <div style="display:flex;align-items:center;gap:34px;margin-top:70px"><img src="logo.jpg" style="width:150px;height:150px;border-radius:12px"><div style="font-size:84px;font-weight:800">이슈압축</div></div>
+  <div style="letter-spacing:10px;color:#aaa;font-size:28px;margin-top:30px">ISSUE COMPRESS</div>
+  <div style="width:620px;height:2px;background:#6b6a4a;margin:46px 0"></div>
+  <div style="font-size:36px;line-height:1.8;color:#eee">팔로우하고 다음 이야기도 만나보세요.<br>반도체 관심 있는 <span class="acc">친구</span>에게 공유해요.</div>
+  <div style="font-size:30px;color:#999;margin-top:50px">@issue.ap</div>
+ </div>
+ <div class="foot"><span>@issue.ap</span><span>06/06</span></div>
+</div>
+<script>
+function wafer(id,cx,cy,R){const c=document.getElementById(id),x=c.getContext('2d');x.fillStyle='#0b0d10';x.fillRect(0,0,c.width,c.height);
+ const g=x.createRadialGradient(cx-R*.3,cy-R*.3,R*.1,cx,cy,R);g.addColorStop(0,'#9fb3c8');g.addColorStop(.5,'#4b5d75');g.addColorStop(1,'#1d2633');
+ x.save();x.beginPath();x.arc(cx,cy,R,0,7);x.clip();x.fillStyle=g;x.fillRect(cx-R,cy-R,2*R,2*R);
+ const s=46;for(let i=cx-R;i<cx+R;i+=s)for(let j=cy-R;j<cy+R;j+=s){const h=((i*7+j*13)%97)/97;x.fillStyle=`hsla(${190+h*90},70%,${55+h*15}%,.35)`;x.fillRect(i+3,j+3,s-6,s-6)}
+ x.restore();x.strokeStyle='rgba(255,255,255,.35)';x.lineWidth=4;x.beginPath();x.arc(cx,cy,R,0,7);x.stroke()}
+wafer('wafer',620,430,520);wafer('wafer2',540,675,600);
+</script></body></html>
