@@ -1,0 +1,12 @@
+{
+  "updated_at": "2026-11-14T00:00:00+09:00",
+  "note": "공용 대기열. 상태: draft|review|approved|in_progress|published|hold. vidIQ social_post_list가 게시 사실의 기준.",
+  "items": [
+    {"id": "L003", "account": "legendhumormeme", "title": "김해준 딸 이름", "version": "ece6b2a125f6", "status": "published",
+     "published_at": "2026-11-14T12:44:59+09:00", "url": "https://www.instagram.com/p/DftRS0GDTne/", "music": false, "by": "codex"},
+    {"id": "L001", "account": "legendhumormeme", "title": "박진영", "version": "b6c8303a04bf", "status": "hold",
+     "hold_reason": "원영상 직접확인 미완료 / 방송 사진 재사용조건 확인 필요 (Codex 기록 기준). 이미지·본문 파일은 Codex 쪽 /workspace에만 있음", "by": "codex"},
+    {"id": "L002", "account": "legendhumormeme", "title": "오은영", "version": "4ed8ece2ce09", "status": "hold",
+     "hold_reason": "L001과 동일", "by": "codex"}
+  ]
+}
