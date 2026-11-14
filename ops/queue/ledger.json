@@ -48,7 +48,7 @@
    "id": "I-CHIPLEAK",
    "account": "issue.ap",
    "title": "반도체 기술유출 전 삼성 부장 형량",
-   "status": "scheduled",
+   "status": "failed",
    "by": "claude",
    "vidiq_postId": "7ec177d4-bf09-48c4-a524-3182202357e5",
    "revision": "fea8b0ae",
@@ -58,13 +58,15 @@
    "note": "확정 사실은 뉴시스 단일 출처 → 귀속 표기",
    "scheduled_for": "2026-11-14T19:45:00+09:00",
    "size": "1080x1350",
-   "approved_by_user": "2026-11-14"
+   "approved_by_user": "2026-11-14",
+   "failure": "reconnectRequired: issue.ap 계정 재연결 필요",
+   "publicationId": "c73017fc-c975-4959-b46d-d08915da6693"
   },
   {
    "id": "L-ATTACH",
    "account": "legendhumormeme",
    "title": "읽씹 3시간 애착유형별 반응",
-   "status": "scheduled",
+   "status": "published",
    "by": "claude",
    "vidiq_postId": "148aeb59-1b2e-4901-a9dd-486a0c691c1f",
    "revision": "efde1c3e",
@@ -73,7 +75,9 @@
    "music": false,
    "scheduled_for": "2026-11-14T19:45:00+09:00",
    "size": "1080x1350",
-   "approved_by_user": "2026-11-14"
+   "approved_by_user": "2026-11-14",
+   "url": "https://www.instagram.com/p/DfuBa-nlrOO/",
+   "published_at": "2026-11-14T19:45:00+09:00"
   }
  ]
 }
