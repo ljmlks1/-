@@ -8,6 +8,8 @@
 |---|---|---|---|
 | 이슈압축 | issue.ap | 29314331491559156 | 과학·상식·흥미로운 뉴스 |
 | 유머밈어워드 | legendhumormeme | 29028458450154197 | 유머·예능 |
+| 배꼽쇼츠 (YouTube) | @배꼽쇼츠1 | UCmF8Sd_rEauu-z11UuS7J2w | 쇼츠 |
+| なるほど研究所 (YouTube) | @なるほど研究所5962 | UC0JadGsJSEjKpHHzQ8uzx5Q | 쇼츠 |
 
 - 게시는 vidIQ 연결 도구로만 한다.
 - 게시 직전에 `social_account_list`로 username과 `canPublish: true`를 다시 확인한다.
@@ -49,6 +51,10 @@
 - 근거가 부족하면 해당 문장을 고치거나 빼고, 그래도 안 되면 `hold`로 둔다.
 
 ## 역할 분담 (번갈아 쓰기)
+- 주 담당:
+  - Codex: 인스타 캐러셀 수집·제작 → vidIQ 초안(publishAt 필수)
+  - Claude: 인스타 게시(사용자 컨펌 후), YouTube 쇼츠, 블로그 자동화
+- 공유 채널: vidIQ(게시·초안·예약 목록)와 이 저장소의 ops/ 폴더. 작업이 끝나면 각자 ledger에 기록한다.
 - 제작과 게시 중 어느 쪽이든 아무 에이전트나 맡을 수 있다. 같은 규칙이므로 이어받으면 된다.
 - 권장 분담: Codex는 제작 → `review`. 사용자 승인 → `approved`. Claude가 게시.
 - 이어받는 쪽은 vidIQ `social_post_list`와 ledger를 대조한 다음 시작한다.
