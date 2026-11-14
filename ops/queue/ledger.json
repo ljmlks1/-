@@ -41,32 +41,39 @@
    "revision": "49dde7ba",
    "planned": "2026-11-14T20:00:00+09:00",
    "evidence": "ops/evidence/I-OLO.md",
-   "music": false
+   "music": false,
+   "note": "4:5 이미지로 다시 만듦. 초안에 아직 3:4 이미지가 있어 거부된 상태(새 이미지 업로드 필요)"
   },
   {
    "id": "I-CHIPLEAK",
    "account": "issue.ap",
    "title": "반도체 기술유출 전 삼성 부장 형량",
-   "status": "review",
+   "status": "scheduled",
    "by": "claude",
    "vidiq_postId": "7ec177d4-bf09-48c4-a524-3182202357e5",
-   "revision": "6283f0c2",
+   "revision": "fea8b0ae",
    "planned": "2026-11-15T08:00:00+09:00",
    "evidence": "ops/evidence/I-CHIPLEAK.md",
    "music": false,
-   "note": "확정 사실은 뉴시스 단일 출처 → 귀속 표기"
+   "note": "확정 사실은 뉴시스 단일 출처 → 귀속 표기",
+   "scheduled_for": "2026-11-14T19:45:00+09:00",
+   "size": "1080x1350",
+   "approved_by_user": "2026-11-14"
   },
   {
    "id": "L-ATTACH",
    "account": "legendhumormeme",
    "title": "읽씹 3시간 애착유형별 반응",
-   "status": "review",
+   "status": "scheduled",
    "by": "claude",
    "vidiq_postId": "148aeb59-1b2e-4901-a9dd-486a0c691c1f",
-   "revision": "5b51b943",
+   "revision": "efde1c3e",
    "planned": "2026-11-14T21:00:00+09:00",
    "evidence": "ops/evidence/L-ATTACH.md",
-   "music": false
+   "music": false,
+   "scheduled_for": "2026-11-14T19:45:00+09:00",
+   "size": "1080x1350",
+   "approved_by_user": "2026-11-14"
   }
  ]
 }
