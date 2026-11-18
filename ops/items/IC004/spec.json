@@ -1,0 +1,87 @@
+{
+ "brand": "issue",
+ "slug": "issue-cybercab-guide",
+ "cover": {
+  "photo": "/home/user/-/ops/items/IC004/photos/c1.jpg",
+  "pos": "center 55%",
+  "tag": "테크 / 사이버캡 총정리",
+  "title": "운전대 없는 사이버캡<br>얼마고, 언제 나오고<br><a>한국엔 언제?</a>",
+  "credit": "Daniel Lu / CC BY-SA 4.0"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/IC004/photos/c3.jpg",
+   "pos": "center 60%",
+   "cap": "외관 · 2026년 6월 샌프란시스코",
+   "title": "디자인<br><a>2인승 2도어</a> 쿠페",
+   "body": "2024년 10월 처음 공개된 테슬라의 로보택시 전용차예요.<br>낮고 둥근 2도어 차체에 좌석은 딱 2개.<br>운전대와 가속·브레이크 페달을 아예 없애고<br>자율주행 시스템이 운전을 맡도록 설계했어요.",
+   "teaser": "안은 어떻게 생겼을까? →",
+   "credit": "9yz / CC BY 4.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC004/photos/c4.jpg",
+   "pos": "center 50%",
+   "cap": "실내 · 2024년 공개 당시",
+   "title": "실내<br><a>운전석이 없다</a>",
+   "body": "앞자리 운전석 대신 승객 2명이 나란히 앉는 구조예요.<br>운전대도 페달도 없어서 앞쪽이 탁 트여 있고,<br>탑승객은 그냥 앉아서 목적지까지 가면 돼요.<br>사진은 2024년 공개 행사 때 실내 모습이에요.",
+   "teaser": "문은 위로 열려요 →",
+   "credit": "Dllu / CC BY-SA 4.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC004/photos/c5.jpg",
+   "pos": "center 55%",
+   "cap": "버터플라이 도어 · 2024년 전시",
+   "title": "문은 위로 여는<br><a>버터플라이 도어</a>",
+   "body": "양쪽 문이 나비 날개처럼 위로 열려 타고 내리기 쉬워요.<br>충전은 선 없이 하는 무선(유도) 충전을 염두에 둔 차로 소개됐어요.<br>다만 배터리 용량·주행거리는<br>테슬라가 공식 사양표로 공개하지 않았어요.",
+   "teaser": "가장 궁금한 가격은? →",
+   "credit": "Dllu / CC BY-SA 4.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC004/photos/c2.jpg",
+   "pos": "center 50%",
+   "cap": "뒷모습 · 2024년 공개 행사",
+   "title": "가격<br><a>2만9990달러</a> + 월 구독",
+   "body": "차값은 2만9990달러(약 4천만 원)예요.<br>여기에 자율주행 구독료가 매달 299달러 따로 붙어요.<br>머스크는 이 구독료가 “너무 높다”며<br>115달러 수준으로 내려야 한다고 했어요.",
+   "teaser": "언제부터 살 수 있을까? →",
+   "credit": "Steve Jurvetson / CC BY 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC004/photos/p1.jpg",
+   "pos": "center 40%",
+   "cap": "자료사진 · 댈러스 (운행 도시 중 한 곳)",
+   "title": "출시 일정<br><a>12월 첫 인도</a> 예정",
+   "body": "2024년 10월 공개 → 2026년 2분기 텍사스 공장 생산 시작<br>→ 7월 직원 탑승 → 9월 오스틴 로보택시 운행<br>→ 11월 13일 선별 고객 개인 사전 주문<br>→ 예상 인도는 12월이에요.",
+   "teaser": "그럼 한국엔? →",
+   "credit": "Pexels / Nuray"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC004/photos/p2.jpg",
+   "pos": "center 45%",
+   "cap": "자료사진 · 한국 도심",
+   "title": "한국엔 언제?<br><a>아직 계획 없음</a>",
+   "body": "11월 12~15일 스타필드 안성에서 국내에 처음 전시됐어요.<br>하지만 테슬라코리아는 “판매 차량이 아니다”라고 밝혔고<br>국내 출시나 운행 일정도 공개하지 않았어요.<br>지금 한국에선 구경만 가능한 차예요.",
+   "teaser": "장점과 단점 정리 →",
+   "credit": "Pexels / Timo Volz"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC004/photos/p3.jpg",
+   "pos": "center 30%",
+   "cap": "자료사진 · 차 안의 승객",
+   "title": "장점<br><a>운전은 차가 한다</a>",
+   "body": "① 운전대가 없으니 이동 시간에 쉬거나 일할 수 있어요.<br>② 차값이 3만 달러 수준으로 책정됐어요.<br>③ 운전대·페달 자리를 비워 실내 앞쪽이 탁 트였어요.<br>④ 테슬라 로보택시망에 바로 쓰이는 차예요.",
+   "teaser": "하지만 단점도 분명해요 →",
+   "credit": "Pexels / Ron Lach"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC004/photos/p4.jpg",
+   "pos": "center 50%",
+   "cap": "자료사진 · 지도",
+   "title": "단점<br><a>아직은 갈 수 있는 곳만</a>",
+   "body": "① 감독 없이 달리는 곳은 미국 8개 도시 구역뿐이에요.<br>② 차값과 별도로 매달 299달러 구독료가 들어요.<br>③ 2명만 탈 수 있고, 미국 당국(NHTSA)이 안전기준 조사에 착수했어요.<br>사이버캡, 사고 싶나요? 타보기만 하고 싶나요? 댓글로 👇",
+   "credit": "Pexels / Monstera Production"
+  }
+ ],
+ "end": {
+  "body2": "테슬라 좋아하는 <a>친구</a>에게 공유해요."
+ }
+}

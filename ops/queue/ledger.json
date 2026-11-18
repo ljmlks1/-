@@ -163,6 +163,24 @@
     "applied": false
    },
    "evidence": "ops/evidence/IC003.md"
+  },
+  {
+   "id": "IC004",
+   "account": "issue.ap",
+   "title": "운전대 없는 사이버캡 얼마고 언제 나오고 한국엔 언제? (10장 총정리)",
+   "version": "810f16639b4c",
+   "slides": 10,
+   "status": "delivered_for_manual_upload",
+   "by": "claude",
+   "requested_by_user": true,
+   "note": "IC003과 같은 소재 확장판 — 둘 중 하나만 게시 권장",
+   "created_kst": "2026-11-18T20:30",
+   "music": {
+    "pick": "Daft Punk - Robot Rock",
+    "alt": "Kraftwerk - Autobahn",
+    "applied": false
+   },
+   "evidence": "ops/evidence/IC004.md"
   }
  ]
 }
