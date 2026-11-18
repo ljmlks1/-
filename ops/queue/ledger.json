@@ -146,6 +146,23 @@
    "title": "김강우 처가 사위 라인업(옥문아)",
    "status": "held",
    "reason": "원방송 클립·독립 출처 미확보(마이데일리 단일+재가공 영상), CC 인물사진 없음(위키미디어 429)"
+  },
+  {
+   "id": "IC003",
+   "account": "issue.ap",
+   "title": "운전대 없는 테슬라 사이버캡 판매 시작 과연 내 차가 될까?",
+   "version": "c611220b050c",
+   "slides": 6,
+   "status": "delivered_for_manual_upload",
+   "by": "claude",
+   "requested_by_user": true,
+   "created_kst": "2026-11-18T19:45",
+   "music": {
+    "pick": "Daft Punk - Robot Rock",
+    "alt": "Kraftwerk - Autobahn",
+    "applied": false
+   },
+   "evidence": "ops/evidence/IC003.md"
   }
  ]
 }

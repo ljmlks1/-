@@ -1,0 +1,51 @@
+{
+ "brand": "issue",
+ "slug": "issue-cybercab",
+ "cover": {
+  "photo": "/home/user/-/ops/items/IC003/photos/c1.jpg",
+  "pos": "center 55%",
+  "tag": "테크 / 사이버캡 상용화",
+  "title": "운전대 없는 테슬라<br><a>사이버캡</a> 판매 시작<br>과연 내 차가 될까?",
+  "credit": "Daniel Lu / CC BY-SA 4.0"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/IC003/photos/c3.jpg",
+   "pos": "center 60%",
+   "cap": "2026년 6월 샌프란시스코의 사이버캡",
+   "title": "로보택시로<br><a>먼저 달렸다</a>",
+   "body": "테슬라는 2분기 텍사스 기가팩토리에서 사이버캡 생산을 시작했고<br>7월부터 공장 안에서 직원들을 태우기 시작했어요.<br>이후 9월 오스틴에서 로보택시로 운행을 시작했다고<br>연합뉴스와 외신이 전했어요.",
+   "teaser": "이제 개인에게도 판대요 →",
+   "credit": "9yz / CC BY 4.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC003/photos/c4.jpg",
+   "pos": "center 50%",
+   "cap": "사이버캡 실내 (2024년 공개 당시)",
+   "title": "운전대도 페달도<br><a>없는 2인승</a>",
+   "body": "사이버캡은 운전대와 페달 없이 AI로 움직이는 2인승 차예요.<br>지금까진 테슬라 차량공유 서비스로만 달렸는데,<br>11월 13일부터 선별된 고객에게<br>개인용 사전 주문을 받기 시작했어요.",
+   "teaser": "가격은 얼마일까? →",
+   "credit": "Dllu / CC BY-SA 4.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC003/photos/c5.jpg",
+   "pos": "center 55%",
+   "cap": "전시된 사이버캡 (2024년)",
+   "title": "차값 <a>2만9990달러</a><br>+ 매달 구독료",
+   "body": "차값은 2만9990달러(약 4천만 원),<br>여기에 자율주행 구독료가 매달 299달러 따로 붙어요.<br>예상 인도 시점은 12월이고,<br>한국에선 11월 12일 스타필드 안성에서 처음 전시됐어요.",
+   "teaser": "그런데 '과연?'인 이유 →",
+   "credit": "Dllu / CC BY-SA 4.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC003/photos/c2.jpg",
+   "pos": "center 50%",
+   "cap": "사이버캡 뒷모습 (2024년 공개 행사)",
+   "title": "아직은<br><a>정해진 구역</a>에서만",
+   "body": "감독 없이 달릴 수 있는 곳은 아직 미국 8개 도시 구역뿐이에요.<br>(텍사스 오스틴·댈러스 등 5곳, 플로리다 마이애미 등 3곳)<br>머스크도 구독료가 “너무 높다”며 115달러로 내려야 한다고 했어요.<br>운전대 없는 차, 타보고 싶나요? 댓글로 남겨주세요 👇",
+   "credit": "Steve Jurvetson / CC BY 2.0"
+  }
+ ],
+ "end": {
+  "body2": "테슬라 좋아하는 <a>친구</a>에게 공유해요."
+ }
+}
