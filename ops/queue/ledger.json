@@ -202,6 +202,16 @@
     "d9cc38e39538"
    ],
    "note": "장단점 제거, 단종 후 가격 질문으로 마무리(사용자 요청)"
+  },
+  {
+   "id": "IC006",
+   "account": "issue.ap",
+   "title": "GTA6 사전예약 2조원",
+   "slides": 10,
+   "status": "delivered_for_manual_upload",
+   "date": "2026-11-18",
+   "files": "ops/items/IC006",
+   "zip": "downloads/이슈압축_GTA6.zip"
   }
  ]
 }
