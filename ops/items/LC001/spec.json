@@ -1,6 +1,44 @@
-{"brand":"humor","slug":"humor-khy-mom",
-"cover":{"photo":"ops/items/LC001/photos/khy2026.jpg","pos":"center 22%","tag":"예능 / 살롱드립","title":"대학 1차 떨어져서<br>거실에서 오열했더니<br><a>엄마 반응</a>ㅋㅋ","credit":"K-POPit 티비텐 / CC BY 3.0"},
-"pages":[
-{"photo":"ops/items/LC001/photos/khy2022.jpg","pos":"center 18%","cap":"자료사진 · 김혜윤 (2022)","title":"울던 딸에게<br>엄마가 건넨 <a>한마디</a>","body":"두 곳 중 한 곳 1차에서 떨어지고<br>나머지도 붙을지 모르던 상황.<br>거실에서 엉엉 울던 김혜윤에게 엄마는<br>“그러면 수능 봐야겠네. 문제집 펴”","teaser":"그 말을 들은 김혜윤은? →","credit":"K-POPIT 케이팝잇 TV10 / CC BY 3.0"},
-{"photo":"ops/items/LC001/photos/jnr2019.jpg","pos":"center 20%","cap":"자료사진 · 함께 출연한 장나라 (2019)","title":"눈물 닦고<br><a>바로 현실 모드</a>","body":"엄마 말에 바로 눈물을 닦았다는 김혜윤.<br>“울어서 해결되는 건 없다”는 생각이 들었대요.<br>11월 17일 공개된 살롱드립에서 장나라와 함께 꺼낸 이야기,<br>두 사람은 ‘굿파트너2’로 11월 20일 돌아와요.","teaser":"여러분 엄마의 현실 한마디는? 댓글로 알려주세요 👇","credit":"뉴스인스타 / CC BY 3.0"}],
-"end":{"body2":"함께 웃을 <a>친구</a>에게 공유해요."}}
+{
+ "brand": "humor",
+ "slug": "humor-khy-mom",
+ "cover": {
+  "photo": "/home/user/-/ops/items/LC001/photos/khy2026.jpg",
+  "pos": "center 22%",
+  "tag": "예능 / 살롱드립",
+  "title": "대학 1차 떨어져서<br>거실에서 오열했더니<br><a>엄마 반응</a>ㅋㅋ",
+  "credit": "K-POPit 티비텐 / CC BY 3.0"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/LC001/photos/salon-ep164-thumb.jpg",
+   "pos": "center",
+   "cap": "TEO 살롱드립 EP.164 공식 썸네일",
+   "title": "울던 딸에게<br>엄마가 건넨 <a>한마디</a>",
+   "body": "두 곳 중 한 곳 1차에서 떨어지고<br>나머지도 붙을지 모르던 상황.<br>거실에서 엉엉 울던 김혜윤에게 엄마는<br>“그러면 수능 봐야겠네. 문제집 펴”",
+   "teaser": "그 말을 들은 김혜윤은? →",
+   "credit": "TEO 테오 (YouTube)"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC001/photos/khy2022.jpg",
+   "pos": "center 18%",
+   "cap": "자료사진 · 김혜윤 (2022)",
+   "title": "눈물 닦고<br><a>바로 현실 모드</a>",
+   "body": "엄마 말에 바로 눈물을 닦았다는 김혜윤.<br>“울어서 해결되는 건 없다”는 생각이 들었대요.<br>11월 17일 공개된 살롱드립에서<br>장나라와 함께 꺼낸 이야기예요.",
+   "teaser": "두 사람이 함께 돌아오는 작품은? →",
+   "credit": "K-POPIT 케이팝잇 TV10 / CC BY 3.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC001/photos/gp2-poster.jpg",
+   "imgstyle": "filter:blur(16px) brightness(.4)",
+   "figure": "/home/user/-/ops/items/LC001/photos/gp2-poster.jpg",
+   "cap": "SBS ‘굿파트너2’ 공식 메인 포스터",
+   "title": "두 사람이 만나는<br><a>굿파트너2</a>",
+   "body": "장나라는 이혼 전문 로펌 ‘리봄’ 대표 차은경,<br>김혜윤은 5년 차 변호사 강혜성으로 만나요.<br>SBS 금토드라마 ‘굿파트너2’<br>11월 20일 금요일 밤 9시 50분 첫 방송",
+   "teaser": "여러분 엄마의 현실 한마디는? 댓글로 알려주세요 👇",
+   "credit": "사진=SBS"
+  }
+ ],
+ "end": {
+  "body2": "함께 웃을 <a>친구</a>에게 공유해요."
+ }
+}
