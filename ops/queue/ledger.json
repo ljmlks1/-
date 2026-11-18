@@ -113,7 +113,7 @@
    "title": "단추로 찍고 AI가 풀고 이어폰으로 받았다 세무사 시험 수석",
    "version": "cabc994c1eb5",
    "slides": 6,
-   "status": "awaiting_approval",
+   "status": "delivered_for_manual_upload",
    "by": "claude",
    "created_kst": "2026-11-18T12:20",
    "delivery": "manual_upload (vidIQ issue.ap 토큰 만료)",
@@ -123,6 +123,29 @@
     "applied": false
    },
    "evidence": "ops/evidence/IC001.md"
+  },
+  {
+   "id": "IC002",
+   "account": "issue.ap",
+   "title": "내일 오후 1시 10분 비행기 이착륙이 멈추는 이유",
+   "version": "d2107f01765c",
+   "slides": 6,
+   "status": "delivered_for_manual_upload",
+   "by": "claude",
+   "created_kst": "2026-11-18T18:55",
+   "music": {
+    "pick": "DAY6 - 한 페이지가 될 수 있게",
+    "alt": "볼빨간사춘기 - 여행",
+    "applied": false
+   },
+   "evidence": "ops/evidence/IC002.md"
+  },
+  {
+   "id": "LC002-held",
+   "account": "legendhumormeme",
+   "title": "김강우 처가 사위 라인업(옥문아)",
+   "status": "held",
+   "reason": "원방송 클립·독립 출처 미확보(마이데일리 단일+재가공 영상), CC 인물사진 없음(위키미디어 429)"
   }
  ]
 }
