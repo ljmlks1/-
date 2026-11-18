@@ -86,8 +86,8 @@
    "id": "LC001",
    "account": "legendhumormeme",
    "platformAccountId": "29028458450154197",
-   "title": "김혜윤 대학 1차 탈락 오열, 엄마 반응",
-   "version": "7a41e65f6ffc",
+   "title": "1차 떨어져 우는 김혜윤에게 엄마의 위로는 “문제집 펴”",
+   "version": "cf93d3001ee7",
    "slides": 5,
    "status": "awaiting_approval",
    "by": "claude",
@@ -100,7 +100,8 @@
    },
    "evidence": "ops/evidence/LC001.md",
    "prev_versions": [
-    "526dcc9eeb0c"
+    "526dcc9eeb0c",
+    "7a41e65f6ffc"
    ],
    "rights_hold": "2장 TEO 공식 썸네일, 4장 SBS 공식 포스터: 사용자 요청으로 넣었으나 인스타 재사용 권리 미확인"
   }
