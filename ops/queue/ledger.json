@@ -106,6 +106,23 @@
    "publicationId": "51d4e219-df89-4673-9ddf-b24b5b6e0980",
    "url": "https://www.instagram.com/p/Df3P_VkiTON/",
    "published_at": "2026-11-18T09:47+09:00"
+  },
+  {
+   "id": "IC001",
+   "account": "issue.ap",
+   "title": "단추로 찍고 AI가 풀고 이어폰으로 받았다 세무사 시험 수석",
+   "version": "cabc994c1eb5",
+   "slides": 6,
+   "status": "awaiting_approval",
+   "by": "claude",
+   "created_kst": "2026-11-18T12:20",
+   "delivery": "manual_upload (vidIQ issue.ap 토큰 만료)",
+   "music": {
+    "pick": "Hans Zimmer - Time",
+    "alt": "Ludwig Göransson - Can You Hear The Music",
+    "applied": false
+   },
+   "evidence": "ops/evidence/IC001.md"
   }
  ]
 }

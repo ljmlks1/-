@@ -1,0 +1,51 @@
+{
+ "brand": "issue",
+ "slug": "issue-aicheat",
+ "cover": {
+  "photo": "/home/user/-/ops/items/IC001/photos/a1.jpg",
+  "pos": "center 40%",
+  "tag": "사회 / 시험장 AI 커닝",
+  "title": "단추로 찍고, AI가 풀고<br>이어폰으로 받았다<br><a>세무사 시험 수석</a>",
+  "credit": "자료사진 · Pexels / RDNE Stock project"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/IC001/photos/a2.jpg",
+   "pos": "center 45%",
+   "cap": "자료사진 · 단추 (실제 기기 아님)",
+   "title": "단추 속<br><a>초소형 카메라</a>",
+   "body": "올해 세무사 1차 시험 수석 합격자는<br>단추에 숨긴 초소형 카메라로 문제를 찍어 AI에 보내고<br>초소형 이어폰으로 답을 받았다고 자백했어요.<br>400점 만점에 397.5점이었어요.",
+   "teaser": "그런데 고득점자가 이 한 명뿐이 아니었어요 →",
+   "credit": "Pexels / kaboompics"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC001/photos/a7.jpg",
+   "pos": "center 60%",
+   "cap": "자료사진 · 시험 답안지",
+   "title": "90점 이상<br><a>2명 → 66명</a>",
+   "body": "세무사 1차 회계학개론 90점 이상 득점자는<br>2024년 1명, 2025년 2명에서 올해 66명이 됐어요.<br>다만 공단은 아직 추가 부정행위를 뒷받침할<br>구체적 증거는 확인되지 않았다는 입장이에요.",
+   "teaser": "이 수법, 해외에선 이미 나왔어요 →",
+   "credit": "Pexels / Andy Barbour"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC001/photos/a5.jpg",
+   "pos": "center 50%",
+   "cap": "자료사진 · 지구본",
+   "title": "해외에선<br><a>2년 전부터</a>",
+   "body": "2024년 튀르키예에선 단추 카메라로 AI 커닝한 수험생이 구속됐고,<br>일본 와세다대는 스마트안경 촬영 응시생의 결과를 무효로 했어요.<br>프랑스 2025년 바칼로레아 징계 회부 833건 중<br>8.5%가 AI 부정행위였어요.",
+   "teaser": "그럼 내일 수능은? →",
+   "credit": "Pexels / Lara Jameson"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC001/photos/a6.jpg",
+   "pos": "center 50%",
+   "cap": "자료사진 · 통신 기지국",
+   "title": "수능 앞두고<br><a>통신 차단</a> 검토",
+   "body": "정부는 수능일 스마트기기 반납·와이파이 차단을 검토해요.<br>다만 LTE·5G 이동통신망은 그대로라 실효성 지적도 있어요.<br>대통령은 신고 시 최소 1억 원 포상도 검토하라고 했어요.<br>시험장 AI 커닝, 어떻게 막아야 할까요? 댓글로 남겨주세요 👇",
+   "credit": "Pexels / KURDISTAN"
+  }
+ ],
+ "end": {
+  "body2": "수험생 <a>친구</a>에게 공유해요."
+ }
+}
