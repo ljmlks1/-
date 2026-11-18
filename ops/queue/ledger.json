@@ -86,9 +86,9 @@
    "id": "LC001",
    "account": "legendhumormeme",
    "platformAccountId": "29028458450154197",
-   "title": "1차 떨어져 우는 김혜윤에게 엄마의 위로는 “문제집 펴”",
-   "version": "cf93d3001ee7",
-   "slides": 5,
+   "title": "시청률 17.7% 그 드라마 장나라 새 파트너는 김혜윤",
+   "version": "33d27642ea1a",
+   "slides": 6,
    "status": "awaiting_approval",
    "by": "claude",
    "created_kst": "2026-11-18T09:30",
@@ -101,9 +101,10 @@
    "evidence": "ops/evidence/LC001.md",
    "prev_versions": [
     "526dcc9eeb0c",
-    "7a41e65f6ffc"
+    "7a41e65f6ffc",
+    "cf93d3001ee7"
    ],
-   "rights_hold": "2장 TEO 공식 썸네일, 4장 SBS 공식 포스터: 사용자 요청으로 넣었으나 인스타 재사용 권리 미확인"
+   "rights_hold": "표지 포스터·5장 스틸(SBS), 2장 썸네일(TEO) 재사용 허락 미확인"
   }
  ]
 }
