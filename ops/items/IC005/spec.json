@@ -1,0 +1,87 @@
+{
+ "brand": "issue",
+ "slug": "issue-cybertruck",
+ "cover": {
+  "photo": "/home/user/-/ops/items/IC005/photos/t7.jpg",
+  "pos": "center 55%",
+  "tag": "테크 / 사이버트럭 총정리",
+  "title": "1억4500만원 사이버트럭<br>내년 여름 <a>생산 종료</a><br>지금 사도 될까?",
+  "credit": "자료사진 · Pexels / David Pickup"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/IC005/photos/t3.jpg",
+   "pos": "center 55%",
+   "cap": "외관 · 정면",
+   "title": "디자인<br><a>스테인리스 외골격</a>",
+   "body": "차체를 스테인리스 스틸 외골격(엑소스켈레톤)으로 만들었어요.<br>직선만 살린 각진 디자인에,<br>앞뒤를 가로지르는 라이트 바는<br>사이버트럭에서 처음 선보였어요.",
+   "teaser": "안은 어떨까? →",
+   "credit": "Pexels / paashuu"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC005/photos/t2.jpg",
+   "pos": "center 40%",
+   "cap": "실내 · 운전석",
+   "title": "실내<br><a>각진 핸들</a>과 큰 화면",
+   "body": "핸들·콘솔·컵홀더까지 각진 디자인으로 통일했어요.<br>‘스티어 바이 와이어’ 방식이라<br>핸들을 340도 이하만 돌려도 충분히 회전해요.<br>어댑티브 에어 서스펜션도 들어갔어요.",
+   "teaser": "성능은? →",
+   "credit": "Pexels / paashuu"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC005/photos/t1.jpg",
+   "pos": "center 50%",
+   "cap": "외관 · 측면",
+   "title": "스펙<br>무게 3.9t인데 <a>제로백 2.7초</a>",
+   "body": "사이버비스트(트라이 모터): 0→100km/h 약 2.7초, 최고 209km/h<br>AWD(듀얼 모터): 최고 180km/h<br>견인력은 5t에 육박하고 적재 공간은 3400L가 넘어요.<br>테슬라 최초로 외부 전력 공급(V2L) 기능도 넣었어요.",
+   "teaser": "한 번 충전하면? →",
+   "credit": "Pexels / paashuu"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC005/photos/t5.jpg",
+   "pos": "center 50%",
+   "cap": "앞바퀴와 라이트 바",
+   "title": "주행거리<br><a>최대 520km</a>",
+   "body": "국내 기준 AWD는 1회 충전에 약 520km,<br>사이버비스트는 약 496km를 달릴 수 있다고 발표됐어요.<br>(2025년 8월 출시 당시 테슬라코리아 발표 기준,<br>당시 정부 인증 진행 중이던 수치)",
+   "teaser": "한국 가격은? →",
+   "credit": "Pexels / paashuu"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC005/photos/t4.jpg",
+   "pos": "center 50%",
+   "cap": "전시된 사이버트럭",
+   "title": "한국 가격<br><a>1억4500만원</a>부터",
+   "body": "2025년 8월 테슬라코리아가 국내 출시를 발표했어요.<br>AWD 1억4500만원, 사이버비스트 1억6000만원.<br>2025년 11월 말 국내 첫 공식 인도 행사가 열렸어요.<br>미국 출시(2023년 말) 약 2년 만이에요.",
+   "teaser": "그런데 생산이 끝난대요 →",
+   "credit": "Pexels / paashuu"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC005/photos/t6.jpg",
+   "pos": "center 50%",
+   "cap": "사이드미러에 비친 사이버트럭",
+   "title": "내년 여름<br><a>생산 종료</a> 예정",
+   "body": "머스크는 11월 X(옛 트위터)에서 2027년 6~7월쯤<br>텍사스 공장의 사이버트럭 라인을 닫고<br>그 자리에서 로보택시 ‘사이버캡’을 더 만들겠다고 밝혔어요.<br>주문을 다 소화하기 어려워 일부 예약금은 환불한대요.",
+   "teaser": "그래서 장점과 단점은 →",
+   "credit": "Pexels / paashuu"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC005/photos/tow.jpg",
+   "pos": "center 50%",
+   "cap": "자료사진 · 트레일러 견인",
+   "title": "장점<br><a>힘·공간·전기</a>",
+   "body": "① 5t에 육박하는 견인력과 3400L 넘는 적재 공간<br>② 캠핑 등에서 전기를 끌어 쓰는 V2L<br>③ 무게 3.9t에도 제로백 2.7초(사이버비스트)<br>④ 어디서든 눈에 띄는 스테인리스 디자인",
+   "teaser": "단점도 확실해요 →",
+   "credit": "Pexels / Amar Preciado"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC005/photos/park.jpg",
+   "pos": "center 50%",
+   "cap": "자료사진 · 지하주차장",
+   "title": "단점<br><a>가격·무게·판매</a>",
+   "body": "① 국내 가격 1억4500만원부터로 비싸요.<br>② 3.9t의 무게는 일반 승용차와 차원이 달라요.<br>③ 미국 판매가 2025년 2만237대로 48% 줄었어요(켈리블루북).<br>내년 단종 앞둔 사이버트럭, 사겠나요? 댓글로 👇",
+   "credit": "Pexels / liathyrax"
+  }
+ ],
+ "end": {
+  "body2": "차 좋아하는 <a>친구</a>에게 공유해요."
+ }
+}

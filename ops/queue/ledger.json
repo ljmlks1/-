@@ -181,6 +181,23 @@
     "applied": false
    },
    "evidence": "ops/evidence/IC004.md"
+  },
+  {
+   "id": "IC005",
+   "account": "issue.ap",
+   "title": "1억4500만원 사이버트럭 내년 여름 생산 종료 지금 사도 될까?",
+   "version": "d9cc38e39538",
+   "slides": 10,
+   "status": "delivered_for_manual_upload",
+   "by": "claude",
+   "requested_by_user": true,
+   "created_kst": "2026-11-18T21:30",
+   "music": {
+    "pick": "AC/DC - Thunderstruck",
+    "alt": "Imagine Dragons - Thunder",
+    "applied": false
+   },
+   "evidence": "ops/evidence/IC005.md"
   }
  ]
 }
