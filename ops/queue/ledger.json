@@ -188,7 +188,7 @@
    "title": "1억4500만원 사이버트럭 내년 여름 생산 종료 지금 사도 될까?",
    "version": "cad259aaf0fd",
    "slides": 8,
-   "status": "scheduled",
+   "status": "schedule_failed",
    "by": "claude",
    "requested_by_user": true,
    "created_kst": "2026-11-18T21:30",
@@ -203,7 +203,8 @@
    ],
    "note": "장단점 제거, 단종 후 가격 질문으로 마무리(사용자 요청)",
    "vidiq_postId": "3123d05a-fd81-4d55-8c99-dde8443cec61",
-   "scheduledFor": "2026-11-19T08:00+09:00"
+   "scheduledFor": "2026-11-19T08:00+09:00",
+   "failure": "Instagram could not process the media (ERROR), 2 attempts, 2026-11-19 08:00 KST"
   },
   {
    "id": "IC006",
