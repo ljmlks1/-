@@ -186,8 +186,8 @@
    "id": "IC005",
    "account": "issue.ap",
    "title": "1억4500만원 사이버트럭 내년 여름 생산 종료 지금 사도 될까?",
-   "version": "d9cc38e39538",
-   "slides": 10,
+   "version": "cad259aaf0fd",
+   "slides": 8,
    "status": "delivered_for_manual_upload",
    "by": "claude",
    "requested_by_user": true,
@@ -197,7 +197,11 @@
     "alt": "Imagine Dragons - Thunder",
     "applied": false
    },
-   "evidence": "ops/evidence/IC005.md"
+   "evidence": "ops/evidence/IC005.md",
+   "prev_versions": [
+    "d9cc38e39538"
+   ],
+   "note": "장단점 제거, 단종 후 가격 질문으로 마무리(사용자 요청)"
   }
  ]
 }
