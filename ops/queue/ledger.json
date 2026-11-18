@@ -81,6 +81,24 @@
    "approved_by_user": "2026-11-14",
    "url": "https://www.instagram.com/p/DfuBa-nlrOO/",
    "published_at": "2026-11-14T19:45:00+09:00"
+  },
+  {
+   "id": "LC001",
+   "account": "legendhumormeme",
+   "platformAccountId": "29028458450154197",
+   "title": "김혜윤 대학 1차 탈락 오열, 엄마 반응",
+   "version": "526dcc9eeb0c",
+   "slides": 4,
+   "status": "awaiting_approval",
+   "by": "claude",
+   "created_kst": "2026-11-18T09:30",
+   "proposed_slot": "2026-11-18T12:37:00+09:00",
+   "music": {
+    "pick": "장나라 - Sweet Dream",
+    "alt": "장나라 - 고백",
+    "applied": false
+   },
+   "evidence": "ops/evidence/LC001.md"
   }
  ]
 }
