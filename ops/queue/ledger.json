@@ -89,7 +89,7 @@
    "title": "시청률 17.7% 그 드라마 장나라 새 파트너는 김혜윤",
    "version": "33d27642ea1a",
    "slides": 6,
-   "status": "awaiting_approval",
+   "status": "in_progress",
    "by": "claude",
    "created_kst": "2026-11-18T09:30",
    "proposed_slot": "2026-11-18T12:37:00+09:00",
@@ -104,7 +104,10 @@
     "7a41e65f6ffc",
     "cf93d3001ee7"
    ],
-   "rights_hold": "표지 포스터·5장 스틸(SBS), 2장 썸네일(TEO) 재사용 허락 미확인"
+   "rights_hold": "표지 포스터·5장 스틸(SBS), 2장 썸네일(TEO) 재사용 허락 미확인",
+   "approved_by_user": "2026-11-18 v4 33d27642ea1a",
+   "vidiq_postId": "ebc5a979-bb7c-4928-bafc-d15660b9b6bd",
+   "publicationId": "51d4e219-df89-4673-9ddf-b24b5b6e0980"
   }
  ]
 }
