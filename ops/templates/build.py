@@ -85,7 +85,7 @@ def build(spec, outdir, ratio="4:5"):
                      + footer(b,p["credit"],i,total) + '</div>')
     e = spec["end"]
     endbody = e.get("body2", "")
-    cards.append(f'<div class=card><div class=end-bg style="background-image:url({uri(c["photo"])})"></div><div class=end-c>'
+    cards.append(f'<div class=card><div class=end-bg style="background-image:url({uri(e.get("photo", c["photo"]))})"></div><div class=end-c>'
                  f'<div class=e1>{b["endL1"]}</div><div class=e2>{acc(b["endL2"])}</div>'
                  f'<div class=erow><img src="{uri(b["logoL"])}"><span>{b["name"]}</span></div><div class=esub>{b["sub"]}</div><div class=ediv></div>'
                  f'<div class=ebody>팔로우하고 다음 이야기도 만나보세요.<br>{acc(endbody)}</div><div class=ehandle>{b["handle"]}</div></div>'
