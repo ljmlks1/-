@@ -316,11 +316,13 @@
    "account": "issue.ap",
    "title": "리트 만점자 숨진 채 발견 (뉴스 요약, 추모)",
    "slides": 5,
-   "status": "delivered_for_manual_upload",
+   "status": "vidiq_publish_failed",
    "date": "2026-11-19",
    "files": "ops/items/IC012",
    "zip": "downloads/이슈압축_리트만점자.zip",
-   "by": "claude"
+   "by": "claude",
+   "vidiq_postId": "4bab2817-507e-4b5f-a69a-d8d94ac26531",
+   "failure": "Instagram could not process the media (ERROR) + rate limit, 2 attempts — issue.ap 계정 반복 증상"
   },
   {
    "id": "IC013",
