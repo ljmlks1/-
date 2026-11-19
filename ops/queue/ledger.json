@@ -321,6 +321,61 @@
    "files": "ops/items/IC012",
    "zip": "downloads/이슈압축_리트만점자.zip",
    "by": "claude"
+  },
+  {
+   "id": "IC013",
+   "account": "issue.ap",
+   "title": "엔진엑스 취약점 AI 90분",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "date": "2026-11-19",
+   "files": "ops/items/IC013",
+   "zip": "downloads/이슈압축_엔진엑스.zip",
+   "by": "claude",
+   "blog_id": "2026-11-19_X1",
+   "source": "blog"
+  },
+  {
+   "id": "IC014",
+   "account": "issue.ap",
+   "title": "우주 핵폭발 위성 98%",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "date": "2026-11-19",
+   "files": "ops/items/IC014",
+   "zip": "downloads/이슈압축_우주핵폭발.zip",
+   "by": "claude",
+   "blog_id": "2026-11-19_X2",
+   "source": "blog"
+  },
+  {
+   "id": "IC015",
+   "account": "issue.ap",
+   "title": "탈모 전자빗 98%",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "date": "2026-11-19",
+   "files": "ops/items/IC015",
+   "zip": "downloads/이슈압축_전자빗.zip",
+   "by": "claude",
+   "blog_id": "2026-11-19_X3",
+   "source": "blog"
+  },
+  {
+   "id": "LC005",
+   "account": "legendhumormeme",
+   "title": "김연자 컬투쇼 재난문자",
+   "slides": 6,
+   "status": "delivered_for_manual_upload",
+   "date": "2026-11-19",
+   "files": "ops/items/LC005",
+   "zip": "downloads/유머밈_김연자.zip",
+   "by": "claude"
+  },
+  {
+   "id": "RUN-2026-11-19-1837-issue-pick",
+   "status": "skipped",
+   "note": "블로그 이슈 캐러셀 3건이 같은 회차에 있어 네이버 이슈 별도 제작 생략 (리트 만점자 관련은 IC012로 이미 전달)"
   }
  ]
 }

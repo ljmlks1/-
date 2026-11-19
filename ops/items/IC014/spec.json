@@ -1,0 +1,70 @@
+{
+ "brand": "issue",
+ "slug": "issue-space-nuke",
+ "cover": {
+  "photo": "/home/user/-/ops/items/IC014/photos/cover.jpg",
+  "pos": "center 50%",
+  "tag": "과학 / 물리학자 시뮬레이션",
+  "title": "우주 핵폭탄 한 발에<br>위성 <a>98%</a>가 멈춘다?",
+  "credit": "자료사진 · Pexels / Adis Resic"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/IC014/photos/p1.jpg",
+   "pos": "center 45%",
+   "cap": "자료사진 · CG",
+   "title": "단 한 발, <a>일주일</a>이면 끝",
+   "body": "미국 위스콘신-매디슨대·프린스턴대 연구진이 남대서양 상공<br>약 500km에서 1메가톤 핵폭발이 일어나는 상황을 계산했어요.<br>결과는 일주일 안에 위성 약 98% 기능 상실.<br>지금 저궤도엔 위성 약 1만7,776개가 떠 있어요.",
+   "teaser": "왜 이렇게 치명적? →",
+   "credit": "Pexels / HumanoideVFX"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC014/photos/p2.jpg",
+   "pos": "center 50%",
+   "cap": "자료사진 · 지구 궤도",
+   "title": "무서운 건 <a>남는 방사선</a>",
+   "body": "폭발 순간보다 핵분열 물질에서 나온 전자가 문제예요.<br>지구 자기장에 갇혀 ‘인공 방사선대’를 만들고,<br>그 안을 지나는 위성이 계속 방사선을 맞아요.<br>3배 튼튼하게 만들어도 2주 안에 약 97%가 고장.",
+   "teaser": "그다음엔 →",
+   "credit": "Pexels / Colin Jones"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC014/photos/p3.jpg",
+   "pos": "center 50%",
+   "cap": "자료사진 · 우주",
+   "title": "충돌 <a>20배</a> 우주 교통사고",
+   "body": "고장 난 위성은 방향을 못 틀어 서로 부딪히기 쉬워요.<br>핵폭발 뒤 2년간 약 20건 충돌, 그중 약 19건이 첫해에.<br>핵폭발이 없으면 약 1건 수준이에요.",
+   "teaser": "새로 쏘면 되지 않나? →",
+   "credit": "Pexels / Colin Jones"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC014/photos/p4.jpg",
+   "pos": "center 50%",
+   "cap": "자료사진 · 로켓 발사",
+   "title": "새로 쏴도 <a>소용없다</a>",
+   "body": "방사선대가 남아 있으면 새 위성도 들어가는 순간 똑같이 당해요.<br>영국 노팅엄대 전문가는 궤도 복구에 수년이 걸릴 거라고 봤어요.<br>우주 쓰레기와 방사선을 동시에 피해야 해서<br>복구가 훨씬 어렵대요.",
+   "teaser": "실제로 있었던 일 →",
+   "credit": "Pexels / Pixabay"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC014/photos/p5.jpg",
+   "pos": "center 50%",
+   "cap": "자료사진 · 발사대",
+   "title": "1962년 <a>진짜 있었다</a>",
+   "body": "미국은 1962년 7월 9일 태평양 상공 약 400km에서<br>1.4메가톤 핵실험 ‘스타피시 프라임’을 했고, 방사선대가 생겼어요.<br>1963년 우주 핵실험 금지 조약이 맺어졌지만,<br>2024년 러시아는 궤도 핵무기 금지 결의안에 거부권을 썼어요.",
+   "teaser": "지금 걱정해야 할까 →",
+   "credit": "Pexels / Pixabay"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC014/photos/p6.jpg",
+   "pos": "center 45%",
+   "cap": "자료사진 · 내비게이션",
+   "title": "지금 <a>걱정해야 할까?</a>",
+   "body": "위성이 멈추면 내비·배달앱, 결제 시간 신호, 위성 인터넷,<br>기상 예보까지 흔들릴 수 있어요(위성의 일반적 쓰임 기준).<br>다만 이 논문은 아직 동료 심사 전이고,<br>실제 위협이 아닌 ‘만약’의 계산이에요.",
+   "teaser": "",
+   "credit": "Pexels / Athena Sandrini"
+  }
+ ],
+ "end": {
+  "body2": "과학 좋아하는 <a>친구</a>에게 공유해요."
+ }
+}
