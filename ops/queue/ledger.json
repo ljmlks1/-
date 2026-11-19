@@ -253,13 +253,15 @@
    "account": "legendhumormeme",
    "title": "와인 심장병 위험 (IC008 유머밈 버전)",
    "slides": 6,
-   "status": "draft_awaiting_approval",
+   "status": "published",
    "vidiq_postId": "18f47a0e-2f40-4516-9035-8381eeb12ed2",
    "revision": "1e59d3f3",
    "date": "2026-11-19",
    "files": "ops/items/LC004",
    "zip": "downloads/유머밈_와인.zip",
-   "by": "claude"
+   "by": "claude",
+   "url": "https://www.instagram.com/p/Df6QONNjVX3/",
+   "published_at": "2026-11-19T13:50+09:00"
   },
   {
    "id": "IC009",
