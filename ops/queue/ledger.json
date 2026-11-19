@@ -225,6 +225,28 @@
    "date": "2026-11-19",
    "files": "ops/items/IC007",
    "zip": "downloads/이슈압축_네안데르탈인.zip"
+  },
+  {
+   "id": "LC003",
+   "account": "legendhumormeme",
+   "title": "배종옥 밴에 꿀 + 송혜교",
+   "slides": 6,
+   "status": "delivered_for_manual_upload",
+   "date": "2026-11-19",
+   "files": "ops/items/LC003",
+   "zip": "downloads/유머밈_밴에꿀.zip",
+   "by": "claude"
+  },
+  {
+   "id": "IC008",
+   "account": "issue.ap",
+   "title": "술 종류별 심장병 사망 위험",
+   "slides": 6,
+   "status": "delivered_for_manual_upload",
+   "date": "2026-11-19",
+   "files": "ops/items/IC008",
+   "zip": "downloads/이슈압축_와인.zip",
+   "by": "claude"
   }
  ]
 }

@@ -1,0 +1,50 @@
+{
+ "brand": "issue",
+ "slug": "issue-alcohol-type",
+ "cover": {
+  "photo": "/home/user/-/ops/items/IC008/photos/wine.jpg",
+  "pos": "center 50%",
+  "tag": "건강 / 34만 명 13년 추적",
+  "title": "같은 술인데<br><a>와인</a>만 심장병 위험 낮았다?",
+  "credit": "자료사진 · Pexels / Monstera Production"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/IC008/photos/heart.jpg",
+   "pos": "center 40%",
+   "cap": "자료사진 · 심장 건강",
+   "title": "<a>34만 명</a>을 13년 지켜봤다",
+   "body": "중국 중남대 샹야2병원 잔링 천 교수 연구팀이<br>영국 바이오뱅크 성인 34만924명의 음주 습관과<br>사망 원인을 평균 13년 넘게 추적했어요.<br>올해 미국심장학회(ACC)에서 발표된 결과예요.",
+   "teaser": "많이 마시면? →",
+   "credit": "Pexels / Kaboompics"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC008/photos/whisky.jpg",
+   "pos": "center 50%",
+   "cap": "자료사진 · 증류주",
+   "title": "과음은 <a>술 종류 상관없이</a> 위험",
+   "body": "거의 안 마시는 사람과 비교해 과음하는 사람은<br>전체 사망 위험 24%, 암 사망 36%,<br>심혈관 사망 위험 14%가 높았어요.<br>여기선 와인이든 맥주든 차이가 없었어요.",
+   "teaser": "적당히 마시면 달라진대요 →",
+   "credit": "Pexels / Gilario Guevara"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC008/photos/beer.jpg",
+   "pos": "center 45%",
+   "cap": "자료사진 · 맥주",
+   "title": "와인 <a>21%↓</a> vs 맥주·증류주 9%↑",
+   "body": "적당량 와인을 마시는 사람은 심혈관 사망 위험이 21% 낮았고,<br>맥주·사과주·증류주는 조금만 마셔도 9% 높았어요.<br>(적당량 기준: 남성 하루 알코올 20~40g, 여성 10~20g<br>· 술 한 잔은 보통 알코올 약 14g)",
+   "teaser": "왜 와인만? →",
+   "credit": "Pexels / Darlene Alderson"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC008/photos/meal.jpg",
+   "pos": "center 50%",
+   "cap": "자료사진 · 식사와 와인",
+   "title": "와인이 약? <a>그건 아니에요</a>",
+   "body": "연구진은 와인 속 폴리페놀, 식사와 함께 마시는 습관,<br>와인 마시는 사람의 건강한 생활습관을 이유로 꼽았어요.<br>다만 관찰 연구라 인과관계를 증명한 건 아니에요.<br>여러분은 소주파? 맥주파? 와인파? 👇",
+   "teaser": "",
+   "credit": "Pexels / Jep Gambardella"
+  }
+ ],
+ "end": {"body2": "술 좋아하는 <a>친구</a>에게 공유해요."}
+}

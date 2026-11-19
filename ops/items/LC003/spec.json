@@ -1,0 +1,50 @@
+{
+ "brand": "humor",
+ "slug": "humor-van-honey",
+ "cover": {
+  "photo": "/home/user/-/ops/items/LC003/photos/van.jpg",
+  "pos": "center 55%",
+  "tag": "배종옥 · 송혜교",
+  "title": "“밴에 꿀 발라놨니?”<br>배종옥 일침에 <a>송혜교</a> 소환",
+  "credit": "자료사진 · Pexels / Михаил Косолапович"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/LC003/photos/set.jpg",
+   "pos": "center 50%",
+   "cap": "자료사진 · 촬영 현장",
+   "title": "“차에 <a>뭐가 붙어 있니?</a>”",
+   "body": "18일 영화 ‘완벽한 집’ 언론시사회에서 배종옥이<br>“요즘 젊은 배우들이 밴에 꿀을 묻혀놨는지<br>차 안에만 있다가 촬영한다고 하면 겨우 나온다”며<br>답답해서 “네가 탄 차에 뭐가 붙어 있니?”라고 할 정도래요.",
+   "teaser": "본인은 어떻게 하냐면 →",
+   "credit": "Pexels / Elias Cherian"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC003/photos/cam.jpg",
+   "pos": "center 45%",
+   "cap": "자료사진 · 촬영 모니터",
+   "title": "배종옥은 <a>세트에서 산다</a>",
+   "body": "“현장에 오면 현장에 있는다.<br>극 중 내 침대에서 자고, 내 소파에서 커피를 마신다.”<br>그 공간에 머물러야 실제처럼 연기할 수 있다는 거죠.<br>이번에 함께한 장규리·김민철은 현장에 자주 있어 칭찬했어요.",
+   "teaser": "그런데 송혜교도? →",
+   "credit": "Pexels / Ron Lach"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC003/photos/ppg.jpg",
+   "pos": "center 40%",
+   "cap": "유튜브 뜬뜬 ‘핑계고’",
+   "title": "송혜교 “<a>무조건 차에서 내려요</a>”",
+   "body": "14일 공개된 ‘핑계고’에서 송혜교는<br>“현장 도착하자마자 차에서 내려서 모니터 옆에 가 있다.<br>차에 가만히 앉아 있는 걸 못 한다, 지루하다”고 했어요.<br>공유도 “나도 내리자마자 나가는 스타일”이라고 공감.",
+   "teaser": "그 결과는… →",
+   "credit": "자료사진 · 유튜브 뜬뜬"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC003/photos/shk.jpg",
+   "pos": "center 18%",
+   "cap": "배우 송혜교",
+   "title": "“선배님, <a>지금 아니고요</a>” 😂",
+   "body": "너무 빨리 나오니 스태프들이 오히려 마음이 불편해져<br>나중엔 연출부가 둘을 함부로 안 불렀대요.<br>다른 사람 부르는데 둘이 벌떡 일어나서 “아니요, 선배님”.<br>여러분은 현장 직행파? 5분만 더 차에파? 👇",
+   "teaser": "",
+   "credit": "K-POPIT / CC BY 3.0"
+  }
+ ],
+ "end": {"body2": "함께 웃을 <a>친구</a>에게 공유해요."}
+}
