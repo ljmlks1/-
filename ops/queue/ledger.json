@@ -260,6 +260,54 @@
    "files": "ops/items/LC004",
    "zip": "downloads/유머밈_와인.zip",
    "by": "claude"
+  },
+  {
+   "id": "IC009",
+   "account": "issue.ap",
+   "title": "주담대 금리 14년 만에 최고",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "date": "2026-11-19",
+   "files": "ops/items/IC009",
+   "zip": "downloads/이슈압축_주담대.zip",
+   "blog_id": "2026-11-19_1030",
+   "source": "blog",
+   "by": "claude"
+  },
+  {
+   "id": "IC010",
+   "account": "issue.ap",
+   "title": "앤트로픽 상장 공모가 83달러",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "date": "2026-11-19",
+   "files": "ops/items/IC010",
+   "zip": "downloads/이슈압축_앤트로픽.zip",
+   "blog_id": "2026-11-19_1900",
+   "source": "blog",
+   "by": "claude"
+  },
+  {
+   "id": "IC011",
+   "account": "issue.ap",
+   "title": "수능 재난문자 폰 22대",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "date": "2026-11-19",
+   "files": "ops/items/IC011",
+   "zip": "downloads/이슈압축_수능재난문자.zip",
+   "blog_id": "2026-11-19_F1",
+   "source": "blog",
+   "by": "claude"
+  },
+  {
+   "id": "IC007-blog-link",
+   "note": "IC007 네안데르탈인 = blog 2026-11-18_X3, IC006 GTA6 ≈ blog 2026-11-17_F1",
+   "blog_id": [
+    "2026-11-18_X3",
+    "2026-11-17_F1"
+   ],
+   "status": "reference"
   }
  ]
 }
