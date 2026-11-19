@@ -310,6 +310,17 @@
     "2026-11-17_F1"
    ],
    "status": "reference"
+  },
+  {
+   "id": "IC012",
+   "account": "issue.ap",
+   "title": "리트 만점자 숨진 채 발견 (뉴스 요약, 추모)",
+   "slides": 5,
+   "status": "delivered_for_manual_upload",
+   "date": "2026-11-19",
+   "files": "ops/items/IC012",
+   "zip": "downloads/이슈압축_리트만점자.zip",
+   "by": "claude"
   }
  ]
 }
