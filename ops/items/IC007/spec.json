@@ -1,0 +1,88 @@
+{
+ "brand": "issue",
+ "slug": "issue-neanderthal",
+ "cover": {
+  "photo": "/home/user/-/ops/items/IC007/photos/jaeger.jpg",
+  "pos": "center 35%",
+  "tag": "과학 / 노벨상 페보 연구팀",
+  "title": "5만 년 전 <a>네안데르탈인 DNA</a>가<br>조현병 위험을 낮춘다?",
+  "credit": "Neanderthal-Museum, Mettmann / CC BY-SA 4.0"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/IC007/photos/brno.jpg",
+   "pos": "center 50%",
+   "cap": "네안데르탈인 복원 디오라마",
+   "title": "한눈에 보기<br><a>핵심 요약</a>",
+   "body": "연구팀: 독일 막스플랑크 진화인류학연구소<br>발표: 미국국립과학원회보(PNAS)<br>변이: 14번 염색체 DNA 일부 결실<br>후두엽 약 0.85㎤↓ · 조현병 위험 5~10%↓",
+   "teaser": "어떤 변이길래? →",
+   "credit": "Jaroslav A. Polák / CC0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC007/photos/dna.jpg",
+   "pos": "center 50%",
+   "cap": "자료사진 · DNA",
+   "title": "DNA <a>4글자</a>가 빠진 변이",
+   "body": "14번 염색체 DAAM1 유전자 근처,<br>유전자를 켜고 끄는 조절 부위에서 염기쌍 4개가 빠졌어요.<br>한쪽 부모에게서만 받아도 후두엽이 약 0.85㎤ 작았어요.<br>후두엽은 본 것을 처리하고 장면을 떠올리는 곳이에요.",
+   "teaser": "조현병과는 무슨 관계? →",
+   "credit": "Pexels / Nicola Narracci"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC007/photos/crowd.jpg",
+   "pos": "center 50%",
+   "cap": "자료사진 · 사람들",
+   "title": "조현병 위험 <a>5~10%</a> 낮아져",
+   "body": "변이를 한쪽 부모에게 받으면 약 5%,<br>양쪽 모두에게 받으면 10% 가까이 위험이 낮았어요.<br>⚠️ 다만 많은 사람을 분석한 집단 통계예요.<br>변이가 있다고 개인이 병에 안 걸린다는 뜻은 아니에요.",
+   "teaser": "머리가 나빠지진 않을까? →",
+   "credit": "Pexels / Coverr"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC007/photos/mri.jpg",
+   "pos": "center 40%",
+   "cap": "자료사진 · 뇌 MRI",
+   "title": "지능과는 <a>무관</a>",
+   "body": "뇌 일부가 작아졌지만 지능과는 관련이 없었어요.<br>양극성장애·우울증·ADHD·자폐와도 관계가 없었고요.<br>연구팀은 “뇌 부위 크기를<br>인지능력과 똑같이 보면 안 된다”고 강조했어요.",
+   "teaser": "진짜 네안데르탈인 DNA 맞아? →",
+   "credit": "Pexels / Anna Shvets"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC007/photos/calotte.jpg",
+   "pos": "center 55%",
+   "cap": "네안데르 계곡 두개골 화석",
+   "title": "<a>5만 년 전</a> 섞인 흔적",
+   "body": "이 변이는 아프리카 밖 인구에서만 나타났고,<br>해독된 네안데르탈인 유전체 5개엔 모두 있었어요.<br>현생 인류가 약 5만 년 전 네안데르탈인과 만나며<br>섞인 흔적이에요. 유럽·서남아시아에서 가장 흔해요.",
+   "teaser": "그런데 예상과 반대였대요 →",
+   "credit": "Eunostos / CC BY-SA 4.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC007/photos/tabun.jpg",
+   "pos": "center 75%",
+   "cap": "네안데르탈인 두개골 (타분 1)",
+   "title": "예상과 <a>정반대</a> 결과",
+   "body": "네안데르탈인은 두개골이 앞뒤로 길어<br>후두엽도 컸던 걸로 알려졌는데, 그 DNA가 오히려<br>후두엽을 작게 만들었어요. 또 네안데르탈인 변이 전체로는<br>조현병 위험이 줄지 않았어요. 딱 이 변이만의 효과예요.",
+   "teaser": "자주 묻는 질문 →",
+   "credit": "Jonathan Chen / CC BY-SA 4.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC007/photos/amnh.jpg",
+   "pos": "center 6%",
+   "cap": "네안데르탈인 골격 (미국자연사박물관)",
+   "title": "Q&A <a>한국인도 있을까?</a>",
+   "body": "Q. 한국인도 네안데르탈인 DNA가 있나요?<br>아프리카 밖 현대인은 대부분 DNA의 약 2%를 물려받았어요.<br>Q. 유전자 검사로 알 수 있나요?<br>연구용 분석이라 개인 진단엔 쓸 수 없어요.",
+   "teaser": "연구를 이끈 사람은? →",
+   "credit": "Ryan Schwark / CC0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC007/photos/paabo.jpg",
+   "pos": "center 30%",
+   "cap": "노벨상 메달을 든 스반테 페보 박사",
+   "title": "노벨상 학자 <a>스반테 페보</a>",
+   "body": "멸종한 인류의 유전체를 처음 해독해<br>2022년 노벨 생리의학상을 받은 스웨덴 학자예요.<br>치료법까지는 아직 먼 기초 연구 단계지만,<br>사라진 사촌 인류가 우리 뇌에 흔적을 남겼다니 신기하죠?",
+   "teaser": "",
+   "credit": "内閣官房内閣広報室 / CC BY 4.0"
+  }
+ ],
+ "end": {
+  "body2": "과학 좋아하는 <a>친구</a>에게 공유해요."
+ }
+}

@@ -215,6 +215,16 @@
    "date": "2026-11-18",
    "files": "ops/items/IC006",
    "zip": "downloads/이슈압축_GTA6.zip"
+  },
+  {
+   "id": "IC007",
+   "account": "issue.ap",
+   "title": "네안데르탈인 DNA 조현병",
+   "slides": 10,
+   "status": "delivered_for_manual_upload",
+   "date": "2026-11-19",
+   "files": "ops/items/IC007",
+   "zip": "downloads/이슈압축_네안데르탈인.zip"
   }
  ]
 }
