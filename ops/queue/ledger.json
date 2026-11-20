@@ -268,20 +268,22 @@
    "account": "issue.ap",
    "title": "주담대 금리 14년 만에 최고",
    "slides": 8,
-   "status": "delivered_for_manual_upload",
+   "status": "vidiq_publish_failed",
    "date": "2026-11-19",
    "files": "ops/items/IC009",
    "zip": "downloads/이슈압축_주담대.zip",
    "blog_id": "2026-11-19_1030",
    "source": "blog",
-   "by": "claude"
+   "by": "claude",
+   "vidiq_post_id": "f49ecc92-48fc-4bc5-aaf7-c444f408b5e4",
+   "failure": "Instagram could not process the media (ERROR), attempts 2"
   },
   {
    "id": "IC010",
    "account": "issue.ap",
    "title": "앤트로픽 상장 공모가 83달러",
    "slides": 8,
-   "status": "delivered_for_manual_upload",
+   "status": "updated_post_ipo_delivered",
    "date": "2026-11-19",
    "files": "ops/items/IC010",
    "zip": "downloads/이슈압축_앤트로픽.zip",
@@ -384,13 +386,15 @@
    "account": "issue.ap",
    "title": "실손보험 반값 할인",
    "slides": 8,
-   "status": "delivered_for_manual_upload",
+   "status": "scheduled",
    "date": "2026-11-20",
    "files": "ops/items/IC016",
    "zip": "downloads/이슈압축_실손보험.zip",
    "by": "claude",
    "blog_id": "2026-11-20_1030",
-   "source": "blog"
+   "source": "blog",
+   "scheduled_for": "2026-11-21T02:00+09:00",
+   "vidiq_post_id": "6fee3a2b-5fff-442e-a8b3-f46aa055d743"
   },
   {
    "id": "IC017",
@@ -530,6 +534,15 @@
    "status": "delivered_for_manual_upload",
    "created": "2026-11-20T19:00+09:00",
    "run": "2026-11-20-1837"
+  },
+  {
+   "id": "LC011",
+   "account": "legendhumormeme",
+   "title": "앤트로픽 상장 직원 1인당 평균 640억 (IC010 유머밈 버전)",
+   "slides": 8,
+   "status": "published",
+   "url": "https://www.instagram.com/p/Df99Lr9FCbr/",
+   "vidiq_post_id": "3a07d56f-5daf-4c38-a925-8163657360c9"
   }
  ]
 }
