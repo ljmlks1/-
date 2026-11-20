@@ -456,6 +456,17 @@
    "files": "ops/items/LC008",
    "zip": "downloads/유머밈_전자빗.zip",
    "by": "claude"
+  },
+  {
+   "id": "LC009",
+   "account": "legendhumormeme",
+   "title": "독박투어 450만원 독박 아내들 답장",
+   "slides": 7,
+   "status": "delivered_for_manual_upload",
+   "date": "2026-11-20",
+   "files": "ops/items/LC009",
+   "zip": "downloads/유머밈_독박아내.zip",
+   "by": "claude"
   }
  ]
 }
