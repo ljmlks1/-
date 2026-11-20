@@ -1,10 +1,70 @@
-{"brand":"issue","slug":"issue-silson",
-"cover":{"photo":"/home/user/-/ops/items/IC016/photos/cover.jpg","pos":"center 50%","tag":"보험 / 11월 23일부터","title":"실손보험 월 17만원이<br><a>2만원대</a>로? 반값 할인","credit":"자료사진 · Pexels / Daryl John Quiming"},
-"pages":[
-{"photo":"/home/user/-/ops/items/IC016/photos/p1.jpg","pos":"center 40%","cap":"자료사진 · 서류 확인","title":"누가·언제까지 <a>핵심 요약</a>","body":"대상: 2013년 3월 이전 가입한 1·2세대 실손(약 1,630만 명)<br>방법 1: 5세대로 전환하면 3년간 보험료 50% 할인<br>방법 2: 기존 유지 + 일부 보장 빼기(선택형 할인특약)<br>신청: 2026.11.23 ~ 2027.5.22 · 최대 6개월 내 철회 가능","teaser":"얼마나 줄어드나 →","credit":"Pexels / Kampus Production"},
-{"photo":"/home/user/-/ops/items/IC016/photos/p2.jpg","pos":"center 50%","cap":"자료사진 · 영수증","title":"60대 여성 예시 <a>3년 559만원</a> 절약","body":"금융당국 예시: 1세대 월 17만6,982원 → 2만1,620원<br>2세대 월 12만6,773원 → 2만1,620원<br>3년이면 1세대 559만원, 2세대 379만원을 아끼는 셈.<br>⚠️ 3년 할인 뒤엔 5세대 보험료를 전부 내야 해요.","teaser":"잃는 것도 있어요 →","credit":"Pexels / Kaboompics"},
-{"photo":"/home/user/-/ops/items/IC016/photos/p3.jpg","pos":"center 50%","cap":"자료사진 · MRI","title":"갈아타면 <a>잃는 것</a>도 있다","body":"5세대는 비급여 보장이 줄어든 상품이에요.<br>비중증 비급여 한도 연 1,000만원,<br>통원은 의료비의 50%와 5만원 중 큰 금액을 공제한대요.<br>도수치료·주사를 자주 받거나 수술이 잡혀 있다면 나중에 판단.","teaser":"안 갈아타는 방법 →","credit":"Pexels / MART PRODUCTION"},
-{"photo":"/home/user/-/ops/items/IC016/photos/p4.jpg","pos":"center 40%","cap":"자료사진 · 도수치료","title":"안 갈아타고 <a>보장만 빼기</a>","body":"도수·체외충격파·비급여 주사 빼면 15~20%,<br>비급여 MRI 빼면 2~4%, 자기부담률 20% 적용 9~17% 할인.<br>셋 다 고르면 월 17만6,982원 → 11만1,499원(37%↓).<br>⚠️ 가입 후 변경 불가, 특약 해지 시 재가입 불가.","teaser":"받을 돈부터 챙기세요 →","credit":"Pexels / RDNE Stock project"},
-{"photo":"/home/user/-/ops/items/IC016/photos/p5.jpg","pos":"center 45%","cap":"자료사진 · 결제 영수증","title":"안 받은 보험금 <a>최대 1조원</a>","body":"청구 안 한 실손보험금이 지난해만 약 3,386억원,<br>최근 3년이면 최대 1조원(금융위 추산).<br>⚠️ 3년 지나면 청구할 권리가 사라져요.<br>영수증 남은 건은 지금 바로 청구하는 게 이득이에요.","teaser":"나는 어떻게 할까 →","credit":"Pexels / Sammy Wilson"},
-{"photo":"/home/user/-/ops/items/IC016/photos/p6.jpg","pos":"center 45%","cap":"자료사진 · 상담","title":"나는 어떻게? <a>한 줄 체크</a>","body":"✅ 병원 거의 안 가고 보험료 부담 → 5세대 전환<br>✅ 보장은 지키고 싶은데 도수치료 안 받음 → 선택형 특약<br>✅ 치료 중·수술 예정 → 유지 후 나중에 판단<br>신청은 지금 가입한 보험사에서. 금액은 꼭 직접 확인하세요.","teaser":"","credit":"Pexels / Kampus Production"}],
-"end":{"body2":"부모님께 꼭 <a>공유</a>해 주세요."}}
+{
+ "brand": "issue",
+ "slug": "issue-silson",
+ "cover": {
+  "photo": "/home/user/-/ops/items/IC016/photos/real/cover.jpg",
+  "pos": "center 45%",
+  "tag": "보험 / 11월 23일부터",
+  "title": "실손보험 월 17만원이<br><a>2만원대</a>로? 반값 할인",
+  "credit": "자료사진 · 뉴스1"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/IC016/photos/real/p1.jpg",
+   "pos": "center 20%",
+   "cap": "1·2세대 실손 보험료 할인 방식",
+   "title": "누가·언제까지 <a>핵심 요약</a>",
+   "body": "대상: 2013년 3월 이전 가입한 1·2세대 실손(약 1,630만 명)<br>방법 1: 5세대로 전환하면 3년간 보험료 50% 할인<br>방법 2: 기존 유지 + 일부 보장 빼기(선택형 할인특약)<br>신청: 2026.11.23 ~ 2027.5.22 · 최대 6개월 내 철회 가능",
+   "teaser": "얼마나 줄어드나 →",
+   "credit": "그래픽 · 조선일보"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC016/photos/real/p2.jpg",
+   "pos": "center 40%",
+   "cap": "60대 여성 선택지별 월 보험료",
+   "title": "60대 여성 예시 <a>3년 559만원</a> 절약",
+   "body": "금융당국 예시: 1세대 월 17만6,982원 → 2만1,620원<br>2세대 월 12만6,773원 → 2만1,620원<br>3년이면 1세대 559만원, 2세대 379만원을 아끼는 셈.<br>⚠️ 3년 할인 뒤엔 5세대 보험료를 전부 내야 해요.",
+   "teaser": "잃는 것도 있어요 →",
+   "credit": "그래픽 · 한국일보(자료=금융위원회)"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC016/photos/real/p3.jpg",
+   "pos": "center 40%",
+   "cap": "서울 시내 정형외과",
+   "title": "갈아타면 <a>잃는 것</a>도 있다",
+   "body": "5세대는 비급여 보장이 줄어든 상품이에요.<br>비중증 비급여 한도 연 1,000만원,<br>통원은 의료비의 50%와 5만원 중 큰 금액을 공제한대요.<br>도수치료·주사를 자주 받거나 수술이 잡혀 있다면 나중에 판단.",
+   "teaser": "안 갈아타는 방법 →",
+   "credit": "자료사진 · 뉴스1"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC016/photos/real/p4.jpg",
+   "pos": "center 30%",
+   "cap": "계약전환 할인 vs 선택형 할인특약",
+   "title": "안 갈아타고 <a>보장만 빼기</a>",
+   "body": "도수·체외충격파·비급여 주사 빼면 15~20%,<br>비급여 MRI 빼면 2~4%, 자기부담률 20% 적용 9~17% 할인.<br>셋 다 고르면 월 17만6,982원 → 11만1,499원(37%↓).<br>⚠️ 가입 후 변경 불가, 특약 해지 시 재가입 불가.",
+   "teaser": "받을 돈부터 챙기세요 →",
+   "credit": "표 · 금융위원회"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC016/photos/real/p5.jpg",
+   "pos": "center 30%",
+   "cap": "실손24 ‘미청구 보험금 찾기’",
+   "title": "안 받은 보험금 <a>최대 1조원</a>",
+   "body": "청구 안 한 실손보험금이 지난해만 약 3,386억원,<br>최근 3년이면 최대 1조원(금융위 추산).<br>⚠️ 3년 지나면 청구할 권리가 사라져요.<br>영수증 남은 건은 지금 바로 청구하는 게 이득이에요.",
+   "teaser": "나는 어떻게 할까 →",
+   "credit": "자료 · 금융위원회"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC016/photos/real/p6.jpg",
+   "pos": "center 40%",
+   "cap": "19일 실손보험 점검회의",
+   "title": "나는 어떻게? <a>한 줄 체크</a>",
+   "body": "✅ 병원 거의 안 가고 보험료 부담 → 5세대 전환<br>✅ 보장은 지키고 싶은데 도수치료 안 받음 → 선택형 특약<br>✅ 치료 중·수술 예정 → 유지 후 나중에 판단<br>신청은 지금 가입한 보험사에서. 금액은 꼭 직접 확인하세요.",
+   "teaser": "",
+   "credit": "자료사진 · 세계일보"
+  }
+ ],
+ "end": {
+  "body2": "부모님께 꼭 <a>공유</a>해 주세요."
+ }
+}
