@@ -433,6 +433,18 @@
    "id": "RUN-2026-11-20-1037-issue-pick",
    "status": "skipped",
    "note": "블로그 이슈 캐러셀 3건으로 대체"
+  },
+  {
+   "id": "LC007",
+   "account": "legendhumormeme",
+   "title": "GTA6 사전예약 2조원 (IC006 유머밈 버전)",
+   "slides": 10,
+   "status": "published",
+   "url": "https://www.instagram.com/p/Df8qbdxjc3u/",
+   "vidiq_postId": "29732612-6e18-4492-a20d-655ae6e59f09",
+   "date": "2026-11-20",
+   "files": "ops/items/LC007",
+   "by": "claude"
   }
  ]
 }
