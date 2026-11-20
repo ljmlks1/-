@@ -1,13 +1,65 @@
-{"brand":"humor","slug":"humor-dokbak-wives",
-"cover":{"photo":"/home/user/-/ops/items/LC009/photos/cover.jpg","pos":"center 30%","tag":"독박투어2 · 아내 문자 게임","title":"“나 450만원 독박 걸렸어”<br>개그맨 아내들 <a>답장 클래스</a> 😂","credit":"자료사진 · 채널S·SK브로드밴드 ‘니돈내산 독박투어2’"},
-"pages":[
-{"photo":"/home/user/-/ops/items/LC009/photos/p1.jpg","pos":"center 40%","cap":"답장 기다리는 독박즈","title":"택시비 걸린 <a>아내 문자 게임</a>","body":"장동민: “아내에게 온 답장의 글자 수가<br>가장 적은 사람을 독박자로 하자”<br>다섯 명이 동시에 보낸 문자:<br>“나 450만 원짜리 독박 걸렸어 어떡하지”","teaser":"첫 답장은 →","credit":"자료사진 · 채널S·SK브로드밴드 ‘니돈내산 독박투어2’"},
-{"photo":"/home/user/-/ops/items/LC009/photos/p2.jpg","pos":"center 40%","cap":"유세윤 아내 답장 (방송 내용 재구성)","title":"유세윤 아내 <a>“선물한 걸로!”</a>","body":"“좋은 사람들과 함께 즐기는 비용이라 생각하면 되징<br>곧 설이니까 형님 친구들한테 선물한 걸로!”<br>멤버들: “와 멋있다 멋있다” 😂","teaser":"장동민 아내는 →","credit":"자료사진 · 채널S·SK브로드밴드 ‘니돈내산 독박투어2’",
- "overlay":"<div class=chat><div class=t>유세윤 아내</div><div class=me>나 450만 원짜리 독박 걸렸어 어떡하지</div><div class=you>좋은 사람들과 함께 즐기는 비용이라 생각하면 되징 곧 설이니까 형님 친구들한테 선물한 걸로!</div></div>"},
-{"photo":"/home/user/-/ops/items/LC009/photos/p3.jpg","pos":"center 40%","cap":"장동민 아내 답장 (방송 내용 재구성)","title":"산후조리 중인데 <a>“내가 내줄게”</a>","body":"“내가 내줄게 걱정하지 마 여보 즐겨”<br>산후조리 중인 아내의 답장에 장동민은 울컥,<br>멤버들도 “형도 감동이다”","teaser":"홍인규 아내는 →","credit":"자료사진 · 채널S·SK브로드밴드 ‘니돈내산 독박투어2’",
- "overlay":"<div class=chat><div class=t>장동민 아내</div><div class=me>나 450만 원짜리 독박 걸렸어 어떡하지</div><div class=you>내가 내줄게 걱정하지 마 여보 즐겨 ❤️</div></div>"},
-{"photo":"/home/user/-/ops/items/LC009/photos/p4.jpg","pos":"center 40%","cap":"홍인규 아내 답장 (방송 내용 재구성)","title":"홍인규 아내 <a>“큰 건 한 건”</a>","body":"“헐 대박 ㅋㅋㅋ 큰 건 한 건 오셨군요 ㅋㅋ<br>뭘 했길래 베트남에서 450만 원이 걸려?”<br>멤버들: “긍정해!” 😂","teaser":"그리고 김준호는… →","credit":"자료사진 · 채널S·SK브로드밴드 ‘니돈내산 독박투어2’",
- "overlay":"<div class=chat><div class=t>홍인규 아내</div><div class=me>나 450만 원짜리 독박 걸렸어 어떡하지</div><div class=you>헐 대박 ㅋㅋㅋ 큰 건 한 건 오셨군요 ㅋㅋ 뭘 했길래 베트남에서 450만 원이 걸려?</div></div>"},
-{"photo":"/home/user/-/ops/items/LC009/photos/p5.jpg","pos":"center 40%","cap":"택시비 독박","title":"김지민 <a>“하차해”</a> 단 세 글자","body":"가장 먼저 온 김준호의 답장은 김지민의 “엉? 하차해”<br>가장 짧은 답장으로 김준호가 택시비 독박!<br>여러분은 이 문자 받으면 뭐라고 답할 건가요? 👇","teaser":"","credit":"자료사진 · 채널S·SK브로드밴드 ‘니돈내산 독박투어2’",
- "overlay":"<div class=chat><div class=t>김지민</div><div class=me>나 450만 원짜리 독박 걸렸어 어떡하지</div><div class=you>엉? 하차해</div></div>"}],
-"end":{"body2":"부부끼리 <a>공유</a>해 보세요."}}
+{
+ "brand": "humor",
+ "slug": "humor-dokbak-wives",
+ "cover": {
+  "photo": "/home/user/-/ops/items/LC009/photos/cover2.jpg",
+  "pos": "center 25%",
+  "tag": "독박투어2 · 아내 문자 게임",
+  "title": "“나 450만원 독박 걸렸어”<br>개그맨 아내들 <a>답장 클래스</a> 😂",
+  "credit": "사진 · 텐아시아DB(김준호) / 김지민 SNS"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/LC009/photos/p1.jpg",
+   "pos": "center 40%",
+   "cap": "답장 기다리는 독박즈",
+   "title": "택시비 걸린 <a>아내 문자 게임</a>",
+   "body": "장동민: “아내에게 온 답장의 글자 수가<br>가장 적은 사람을 독박자로 하자”<br>다섯 명이 동시에 보낸 문자:<br>“나 450만 원짜리 독박 걸렸어 어떡하지”",
+   "teaser": "첫 답장은 →",
+   "credit": "자료사진 · 채널S·SK브로드밴드 ‘니돈내산 독박투어2’"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC009/photos/m_yoo.jpg",
+   "pos": "center 25%",
+   "cap": "유세윤 아내 답장 (방송 내용 재구성)",
+   "title": "유세윤 아내 <a>“선물한 걸로!”</a>",
+   "body": "“좋은 사람들과 함께 즐기는 비용이라 생각하면 되징<br>곧 설이니까 형님 친구들한테 선물한 걸로!”<br>멤버들: “와 멋있다 멋있다” 😂",
+   "teaser": "장동민 아내는 →",
+   "credit": "사진 · 뉴시스(유세윤)",
+   "overlay": "<div class=chat><div class=t>유세윤 아내</div><div class=me>나 450만 원짜리 독박 걸렸어 어떡하지</div><div class=you>좋은 사람들과 함께 즐기는 비용이라 생각하면 되징 곧 설이니까 형님 친구들한테 선물한 걸로!</div></div>"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC009/photos/m_jang.jpg",
+   "pos": "center 25%",
+   "cap": "장동민 아내 답장 (방송 내용 재구성)",
+   "title": "산후조리 중인데 <a>“내가 내줄게”</a>",
+   "body": "“내가 내줄게 걱정하지 마 여보 즐겨”<br>산후조리 중인 아내의 답장에 장동민은 울컥,<br>멤버들도 “형도 감동이다”",
+   "teaser": "홍인규 아내는 →",
+   "credit": "사진 · OSEN(장동민)",
+   "overlay": "<div class=chat><div class=t>장동민 아내</div><div class=me>나 450만 원짜리 독박 걸렸어 어떡하지</div><div class=you>내가 내줄게 걱정하지 마 여보 즐겨 ❤️</div></div>"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC009/photos/m_hong.jpg",
+   "pos": "center 25%",
+   "cap": "홍인규 아내 답장 (방송 내용 재구성)",
+   "title": "홍인규 아내 <a>“큰 건 한 건”</a>",
+   "body": "“헐 대박 ㅋㅋㅋ 큰 건 한 건 오셨군요 ㅋㅋ<br>뭘 했길래 베트남에서 450만 원이 걸려?”<br>멤버들: “긍정해!” 😂",
+   "teaser": "그리고 김준호는… →",
+   "credit": "사진 · 더팩트(홍인규)",
+   "overlay": "<div class=chat><div class=t>홍인규 아내</div><div class=me>나 450만 원짜리 독박 걸렸어 어떡하지</div><div class=you>헐 대박 ㅋㅋㅋ 큰 건 한 건 오셨군요 ㅋㅋ 뭘 했길래 베트남에서 450만 원이 걸려?</div></div>"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC009/photos/p5.jpg",
+   "pos": "center 40%",
+   "cap": "택시비 독박",
+   "title": "김지민 <a>“하차해”</a> 단 세 글자",
+   "body": "가장 먼저 온 김준호의 답장은 김지민의 “엉? 하차해”<br>가장 짧은 답장으로 김준호가 택시비 독박!<br>여러분은 이 문자 받으면 뭐라고 답할 건가요? 👇",
+   "teaser": "",
+   "credit": "자료사진 · 채널S·SK브로드밴드 ‘니돈내산 독박투어2’",
+   "overlay": "<div class=chat><div class=t>김지민</div><div class=me>나 450만 원짜리 독박 걸렸어 어떡하지</div><div class=you>엉? 하차해</div></div>"
+  }
+ ],
+ "end": {
+  "body2": "부부끼리 <a>공유</a>해 보세요."
+ }
+}

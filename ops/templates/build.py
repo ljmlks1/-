@@ -48,7 +48,7 @@ def build(spec, outdir, ratio="4:5"):
     .in-shade{{position:absolute;left:0;right:0;top:{578+E}px;bottom:0;background:rgba(8,10,9,.30)}}
     .in-img.contain img{{object-fit:contain}}
     .ov{{position:absolute;left:0;top:0;width:1024px;height:{578+E}px;display:flex;align-items:center;justify-content:flex-end;padding-right:44px}}\n    .ov.center{{justify-content:center;padding:0}}\n    .ov.left{{justify-content:flex-start;padding-left:44px;padding-right:0}}
-    .chat{{background:rgba(15,17,20,.78);border-radius:22px;padding:20px 22px;width:380px;display:flex;flex-direction:column;gap:12px;backdrop-filter:blur(2px)}}
+    .chat{{background:rgba(15,17,20,.78);border-radius:22px;padding:20px 22px;width:380px;display:flex;flex-direction:column;gap:12px;backdrop-filter:blur(2px);word-break:keep-all;overflow-wrap:break-word}}
     .chat .t{{font-size:20px;color:#aab;text-align:center;margin-bottom:4px}}
     .me{{align-self:flex-end;background:#ffe14d;color:#151515;font-size:25px;padding:11px 18px;border-radius:18px 18px 4px 18px;max-width:320px}}
     .you{{align-self:flex-start;background:#fff;color:#151515;font-size:25px;padding:11px 18px;border-radius:18px 18px 18px 4px;max-width:320px}}
