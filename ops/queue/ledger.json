@@ -391,7 +391,7 @@
    "account": "issue.ap",
    "title": "실손보험 반값 할인",
    "slides": 8,
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-11-20",
    "files": "ops/items/IC016",
    "zip": "downloads/이슈압축_실손보험.zip",
@@ -400,7 +400,8 @@
    "source": "blog",
    "scheduled_for": "2026-11-21T02:00+09:00",
    "vidiq_post_id": "6fee3a2b-5fff-442e-a8b3-f46aa055d743",
-   "note": "ig-factcheck 수정본으로 교체(revision 31584187)"
+   "note": "수정본 게시. vidIQ는 failed 표시, owner insights로 실제 게시 확인(2026-11-20T17:02:03Z)",
+   "url": "https://www.instagram.com/p/Df-JSlvicZH/"
   },
   {
    "id": "IC017",
