@@ -445,6 +445,17 @@
    "date": "2026-11-20",
    "files": "ops/items/LC007",
    "by": "claude"
+  },
+  {
+   "id": "LC008",
+   "account": "legendhumormeme",
+   "title": "탈모 전자빗 98% (IC015 유머밈 버전)",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "date": "2026-11-20",
+   "files": "ops/items/LC008",
+   "zip": "downloads/유머밈_전자빗.zip",
+   "by": "claude"
   }
  ]
 }
