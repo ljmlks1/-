@@ -378,6 +378,61 @@
    "id": "RUN-2026-11-19-1837-issue-pick",
    "status": "skipped",
    "note": "블로그 이슈 캐러셀 3건이 같은 회차에 있어 네이버 이슈 별도 제작 생략 (리트 만점자 관련은 IC012로 이미 전달)"
+  },
+  {
+   "id": "IC016",
+   "account": "issue.ap",
+   "title": "실손보험 반값 할인",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "date": "2026-11-20",
+   "files": "ops/items/IC016",
+   "zip": "downloads/이슈압축_실손보험.zip",
+   "by": "claude",
+   "blog_id": "2026-11-20_1030",
+   "source": "blog"
+  },
+  {
+   "id": "IC017",
+   "account": "issue.ap",
+   "title": "재초환 1인당 2억2천",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "date": "2026-11-20",
+   "files": "ops/items/IC017",
+   "zip": "downloads/이슈압축_재초환.zip",
+   "by": "claude",
+   "blog_id": "2026-11-20_1900",
+   "source": "blog"
+  },
+  {
+   "id": "IC018",
+   "account": "issue.ap",
+   "title": "AI 수능 8분 만점",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "date": "2026-11-20",
+   "files": "ops/items/IC018",
+   "zip": "downloads/이슈압축_AI수능.zip",
+   "by": "claude",
+   "blog_id": "2026-11-20_F1",
+   "source": "blog"
+  },
+  {
+   "id": "LC006",
+   "account": "legendhumormeme",
+   "title": "도경완 요리학원 엄마 반응",
+   "slides": 6,
+   "status": "delivered_for_manual_upload",
+   "date": "2026-11-20",
+   "files": "ops/items/LC006",
+   "zip": "downloads/유머밈_도경완.zip",
+   "by": "claude"
+  },
+  {
+   "id": "RUN-2026-11-20-1037-issue-pick",
+   "status": "skipped",
+   "note": "블로그 이슈 캐러셀 3건으로 대체"
   }
  ]
 }

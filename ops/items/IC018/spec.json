@@ -1,0 +1,70 @@
+{
+ "brand": "issue",
+ "slug": "issue-ai-suneung",
+ "cover": {
+  "photo": "/home/user/-/ops/items/IC018/photos/cover.jpg",
+  "pos": "center 50%",
+  "tag": "화제 / 2027 수능",
+  "title": "수험생 250분 시험을<br>AI는 <a>8분 22초</a> 만에 만점",
+  "credit": "자료사진 · Pexels / Pavel Danilyuk"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/IC018/photos/p1.jpg",
+   "pos": "center 50%",
+   "cap": "자료사진 · 노트북",
+   "title": "한눈에 보는 <a>AI 수능 성적표</a>",
+   "body": "동아일보: 챗GPT 최상위 모델, 국·수·영 130문항 전부 정답<br>중앙일보: 챗GPT·클로드 만점, 제미나이 카본 수학 56~60점<br>조선일보: 제미나이 유료 만점, 챗GPT 무료는 국어 13개 오답<br>⚠️ 공식 시험이 아니라 언론사 자체 실험이에요.",
+   "teaser": "8분 22초의 의미 →",
+   "credit": "Pexels / cottonbro studio"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC018/photos/p2.jpg",
+   "pos": "center 50%",
+   "cap": "자료사진 · 시계",
+   "title": "시험시간의 <a>27분의 1</a>",
+   "body": "수험생 시간은 국어 80분, 수학 100분, 영어 70분.<br>듣기를 빼도 224분이 넘는데 AI는 8분 22초,<br>선택과목까지 전부 풀었어요.<br>KBS 실험에선 국어 순수 풀이가 46초였대요.",
+   "teaser": "같은 AI인데 왜 달라? →",
+   "credit": "Pexels / cottonbro studio"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC018/photos/p3.jpg",
+   "pos": "center 45%",
+   "cap": "자료사진 · 공부",
+   "title": "같은 AI인데 <a>성적이 왜 달라?</a>",
+   "body": "모델 등급(최상위 vs 가볍고 빠른 모델),<br>생각 시간 설정(추론 ‘높음’일수록 정확),<br>파일 인식(PDF 수식·그래프가 깨지면 오답)이 갈랐어요.<br>지디넷 실험: 아스트라 100점, 루나 83점.",
+   "teaser": "1년 만에 생긴 변화 →",
+   "credit": "Pexels / Kampus Production"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC018/photos/p4.jpg",
+   "pos": "center 45%",
+   "cap": "자료사진 · 노트북",
+   "title": "1년 만에 국어 <a>53점 → 100점</a>",
+   "body": "작년 연세대 김시호 교수팀 실험에서<br>챗GPT는 수학 96점, 국어 53점이었어요.<br>KBS 실험에서도 국어가 작년 37점 → 올해 100점.<br>‘긴 지문은 AI가 약하다’는 말은 옛말이 됐어요.",
+   "teaser": "우리 생활엔? →",
+   "credit": "Pexels / Tima Miroshnichenko"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC018/photos/p5.jpg",
+   "pos": "center 50%",
+   "cap": "자료사진 · AI 활용",
+   "title": "AI 쓸 때 <a>꿀팁 4가지</a>",
+   "body": "✅ 중요한 일은 상위 모델·높은 추론 설정으로<br>✅ 간단한 정리는 무료·가벼운 모델로 충분<br>✅ PDF·사진은 수식이 제대로 읽혔는지 먼저 확인<br>✅ 정답처럼 보여도 한 번 더 검증하기",
+   "teaser": "시험 방식도 바뀔까 →",
+   "credit": "Pexels / João Adão"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC018/photos/p6.jpg",
+   "pos": "center 45%",
+   "cap": "자료사진 · 면접",
+   "title": "시험 방식도 <a>바뀔까?</a>",
+   "body": "AI가 몇십 초 만에 만점을 받으니 부정행위 걱정도 커졌어요.<br>올해 수능은 스마트 안경·초소형 카메라 점검이 깐깐했고,<br>전문가들은 면접처럼 AI가 끼기 어려운 평가를 늘려야 한대요.<br>AI는 몇 점 받았을 것 같았나요? 👇",
+   "teaser": "",
+   "credit": "Pexels / Tima Miroshnichenko"
+  }
+ ],
+ "end": {
+  "body2": "수능 끝낸 <a>친구</a>에게 공유해요."
+ }
+}
