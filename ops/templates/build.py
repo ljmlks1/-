@@ -37,13 +37,15 @@ def build(spec, outdir, ratio="4:5"):
     .acc{{color:{b['acc']}}}
     .foot{{position:absolute;left:95px;width:834px;top:{1186+E}px;height:51px;display:flex;justify-content:space-between;align-items:center;font-size:18px;color:#a8aaa9;font-weight:400}}
     .foot img{{width:51px;height:51px;display:block}}
-    .cv-photo{{position:absolute;left:0;top:0;width:1024px;height:{880+E}px;object-fit:cover}}
+    .bgb{{position:absolute;inset:-60px;background-size:cover;background-position:center;filter:blur(26px) brightness(.42) saturate(1.1)}}
+    .cv-photo{{position:absolute;left:0;top:0;width:1024px;height:{880+E}px;object-fit:contain}}
     .cv-grad{{position:absolute;left:0;top:{600+E}px;width:1024px;height:280px;background:linear-gradient(rgba(21,23,22,0),rgba(21,23,22,.55))}}
-    .cv-band{{position:absolute;left:0;top:{880+E}px;width:1024px;bottom:0;background:#151716}}
+    .cv-band{{position:absolute;left:0;top:{880+E}px;width:1024px;bottom:0;background:rgba(10,12,11,.35)}}
     .tag{{position:absolute;left:95px;top:{733+E}px;height:57px;padding:0 15px;background:#ffd83d;color:#151515;font-size:26px;font-weight:700;display:flex;align-items:center;border-radius:3px}}
     .cv-h{{position:absolute;left:95px;right:60px;top:{815+E}px;font-size:64px;font-weight:700;line-height:85px;letter-spacing:-2px}}
-    .in-img{{position:absolute;left:0;top:0;width:1024px;height:{578+E}px;overflow:hidden;background:#151716}}
-    .in-img img{{width:100%;height:100%;object-fit:cover}}
+    .in-img{{position:absolute;left:0;top:0;width:1024px;height:{578+E}px;overflow:hidden;background:transparent}}
+    .in-img img{{width:100%;height:100%;object-fit:contain}}
+    .in-shade{{position:absolute;left:0;right:0;top:{578+E}px;bottom:0;background:rgba(8,10,9,.30)}}
     .in-img.contain img{{object-fit:contain}}
     .ov{{position:absolute;left:0;top:0;width:1024px;height:{578+E}px;display:flex;align-items:center;justify-content:flex-end;padding-right:44px}}\n    .ov.center{{justify-content:center;padding:0}}\n    .ov.left{{justify-content:flex-start;padding-left:44px;padding-right:0}}
     .chat{{background:rgba(15,17,20,.78);border-radius:22px;padding:20px 22px;width:380px;display:flex;flex-direction:column;gap:12px;backdrop-filter:blur(2px)}}
@@ -53,9 +55,10 @@ def build(spec, outdir, ratio="4:5"):
     .mt{{font-size:16px;color:#9aa;align-self:flex-end;margin-top:-6px}} .mtl{{font-size:16px;color:#9aa;align-self:flex-start;margin-top:-6px}}
     .del{{align-self:flex-end;background:rgba(255,255,255,.15);color:#bbb;font-size:23px;padding:11px 18px;border-radius:18px;font-style:italic}}
     .cap{{position:absolute;left:95px;top:25px;background:rgba(0,0,0,.72);color:#f2f2f2;font-size:19px;padding:7px 12px;font-weight:400}}
-    .in-h{{position:absolute;left:40px;right:40px;top:{638+E}px;text-align:center;font-size:44px;font-weight:700;line-height:62px}}
-    .in-p{{position:absolute;left:40px;right:40px;top:{790+E}px;text-align:center;font-size:33.5px;font-weight:400;line-height:57px;color:#f2f2f2}}
-    .teaser{{position:absolute;left:95px;top:{1096+E}px;font-size:25px;color:#dcdcdc}}
+    .in-h{{position:absolute;left:30px;right:30px;top:{632+E}px;text-align:center;font-size:50px;font-weight:700;line-height:66px;text-shadow:0 2px 8px rgba(0,0,0,.6)}}
+    .in-p{{position:absolute;left:28px;right:28px;top:{780+E}px;text-align:center;font-size:37px;font-weight:500;line-height:1.62;color:#fff;text-shadow:0 2px 8px rgba(0,0,0,.65)}}
+    .teaser{{position:absolute;left:95px;top:{1110+E}px;font-size:28px;font-weight:500;color:#f0f0f0;text-shadow:0 2px 6px rgba(0,0,0,.6)}}
+    .cv-h{{text-shadow:0 3px 10px rgba(0,0,0,.6)}} .foot{{color:#d0d2d1!important}}
     .end-bg{{position:absolute;inset:-40px;background-size:cover;background-position:center;filter:grayscale(1) blur(14px) brightness(.33)}}
     .end-c{{position:absolute;left:0;right:0;top:{E//2}px;height:1280px;text-align:center}}
     .e1{{position:absolute;left:0;right:0;top:227px;font-size:39.5px;font-weight:400}}
@@ -70,14 +73,14 @@ def build(spec, outdir, ratio="4:5"):
     """
     cards = []
     c = spec["cover"]
-    cards.append(f'<div class=card><img class=cv-photo src="{uri(c["photo"])}" style="object-position:{c.get("pos","center")}"><div class=cv-grad></div><div class=cv-band></div>'
+    cards.append(f'<div class=card><div class=bgb style="background-image:url({uri(c["photo"])})"></div><img class=cv-photo src="{uri(c["photo"])}" style="object-position:{c.get("pos","center")}"><div class=cv-grad></div><div class=cv-band></div>'
                  f'<div class=tag>{c["tag"]}</div><div class=cv-h>{acc(c["title"])}</div>{footer(b,c["credit"],1,total)}</div>')
     for i,p in enumerate(spec["pages"], start=2):
         if p.get("figure"):
             p["overlay"] = f'<img src="{uri(p["figure"])}" style="max-height:{530+E}px;max-width:720px;background:#fff;padding:12px;border-radius:6px;box-shadow:0 10px 40px rgba(0,0,0,.5)">'
             p.setdefault("ovside","center")
         fit = " contain" if p.get("fit")=="contain" else ""
-        cards.append(f'<div class=card><div class="in-img{fit}"><img src="{uri(p["photo"])}" style="object-position:{p.get("pos","center")};{p.get("imgstyle","")}"></div>'
+        cards.append(f'<div class=card><div class=bgb style="background-image:url({uri(p["photo"])})"></div><div class=in-shade></div><div class="in-img{fit}"><img src="{uri(p["photo"])}" style="object-position:{p.get("pos","center")};{p.get("imgstyle","")}"></div>'
                      + (f'<div class="ov {p.get("ovside","")}">{p["overlay"]}</div>' if p.get("overlay") else "")
                      + (f'<div class=cap>{p["cap"]}</div>' if p.get("cap") else "")
                      + f'<div class=in-h>{acc(p["title"])}</div><div class=in-p>{acc(p["body"])}</div>'
@@ -95,6 +98,8 @@ def build(spec, outdir, ratio="4:5"):
     hp = pathlib.Path(outdir)/"cards.html"; hp.write_text(page)
     js = f"""const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage({{viewport:{{width:1024,height:{H}}},deviceScaleFactor:2}});
     await p.goto('file://{hp}');await p.evaluate(()=>document.fonts.ready);await p.waitForTimeout(400);
+    await p.evaluate(()=>{{for(const el of document.querySelectorAll('.in-p')){{let f=37;const lim=(el.parentElement.querySelector('.teaser')?318:378);while(el.scrollHeight>lim&&f>29){{f-=1;el.style.fontSize=f+'px'}}}}
+      for(const el of document.querySelectorAll('.in-h')){{let f=50;while(el.scrollHeight>140&&f>38){{f-=1;el.style.fontSize=f+'px'}}}}}});
     for(let i=1;i<={len(cards)};i++){{await p.locator('#c'+i+' .card').screenshot({{path:'{outdir}/raw-'+i+'.png'}})}}await b.close()}})();"""
     subprocess.run(["node","-e",js],check=True)
     from PIL import Image
