@@ -42,7 +42,7 @@ def build(spec, outdir, ratio="4:5"):
     .cv-grad{{position:absolute;left:0;top:{600+E}px;width:1024px;height:280px;background:linear-gradient(rgba(21,23,22,0),rgba(21,23,22,.55))}}
     .cv-band{{position:absolute;left:0;top:{880+E}px;width:1024px;bottom:0;background:rgba(10,12,11,.35)}}
     .tag{{position:absolute;left:95px;top:{733+E}px;height:57px;padding:0 15px;background:#ffd83d;color:#151515;font-size:26px;font-weight:700;display:flex;align-items:center;border-radius:3px}}
-    .cv-h{{position:absolute;left:95px;right:60px;top:{815+E}px;font-size:64px;font-weight:700;line-height:85px;letter-spacing:-2px}}
+    .cv-h{{position:absolute;left:95px;right:60px;top:{815+E}px;font-size:64px;font-weight:700;line-height:85px;letter-spacing:-2px;word-break:keep-all}}
     .in-img{{position:absolute;left:0;top:0;width:1024px;height:{578+E}px;overflow:hidden;background:transparent}}
     .in-img img{{width:100%;height:100%;object-fit:contain}}
     .in-shade{{position:absolute;left:0;right:0;top:{578+E}px;bottom:0;background:rgba(8,10,9,.30)}}
@@ -55,8 +55,8 @@ def build(spec, outdir, ratio="4:5"):
     .mt{{font-size:16px;color:#9aa;align-self:flex-end;margin-top:-6px}} .mtl{{font-size:16px;color:#9aa;align-self:flex-start;margin-top:-6px}}
     .del{{align-self:flex-end;background:rgba(255,255,255,.15);color:#bbb;font-size:23px;padding:11px 18px;border-radius:18px;font-style:italic}}
     .cap{{position:absolute;left:95px;top:25px;background:rgba(0,0,0,.72);color:#f2f2f2;font-size:19px;padding:7px 12px;font-weight:400}}
-    .in-h{{position:absolute;left:30px;right:30px;top:{632+E}px;text-align:center;font-size:50px;font-weight:700;line-height:66px;text-shadow:0 2px 8px rgba(0,0,0,.6)}}
-    .in-p{{position:absolute;left:28px;right:28px;top:{780+E}px;text-align:center;font-size:37px;font-weight:500;line-height:1.62;color:#fff;text-shadow:0 2px 8px rgba(0,0,0,.65)}}
+    .in-h{{position:absolute;left:30px;right:30px;top:{632+E}px;text-align:center;font-size:50px;font-weight:700;line-height:66px;word-break:keep-all;text-shadow:0 2px 8px rgba(0,0,0,.6)}}
+    .in-p{{position:absolute;left:28px;right:28px;top:{780+E}px;text-align:center;font-size:37px;font-weight:500;line-height:1.62;word-break:keep-all;overflow-wrap:break-word;color:#fff;text-shadow:0 2px 8px rgba(0,0,0,.65)}}
     .teaser{{position:absolute;left:95px;top:{1110+E}px;font-size:28px;font-weight:500;color:#f0f0f0;text-shadow:0 2px 6px rgba(0,0,0,.6)}}
     .cv-h{{text-shadow:0 3px 10px rgba(0,0,0,.6)}} .foot{{color:#d0d2d1!important}}
     .end-bg{{position:absolute;inset:-40px;background-size:cover;background-position:center;filter:grayscale(1) blur(14px) brightness(.33)}}
