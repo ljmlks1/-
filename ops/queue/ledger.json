@@ -423,11 +423,13 @@
    "account": "legendhumormeme",
    "title": "도경완 요리학원 엄마 반응",
    "slides": 6,
-   "status": "delivered_for_manual_upload",
+   "status": "scheduled",
    "date": "2026-11-20",
    "files": "ops/items/LC006",
    "zip": "downloads/유머밈_도경완.zip",
-   "by": "claude"
+   "by": "claude",
+   "scheduled_for": "2026-11-20T15:00+09:00",
+   "vidiq_post_id": "ad1e4b43-e4bc-4078-8cd5-c2d3a130cfc5"
   },
   {
    "id": "RUN-2026-11-20-1037-issue-pick",
@@ -462,11 +464,12 @@
    "account": "legendhumormeme",
    "title": "독박투어 450만원 독박 아내들 답장",
    "slides": 7,
-   "status": "delivered_for_manual_upload",
+   "status": "publishing",
    "date": "2026-11-20",
    "files": "ops/items/LC009",
    "zip": "downloads/유머밈_독박아내.zip",
-   "by": "claude"
+   "by": "claude",
+   "vidiq_post_id": "9c56d769-f367-4515-b6f5-588369a08cd6"
   }
  ]
 }
