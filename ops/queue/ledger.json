@@ -423,13 +423,14 @@
    "account": "legendhumormeme",
    "title": "도경완 요리학원 엄마 반응",
    "slides": 6,
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-11-20",
    "files": "ops/items/LC006",
    "zip": "downloads/유머밈_도경완.zip",
    "by": "claude",
    "scheduled_for": "2026-11-20T15:00+09:00",
-   "vidiq_post_id": "ad1e4b43-e4bc-4078-8cd5-c2d3a130cfc5"
+   "vidiq_post_id": "ad1e4b43-e4bc-4078-8cd5-c2d3a130cfc5",
+   "url": "https://www.instagram.com/p/Df89mFPkeli/"
   },
   {
    "id": "RUN-2026-11-20-1037-issue-pick",
@@ -471,6 +472,64 @@
    "by": "claude",
    "vidiq_post_id": "9c56d769-f367-4515-b6f5-588369a08cd6",
    "url": "https://www.instagram.com/p/Df8180fFtlh/"
+  },
+  {
+   "id": "IC019",
+   "account": "issue.ap",
+   "title": "슈퍼문 24일, 진짜 큰 달은 크리스마스이브",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "created": "2026-11-20T19:00+09:00",
+   "run": "2026-11-20-1837",
+   "blog_id": "2026-11-20_F2"
+  },
+  {
+   "id": "IC020",
+   "account": "issue.ap",
+   "title": "폰 잠갔더니 1년에 2주 더 공부한 효과",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "created": "2026-11-20T19:00+09:00",
+   "run": "2026-11-20-1837",
+   "blog_id": "2026-11-20_X1"
+  },
+  {
+   "id": "IC021",
+   "account": "issue.ap",
+   "title": "김범수 2심도 무죄",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "created": "2026-11-20T19:00+09:00",
+   "run": "2026-11-20-1837",
+   "blog_id": "2026-11-20_X2"
+  },
+  {
+   "id": "IC022",
+   "account": "issue.ap",
+   "title": "운전대 없는 7인승 모델Y",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "created": "2026-11-20T19:00+09:00",
+   "run": "2026-11-20-1837",
+   "blog_id": "2026-11-20_X3"
+  },
+  {
+   "id": "IC023",
+   "account": "issue.ap",
+   "title": "수능 세계사 2번 오답률 92.6%",
+   "slides": 6,
+   "status": "delivered_for_manual_upload",
+   "created": "2026-11-20T19:00+09:00",
+   "run": "2026-11-20-1837"
+  },
+  {
+   "id": "LC010",
+   "account": "legendhumormeme",
+   "title": "신동엽 이경영 vs 이효리 원본",
+   "slides": 6,
+   "status": "delivered_for_manual_upload",
+   "created": "2026-11-20T19:00+09:00",
+   "run": "2026-11-20-1837"
   }
  ]
 }

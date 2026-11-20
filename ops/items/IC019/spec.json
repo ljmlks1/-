@@ -1,0 +1,70 @@
+{
+ "brand": "issue",
+ "slug": "issue-supermoon",
+ "cover": {
+  "photo": "/home/user/-/ops/items/IC019/photos/cover.jpg",
+  "pos": "center 50%",
+  "tag": "과학 / 11월 24일 밤",
+  "title": "올해 가장 큰 보름달 뜨는데<br>진짜 큰 달은 <a>크리스마스이브</a>?",
+  "credit": "자료사진 · NASA/Bill Ingalls"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/IC019/photos/p1.jpg",
+   "pos": "center 50%",
+   "cap": "슈퍼문이 뜬 밤 (2016년 11월)",
+   "title": "슈퍼문이 <a>대체 뭐예요?</a>",
+   "body": "달은 찌그러진 원(타원)으로 지구를 돌아요.<br>가장 가까울 때 보름달이 겹치면 슈퍼문!<br>평균 약 38만 4천km → 24일 약 36만 800km<br>평균 보름달보다 약 6.5% 크고 13.5% 밝아요.",
+   "teaser": "24일 밤 진짜 볼거리 →",
+   "credit": "자료사진 · NASA/Aubrey Gemignani"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC019/photos/p2.jpg",
+   "pos": "center 50%",
+   "cap": "좀생이별(플레이아데스 성단)",
+   "title": "달 옆에 <a>좀생이별</a> 랑데부",
+   "body": "황소자리 플레이아데스 성단의 우리말 이름, 약 440광년 거리.<br>밤 8시 18분쯤 달과의 거리가 약 0.9도까지 좁혀져요.<br>⚠️ 달이 밝아 맨눈으론 흐릿할 수 있어요.<br>쌍안경이 있다면 꼭 챙기세요.",
+   "teaser": "언제, 어디서? →",
+   "credit": "자료사진 · NASA, ESA, AURA/Caltech"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC019/photos/p3.jpg",
+   "pos": "center 30%",
+   "cap": "국립과천과학관 슈퍼문 관측 안내",
+   "title": "24일 <a>언제, 어디서</a> 볼까",
+   "body": "해 진 뒤 동쪽 하늘에서 달이 떠올라요.<br>오후 8시 18분 좀생이별과 가장 가깝고, 11시 53분 가장 둥글어요.<br>✅ 동쪽이 트인 옥상·강변 / 구름부터 확인<br>과천과학관 현장 관측 19:00~21:30, 유튜브 생중계 19:00~22:30",
+   "teaser": "폰으로 예쁘게 찍으려면 →",
+   "credit": "자료 · 국립과천과학관"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC019/photos/p4.jpg",
+   "pos": "center 50%",
+   "cap": "보름달을 휴대폰으로 촬영하는 시민",
+   "title": "폰으로 달 찍는 <a>5가지</a>",
+   "body": "① 달을 길게 눌러 초점 고정, 밝기는 아래로<br>② 디지털 줌은 적당히, 망원 렌즈(3배·5배) 활용<br>③ 벽·난간에 기대고 타이머 2~3초<br>④ 떠오를 때 건물·나무와 함께<br>⑤ 프로 모드: ISO 100 안팎, 셔터는 빠르게",
+   "teaser": "진짜 큰 달은 →",
+   "credit": "자료사진 · 뉴스1"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC019/photos/p5.jpg",
+   "pos": "center 50%",
+   "cap": "링컨기념관 위로 떠오른 보름달",
+   "title": "진짜 큰 달은 <a>크리스마스이브</a>",
+   "body": "올해 슈퍼문은 1월 3일, 11월 24일, 12월 24일 전후 세 번.<br>12월 달은 약 35만 6,700km로 4천km 더 가까워<br>평균보다 약 8% 크고 16% 밝을 거래요.<br>24일엔 연습, 한 달 뒤 크리스마스 슈퍼문을 노려 보세요.",
+   "teaser": "자주 묻는 질문 →",
+   "credit": "자료사진 · NASA/Bill Ingalls"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC019/photos/p6.jpg",
+   "pos": "center 50%",
+   "cap": "지평선 위로 떠오르는 슈퍼문",
+   "title": "슈퍼문 <a>Q&A</a>",
+   "body": "Q. 정말 눈에 띄게 커요? 맨눈으론 차이가 작아요.<br>떠오를 때 지평선 근처 달이 착시로 가장 커 보여요.<br>Q. 24일이 흐리면? 25일 밤에도 거의 둥글어요.<br>Q. 맨눈으로 봐도 돼요? 달은 괜찮아요. 쌍안경도 OK.",
+   "teaser": "",
+   "credit": "자료사진 · NASA/Michael DeMocker"
+  }
+ ],
+ "end": {
+  "body2": "가족 단톡방에 <a>공유</a>해 보세요."
+ }
+}
