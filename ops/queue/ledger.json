@@ -564,14 +564,24 @@
    "id": "LC012",
    "account": "legendhumormeme",
    "title": "월세만 2억 김종국 회사에 이서진 동공지진",
-   "slides": 6,
+   "slides": 7,
    "status": "delivered_for_manual_upload",
-   "run": "2026-11-21-1037"
+   "run": "2026-11-21-1037",
+   "note": "6장 갤럭시코퍼레이션 3분할 추가"
   },
   {
    "id": "RUN-2026-11-21-1037-issue-pick",
    "status": "skipped",
    "note": "댓글많은뉴스 상위: 정치(탄핵·김건희), 세운4구역(서울시-국가유산청 대립), 나스닥 폭락(앤트로픽 이해상충), 수능 관련(최근 3건) → 블로그 IC024로 이슈 슬롯 대체"
+  },
+  {
+   "id": "LC013",
+   "account": "legendhumormeme",
+   "title": "뚱냥이도 맞는다? 위고비 계열 고양이 비만약 (IC024 유머밈 버전)",
+   "slides": 8,
+   "status": "published",
+   "url": "https://www.instagram.com/p/Df_jqcOEUVi/",
+   "vidiq_post_id": "75cd9e5b-7278-46a5-b579-070c0ad14668"
   }
  ]
 }
