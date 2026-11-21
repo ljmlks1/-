@@ -591,8 +591,9 @@
    "title": "손정의, SK하이닉스를 1,346조에 사려 했다?",
    "blog_id": "2026-11-21_X1",
    "slides": 8,
-   "status": "delivered_for_manual_upload",
-   "run": "2026-11-21-1837"
+   "status": "publishing",
+   "run": "2026-11-21-1837",
+   "vidiq_post_id": "5f669124-e49d-4fdc-9cd6-d9f134348e98"
   },
   {
    "id": "IC026",
@@ -600,16 +601,18 @@
    "title": "달 흙에서 감자가 자랐다, 영화 마션이 실화?",
    "blog_id": "2026-11-21_X3",
    "slides": 8,
-   "status": "delivered_for_manual_upload",
-   "run": "2026-11-21-1837"
+   "status": "superseded",
+   "run": "2026-11-21-1837",
+   "note": "LC015(유머밈)로 교체 게시"
   },
   {
    "id": "LC014",
    "account": "legendhumormeme",
-   "title": "새 양푼 닦았더니 기안84 저렇게 많이 나온다고?",
+   "title": "새 양푼 닦았더니 저렇게 검은 게 나온다고??",
    "slides": 6,
    "status": "delivered_for_manual_upload",
-   "run": "2026-11-21-1837"
+   "run": "2026-11-21-1837",
+   "note": "사용자 요청 수정: 표지 기안84 제거, 3장 제목 전현무 제거, 4장 코쿤 제목 교체"
   },
   {
    "id": "BLOG-2026-11-21_F1",
@@ -622,6 +625,14 @@
    "blog_id": "2026-11-21_X2",
    "status": "pending_user_decision",
    "note": "엔비디아 폭락·앤트로픽 주가 — 이해상충, 사용자 확인 후 제작"
+  },
+  {
+   "id": "LC015",
+   "account": "legendhumormeme",
+   "title": "달 흙에서 감자가 자랐다 (IC026 유머밈 버전)",
+   "slides": 8,
+   "status": "publishing",
+   "vidiq_post_id": "2e6d64bb-5abb-4105-86c2-dcd1455345c5"
   }
  ]
 }

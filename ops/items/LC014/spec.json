@@ -1,8 +1,52 @@
-{"brand":"humor","slug":"humor-yeonjun-yangpun",
-"cover":{"photo":"/home/user/-/ops/items/LC014/photos/cover.jpg","pos":"center 50%","tag":"나 혼자 산다 · 자취 7개월 연준","title":"새 양푼 닦았더니<br>기안84 <a>“저렇게 많이 나온다고?”</a>","credit":"자료사진 · MBC ‘나 혼자 산다’"},
-"pages":[
-{"photo":"/home/user/-/ops/items/LC014/photos/p1.jpg","pos":"center 50%","cap":"베이킹소다·식용유로 양푼 닦는 연준","title":"기안84 <a>“안 하면 안 좋냐”</a>","body":"자취 선배 서범준: “연마제 잘 제거해서 쓰라”<br>연준은 베이킹소다·식용유를 섞어 새 양푼부터 닦았어요.<br>기안84: “연마제 제거 안 하면 안 좋냐”","teaser":"전현무 답은 →","credit":"자료사진 · MBC ‘나 혼자 산다’"},
-{"photo":"/home/user/-/ops/items/LC014/photos/p2.jpg","pos":"center 50%","cap":"연마제 설명하는 전현무","title":"전현무 <a>“제거해야 한다”</a>","body":"전현무: “대부분 주방 세제로 제거가 된다고 생각하는데<br>연마제는 (그대로) 남아있다. 제거해야 한다”","teaser":"닦아 보니… →","credit":"자료사진 · MBC ‘나 혼자 산다’"},
-{"photo":"/home/user/-/ops/items/LC014/photos/p3.jpg","pos":"center 50%","cap":"까맣게 묻어 나온 연마제","title":"코쿤까지 <a>입 떡</a>","body":"연준: “구석 부분에서 진짜 까맣게 나와요”<br>기안84: “저렇게 많이 나온다고?”<br>코드쿤스트: “저렇게 까맣게 나와?”","teaser":"결과는 →","credit":"자료사진 · MBC ‘나 혼자 산다’"},
-{"photo":"/home/user/-/ops/items/LC014/photos/p4.jpg","pos":"center 50%","cap":"다시 태어난 양푼","title":"<a>“거울이야 너”</a>","body":"열심히 닦은 양푼이 반짝반짝해지자<br>연준: “거울이야 너”<br>여러분은 새 냄비·양푼, 연마제 닦고 쓰시나요? 👇","teaser":"","credit":"자료사진 · MBC ‘나 혼자 산다’"}],
-"end":{"body2":"자취생 친구에게 <a>공유</a>해 보세요."}}
+{
+ "brand": "humor",
+ "slug": "humor-yeonjun-yangpun",
+ "cover": {
+  "photo": "/home/user/-/ops/items/LC014/photos/cover.jpg",
+  "pos": "center 50%",
+  "tag": "나 혼자 산다 · 자취 7개월 연준",
+  "title": "새 양푼 닦았더니<br><a>저렇게 검은 게</a> 나온다고??",
+  "credit": "자료사진 · MBC ‘나 혼자 산다’"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/LC014/photos/p1.jpg",
+   "pos": "center 50%",
+   "cap": "베이킹소다·식용유로 양푼 닦는 연준",
+   "title": "기안84 <a>“안 하면 안 좋냐”</a>",
+   "body": "자취 선배 서범준: “연마제 잘 제거해서 쓰라”<br>연준은 베이킹소다·식용유를 섞어 새 양푼부터 닦았어요.<br>기안84: “연마제 제거 안 하면 안 좋냐”",
+   "teaser": "전현무 답은 →",
+   "credit": "자료사진 · MBC ‘나 혼자 산다’"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC014/photos/p2.jpg",
+   "pos": "center 50%",
+   "cap": "연마제 설명하는 전현무",
+   "title": "<a>“꼭 제거해야 한다”</a>",
+   "body": "“대부분 주방 세제로 제거가 된다고 생각하는데<br>연마제는 (그대로) 남아있다. 제거해야 한다”",
+   "teaser": "닦아 보니… →",
+   "credit": "자료사진 · MBC ‘나 혼자 산다’"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC014/photos/p3.jpg",
+   "pos": "center 50%",
+   "cap": "까맣게 묻어 나온 연마제",
+   "title": "<a>“저렇게 까맣게 나와?”</a>",
+   "body": "연준: “구석 부분에서 진짜 까맣게 나와요”<br>기안84: “저렇게 많이 나온다고?”<br>코드쿤스트: “저렇게 까맣게 나와?”",
+   "teaser": "결과는 →",
+   "credit": "자료사진 · MBC ‘나 혼자 산다’"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC014/photos/p4.jpg",
+   "pos": "center 50%",
+   "cap": "다시 태어난 양푼",
+   "title": "<a>“거울이야 너”</a>",
+   "body": "열심히 닦은 양푼이 반짝반짝해지자<br>연준: “거울이야 너”<br>여러분은 새 냄비·양푼, 연마제 닦고 쓰시나요? 👇",
+   "teaser": "",
+   "credit": "자료사진 · MBC ‘나 혼자 산다’"
+  }
+ ],
+ "end": {
+  "body2": "자취생 친구에게 <a>공유</a>해 보세요."
+ }
+}
