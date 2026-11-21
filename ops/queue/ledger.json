@@ -550,6 +550,28 @@
    "status": "published",
    "url": "https://www.instagram.com/p/Df99Lr9FCbr/",
    "vidiq_post_id": "3a07d56f-5daf-4c38-a925-8163657360c9"
+  },
+  {
+   "id": "IC024",
+   "account": "issue.ap",
+   "title": "뚱냥이도 맞는다? 위고비 계열 고양이 비만약",
+   "blog_id": "2026-11-20_F3",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-21-1037"
+  },
+  {
+   "id": "LC012",
+   "account": "legendhumormeme",
+   "title": "월세만 2억 김종국 회사에 이서진 동공지진",
+   "slides": 6,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-21-1037"
+  },
+  {
+   "id": "RUN-2026-11-21-1037-issue-pick",
+   "status": "skipped",
+   "note": "댓글많은뉴스 상위: 정치(탄핵·김건희), 세운4구역(서울시-국가유산청 대립), 나스닥 폭락(앤트로픽 이해상충), 수능 관련(최근 3건) → 블로그 IC024로 이슈 슬롯 대체"
   }
  ]
 }
