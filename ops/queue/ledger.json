@@ -584,6 +584,44 @@
    "status": "published",
    "url": "https://www.instagram.com/p/Df_jqcOEUVi/",
    "vidiq_post_id": "75cd9e5b-7278-46a5-b579-070c0ad14668"
+  },
+  {
+   "id": "IC025",
+   "account": "issue.ap",
+   "title": "손정의, SK하이닉스를 1,346조에 사려 했다?",
+   "blog_id": "2026-11-21_X1",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-21-1837"
+  },
+  {
+   "id": "IC026",
+   "account": "issue.ap",
+   "title": "달 흙에서 감자가 자랐다, 영화 마션이 실화?",
+   "blog_id": "2026-11-21_X3",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-21-1837"
+  },
+  {
+   "id": "LC014",
+   "account": "legendhumormeme",
+   "title": "새 양푼 닦았더니 기안84 저렇게 많이 나온다고?",
+   "slides": 6,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-21-1837"
+  },
+  {
+   "id": "BLOG-2026-11-21_F1",
+   "blog_id": "2026-11-21_F1",
+   "status": "pending_user_decision",
+   "note": "리만 가설 AI(클로드) 증명 주장 — 작성 AI(Claude) 이해상충, 사용자 확인 후 제작"
+  },
+  {
+   "id": "BLOG-2026-11-21_X2",
+   "blog_id": "2026-11-21_X2",
+   "status": "pending_user_decision",
+   "note": "엔비디아 폭락·앤트로픽 주가 — 이해상충, 사용자 확인 후 제작"
   }
  ]
 }

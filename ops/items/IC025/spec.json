@@ -1,0 +1,70 @@
+{
+ "brand": "issue",
+ "slug": "issue-son-skhynix",
+ "cover": {
+  "photo": "/home/user/-/ops/items/IC025/photos/cover.jpg",
+  "pos": "center 40%",
+  "tag": "IT / 디인포메이션·로이터 보도",
+  "title": "손정의, SK하이닉스를<br><a>1,346조</a>에 사려 했다?",
+  "credit": "자료사진 · EPA/연합뉴스"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/IC025/photos/p1.jpg",
+   "pos": "center 40%",
+   "cap": "소프트뱅크그룹 손정의 회장",
+   "title": "무슨 <a>보도</a>가 나왔나",
+   "body": "11월 20일(현지) 미국 IT매체 디인포메이션 보도를 로이터가 전했어요.<br>손 회장이 SK하이닉스를 1조 달러(약 1,346조 원)에 사려고<br>월가 금융기관에 자금 조달을 문의했다는 내용.<br>소프트뱅크 대변인: “더 이상 이런 거래를 고려하지 않는다”",
+   "teaser": "얼마나 큰 돈? →",
+   "credit": "자료사진 · AP/뉴시스"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC025/photos/p2.jpg",
+   "pos": "center 40%",
+   "cap": "SK하이닉스 사옥",
+   "title": "시총보다 <a>570조</a> 더",
+   "body": "SK하이닉스 시가총액 약 777조 원(20일 종가 기준).<br>1조 달러는 여기에 61% 경영권 프리미엄,<br>약 570조 원을 더 얹은 금액이에요.<br>디인포메이션도 “자금 마련 방법이 불분명하다”고 짚었어요.",
+   "teaser": "왜 하필 하이닉스? →",
+   "credit": "자료사진 · 한국경제"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC025/photos/p3.jpg",
+   "pos": "center 50%",
+   "cap": "SK하이닉스 HBM 개발 연혁",
+   "title": "마지막 퍼즐 <a>HBM</a>",
+   "body": "소프트뱅크는 Arm 최대주주이고, 서버칩 앰페어컴퓨팅,<br>데이터센터 디지털브리지 등을 품었지만 메모리는 없어요.<br>AI 가속기 핵심 부품 HBM 1등이 SK하이닉스.<br>빈 칸을 채우려던 ‘문샷’ 구상으로 풀이돼요.",
+   "teaser": "실제로 가능했나? →",
+   "credit": "자료 · SK하이닉스"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC025/photos/p4.jpg",
+   "pos": "center 30%",
+   "cap": "최태원 SK그룹 회장",
+   "title": "처음부터 <a>희박</a>했다",
+   "body": "✅ 돈: 오픈AI 투자 등으로 이미 재무 부담<br>✅ 규제: 한국 국가핵심기술 보호 규제<br>✅ SK: 그룹의 매각 의지 없음<br>로이터의 사실 확인 요청에 SK하이닉스는 즉각 답하지 않았대요.",
+   "teaser": "하이닉스 주가는? →",
+   "credit": "자료사진 · 전자신문"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC025/photos/p5.jpg",
+   "pos": "center 50%",
+   "cap": "20일 코스피·SK하이닉스 종가",
+   "title": "주가는 <a>111만 3천 원</a>",
+   "body": "20일 SK하이닉스 종가 111만 3,000원(-5.92%),<br>코스피는 5.21% 내린 4,869.96.<br>BNK투자증권은 내년 2~3분기 재고 조정을 이유로<br>목표가를 165만 → 105만 원으로 낮췄어요.",
+   "teaser": "자주 묻는 질문 →",
+   "credit": "자료사진 · 연합뉴스"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC025/photos/p6.jpg",
+   "pos": "center 30%",
+   "cap": "손정의 회장 (2025년 2월)",
+   "title": "하이닉스 <a>일본에 팔리나?</a>",
+   "body": "Q. 하이닉스가 팔리나요? 아니에요. 소프트뱅크가 검토 중단을 밝혔고<br>SK그룹도 팔 뜻을 보인 적이 없어요.<br>Q. 주가 영향은? ‘검토 중단’이라 직접 재료는 약해요.<br>※ 투자 권유가 아니에요. 손정의의 ‘문샷’, 어떻게 보세요? 👇",
+   "teaser": "",
+   "credit": "자료사진 · 뉴스1"
+  }
+ ],
+ "end": {
+  "body2": "반도체 좋아하는 친구에게 <a>공유</a>해요."
+ }
+}
