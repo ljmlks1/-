@@ -591,9 +591,11 @@
    "title": "손정의, SK하이닉스를 1,346조에 사려 했다?",
    "blog_id": "2026-11-21_X1",
    "slides": 8,
-   "status": "publishing",
+   "status": "published",
    "run": "2026-11-21-1837",
-   "vidiq_post_id": "5f669124-e49d-4fdc-9cd6-d9f134348e98"
+   "vidiq_post_id": "5f669124-e49d-4fdc-9cd6-d9f134348e98",
+   "url": "https://www.instagram.com/p/DgAqYCwlNLG/",
+   "note": "vidIQ failed 표시, owner insights로 실제 게시 확인"
   },
   {
    "id": "IC026",
@@ -631,8 +633,9 @@
    "account": "legendhumormeme",
    "title": "달 흙에서 감자가 자랐다 (IC026 유머밈 버전)",
    "slides": 8,
-   "status": "publishing",
-   "vidiq_post_id": "2e6d64bb-5abb-4105-86c2-dcd1455345c5"
+   "status": "published",
+   "vidiq_post_id": "2e6d64bb-5abb-4105-86c2-dcd1455345c5",
+   "url": "https://www.instagram.com/p/DgAqmGdCaSq/"
   }
  ]
 }
