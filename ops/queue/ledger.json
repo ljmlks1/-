@@ -687,9 +687,10 @@
    "account": "issue.ap",
    "title": "지금 지구 곁에 달이 하나 더 돌고 있다",
    "slides": 6,
-   "status": "delivered_for_manual_upload",
+   "status": "superseded",
    "run": "2026-11-22-1837",
-   "blog_id": "2026-11-22_X1"
+   "blog_id": "2026-11-22_X1",
+   "note": "우주 소재 유머밈 이동 → LC019"
   },
   {
    "id": "IC031",
@@ -705,9 +706,10 @@
    "account": "issue.ap",
    "title": "8년간 100억km 돌아 드디어 수성 도착",
    "slides": 7,
-   "status": "delivered_for_manual_upload",
+   "status": "superseded",
    "run": "2026-11-22-1837",
-   "blog_id": "2026-11-22_X3"
+   "blog_id": "2026-11-22_X3",
+   "note": "우주 소재 유머밈 이동 → LC020"
   },
   {
    "id": "LC018",
@@ -716,6 +718,24 @@
    "slides": 7,
    "status": "delivered_for_manual_upload",
    "run": "2026-11-22-1837"
+  },
+  {
+   "id": "LC019",
+   "account": "legendhumormeme",
+   "title": "지금 지구 곁에 달이 하나 더 돌고 있다",
+   "slides": 6,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-22-1837",
+   "blog_id": "2026-11-22_X1"
+  },
+  {
+   "id": "LC020",
+   "account": "legendhumormeme",
+   "title": "8년간 100억km 돌아 드디어 수성 도착",
+   "slides": 7,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-22-1837",
+   "blog_id": "2026-11-22_X3"
   }
  ]
 }
