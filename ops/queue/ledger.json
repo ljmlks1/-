@@ -655,6 +655,32 @@
    "status": "published",
    "url": "https://www.instagram.com/p/DgBf8vdDbVO/",
    "vidiq_post_id": "0c539402-dc18-4262-8dfa-1cfb649a4fb0"
+  },
+  {
+   "id": "IC028",
+   "account": "issue.ap",
+   "title": "장판 상했으니 83만원 뺄게요, 집주인 마음대로 못 한다",
+   "blog_id": "2026-11-22_1900",
+   "slides": 7,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-22-1037"
+  },
+  {
+   "id": "IC029",
+   "account": "issue.ap",
+   "title": "40대 마이너스통장 연체 10달 만에 82% 폭증",
+   "blog_id": "2026-11-22_1030",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-22-1037"
+  },
+  {
+   "id": "LC017",
+   "account": "legendhumormeme",
+   "title": "은퇴전 끝나고 딸에게 사랑아 이번엔 용돈 없다",
+   "slides": 6,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-22-1037"
   }
  ]
 }
