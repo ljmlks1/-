@@ -697,9 +697,10 @@
    "account": "issue.ap",
    "title": "밟히고 눌리는 자리의 암 더 잘 퍼질 수 있다",
    "slides": 5,
-   "status": "delivered_for_manual_upload",
+   "status": "published_pending",
    "run": "2026-11-22-1837",
-   "blog_id": "2026-11-22_X2"
+   "blog_id": "2026-11-22_X2",
+   "vidiq_post_id": "c47f866a-54af-4b35-a044-e9f5c952f2dd"
   },
   {
    "id": "IC032",
@@ -716,26 +717,31 @@
    "account": "legendhumormeme",
    "title": "54세 션 관절이 20대로 나왔어 근데 라면은",
    "slides": 7,
-   "status": "delivered_for_manual_upload",
-   "run": "2026-11-22-1837"
+   "status": "scheduled",
+   "run": "2026-11-22-1837",
+   "vidiq_post_id": "c99eb142-e02e-47a8-9e4a-dc116307e800",
+   "publish_at": "2026-11-23T07:35+09:00"
   },
   {
    "id": "LC019",
    "account": "legendhumormeme",
    "title": "지금 지구 곁에 달이 하나 더 돌고 있다",
    "slides": 6,
-   "status": "delivered_for_manual_upload",
+   "status": "published_pending",
    "run": "2026-11-22-1837",
-   "blog_id": "2026-11-22_X1"
+   "blog_id": "2026-11-22_X1",
+   "vidiq_post_id": "281bcad4-935b-49b5-bb63-47b181b5653d"
   },
   {
    "id": "LC020",
    "account": "legendhumormeme",
    "title": "8년간 100억km 돌아 드디어 수성 도착",
    "slides": 7,
-   "status": "delivered_for_manual_upload",
+   "status": "scheduled",
    "run": "2026-11-22-1837",
-   "blog_id": "2026-11-22_X3"
+   "blog_id": "2026-11-22_X3",
+   "vidiq_post_id": "d1b441f9-6535-4f55-9cdf-dd4e83756792",
+   "publish_at": "2026-11-23T04:35+09:00"
   }
  ]
 }
