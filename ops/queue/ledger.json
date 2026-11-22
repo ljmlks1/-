@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T18:50:00+09:00",
+ "updated_at": "2026-11-22T19:30:00+09:00",
  "note": "공용 대기열. 상태: draft|review|approved|in_progress|published|hold. vidIQ social_post_list가 게시 사실의 기준.",
  "items": [
   {
@@ -681,6 +681,41 @@
    "slides": 6,
    "status": "delivered_for_manual_upload",
    "run": "2026-11-22-1037"
+  },
+  {
+   "id": "IC030",
+   "account": "issue.ap",
+   "title": "지금 지구 곁에 달이 하나 더 돌고 있다",
+   "slides": 6,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-22-1837",
+   "blog_id": "2026-11-22_X1"
+  },
+  {
+   "id": "IC031",
+   "account": "issue.ap",
+   "title": "밟히고 눌리는 자리의 암 더 잘 퍼질 수 있다",
+   "slides": 5,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-22-1837",
+   "blog_id": "2026-11-22_X2"
+  },
+  {
+   "id": "IC032",
+   "account": "issue.ap",
+   "title": "8년간 100억km 돌아 드디어 수성 도착",
+   "slides": 7,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-22-1837",
+   "blog_id": "2026-11-22_X3"
+  },
+  {
+   "id": "LC018",
+   "account": "legendhumormeme",
+   "title": "54세 션 관절이 20대로 나왔어 근데 라면은",
+   "slides": 7,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-22-1837"
   }
  ]
 }
