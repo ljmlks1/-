@@ -98,8 +98,17 @@ def build(spec, outdir, ratio="4:5"):
     hp = pathlib.Path(outdir)/"cards.html"; hp.write_text(page)
     js = f"""const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage({{viewport:{{width:1024,height:{H}}},deviceScaleFactor:2}});
     await p.goto('file://{hp}');await p.evaluate(()=>document.fonts.ready);await p.waitForTimeout(400);
-    await p.evaluate(()=>{{for(const el of document.querySelectorAll('.in-p')){{let f=37;const lim=(el.parentElement.querySelector('.teaser')?318:378);while(el.scrollHeight>lim&&f>29){{f-=1;el.style.fontSize=f+'px'}}}}
-      for(const el of document.querySelectorAll('.in-h')){{let f=50;while(el.scrollHeight>140&&f>38){{f-=1;el.style.fontSize=f+'px'}}}}}});
+    await p.evaluate(()=>{{
+      // 문단열 유지: <br>로 나눈 한 줄이 중간에서 잘리지 않도록 줄마다 nowrap, 넘치면 폰트를 줄임
+      const lines=(el)=>{{const parts=el.innerHTML.split(/<br\s*\/?>/i);el.innerHTML=parts.map(x=>'<span class=ln style="display:block;white-space:nowrap">'+x+'</span>').join('');return [...el.querySelectorAll('.ln')];}};
+      const fit=(el,f0,fmin,hlim)=>{{const ls=lines(el);const w=el.clientWidth;let f=f0;el.style.fontSize=f+'px';
+        const over=()=>ls.some(l=>l.scrollWidth>w+1)||(hlim&&el.scrollHeight>hlim);
+        while(over()&&f>fmin){{f-=1;el.style.fontSize=f+'px'}}
+        if(ls.some(l=>l.scrollWidth>w+1)){{ls.forEach(l=>{{if(l.scrollWidth>w+1)l.style.whiteSpace='normal'}})}}}};
+      for(const el of document.querySelectorAll('.in-p')){{fit(el,37,27,(el.parentElement.querySelector('.teaser')?318:378))}}
+      for(const el of document.querySelectorAll('.in-h')){{fit(el,50,36,140)}}
+      for(const el of document.querySelectorAll('.cv-h')){{fit(el,parseFloat(getComputedStyle(el).fontSize),40,0)}}
+    }});
     for(let i=1;i<={len(cards)};i++){{await p.locator('#c'+i+' .card').screenshot({{path:'{outdir}/raw-'+i+'.png'}})}}await b.close()}})();"""
     subprocess.run(["node","-e",js],check=True)
     from PIL import Image
