@@ -644,7 +644,17 @@
    "account": "issue.ap",
    "title": "눈에 끼는 AI 렌즈, 번역·길안내까지? 언제 나오나",
    "slides": 6,
-   "status": "delivered_for_manual_upload"
+   "status": "superseded",
+   "note": "LC016(유머밈)로 게시"
+  },
+  {
+   "id": "LC016",
+   "account": "legendhumormeme",
+   "title": "눈에 끼는 AI 렌즈 (IC027 유머밈 버전)",
+   "slides": 6,
+   "status": "published",
+   "url": "https://www.instagram.com/p/DgBf8vdDbVO/",
+   "vidiq_post_id": "0c539402-dc18-4262-8dfa-1cfb649a4fb0"
   }
  ]
 }
