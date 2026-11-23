@@ -1,0 +1,9 @@
+{"brand":"humor","slug":"humor-planet-x2",
+"cover":{"photo":"/home/user/-/ops/items/LC022/photos/cover.jpg","pos":"center 50%","tag":"우주 / 행성 X2","title":"해왕성 너머에<br><a>지구급 행성</a>이 숨어 있다? 🪐","credit":"상상도 · Patryk Sofia Lykawka/SpaceEngine"},
+"pages":[
+{"photo":"/home/user/-/ops/items/LC022/photos/p1.jpg","pos":"center 50%","cap":"연구팀의 태양계 진화 시뮬레이션","title":"이름은 <a>행성 X2</a>","body":"호주·일본 리카우카 박사팀, 23일 영국왕립천문학회 월보 발표.<br>45억 년 태양계 궤도 변화를 컴퓨터로 시뮬레이션했어요.<br>예상: 지구 질량 약 2배, 가장 가까울 때 약 200AU,<br>궤도 장반경 350~500AU, 기울기 1~15도.","teaser":"왜 있다고 봐? →","credit":"이미지 · Lykawka et al. (연합뉴스)"},
+{"photo":"/home/user/-/ops/items/LC022/photos/p2.jpg","pos":"center 50%","cap":"세드나의 길쭉한 궤도 (빨간 선)","title":"범인은 <a>세드나</a>의 이상한 궤도","body":"카이퍼 벨트(태양에서 약 38~50AU) 훨씬 바깥에서<br>궤도가 길게 늘어나거나 크게 기울어진 천체들이 발견됐어요.<br>세드나는 가장 가까울 때도 해왕성보다 훨씬 멀어요.<br>알려진 행성 중력만으로는 설명이 안 된대요.","teaser":"행성 9랑 뭐가 달라? →","credit":"그림 · NASA/JPL-Caltech"},
+{"photo":"/home/user/-/ops/items/LC022/photos/p3.jpg","pos":"center 50%","cap":"세드나 상상도","title":"‘행성 9’보다 <a>작다</a>","body":"행성 9 가설: 지구 5~10배짜리 거대 행성.<br>행성 X2: 지구 약 2배짜리 지구급 행성.<br>더 작은 행성으로도 세드나·2012 VP113 같은<br>극단적인 궤도를 재현할 수 있다는 게 이번 연구예요.","teaser":"얼마나 멀어? →","credit":"상상도 · NASA/JPL-Caltech"},
+{"photo":"/home/user/-/ops/items/LC022/photos/p4.jpg","pos":"center 50%","cap":"보이저 2호가 찍은 해왕성","title":"빛으로도 <a>28시간</a>","body":"1AU = 지구~태양 거리, 약 1억 5천만km.<br>200AU면 약 300억km, 빛의 속도로도 약 28시간이에요.<br>단, 아직 직접 발견한 건 아니에요.<br>“있을 가능성을 뒷받침한다”는 가설 단계예요.","teaser":"언제 찾을까? →","credit":"사진 · NASA/JPL (Voyager 2)"},
+{"photo":"/home/user/-/ops/items/LC022/photos/p5.jpg","pos":"center 50%","cap":"루빈 천문대에 설치된 LSST 카메라","title":"찾을 곳은 <a>루빈 천문대</a>","body":"칠레 베라 C. 루빈 천문대의 초대형 카메라로<br>PX2를 직접 찾거나,<br>PX2가 있을 때 예측되는 천체 궤도를 검증할 수 있대요.<br>명왕성이 빠진 지 20년, 9번째 행성이 나올까요?","teaser":"","credit":"사진 · 한국천문연구원 (조선비즈)"}],
+"end":{"body2":"우주 좋아하는 친구 <a>태그</a>해 주세요."}}

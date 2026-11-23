@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T11:30:00+09:00",
+ "updated_at": "2026-11-23T19:30:00+09:00",
  "note": "공용 대기열. 상태: draft|review|approved|in_progress|published|hold. vidIQ social_post_list가 게시 사실의 기준.",
  "items": [
   {
@@ -772,6 +772,41 @@
    "slides": 7,
    "status": "delivered_for_manual_upload",
    "run": "2026-11-23-1037"
+  },
+  {
+   "id": "LC022",
+   "account": "legendhumormeme",
+   "title": "해왕성 너머에 지구급 행성이 숨어 있다",
+   "slides": 7,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-23-1837",
+   "blog_id": "2026-11-23_X3"
+  },
+  {
+   "id": "IC035",
+   "account": "issue.ap",
+   "title": "최태원 9440억 다 주겠다 11년 다툼 끝나나",
+   "slides": 6,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-23-1837"
+  },
+  {
+   "id": "BLOG-2026-11-23_X1",
+   "account": "issue.ap",
+   "title": "오픈AI 개발 한계선 제안",
+   "status": "pending_user_decision",
+   "run": "2026-11-23-1837",
+   "blog_id": "2026-11-23_X1",
+   "note": "AI 업계(앤트로픽 포함) 직접 관련 - 이해상충 고지 후 사용자 결정 대기"
+  },
+  {
+   "id": "BLOG-2026-11-23_X2",
+   "account": "issue.ap",
+   "title": "머스크 AI 현금 부족 경고",
+   "status": "pending_user_decision",
+   "run": "2026-11-23-1837",
+   "blog_id": "2026-11-23_X2",
+   "note": "앤트로픽 언급 - 이해상충 고지 후 사용자 결정 대기"
   }
  ]
 }
