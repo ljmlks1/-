@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T19:30:00+09:00",
+ "updated_at": "2026-11-23T11:30:00+09:00",
  "note": "공용 대기열. 상태: draft|review|approved|in_progress|published|hold. vidIQ social_post_list가 게시 사실의 기준.",
  "items": [
   {
@@ -718,10 +718,11 @@
    "account": "legendhumormeme",
    "title": "54세 션 관절이 20대로 나왔어 근데 라면은",
    "slides": 7,
-   "status": "scheduled",
+   "status": "published",
    "run": "2026-11-22-1837",
    "vidiq_post_id": "c99eb142-e02e-47a8-9e4a-dc116307e800",
-   "publish_at": "2026-11-23T07:35+09:00"
+   "publish_at": "2026-11-23T07:35+09:00",
+   "url": "https://www.instagram.com/p/DgD5C10lhSQ/"
   },
   {
    "id": "LC019",
@@ -739,11 +740,38 @@
    "account": "legendhumormeme",
    "title": "8년간 100억km 돌아 드디어 수성 도착",
    "slides": 7,
-   "status": "scheduled",
+   "status": "published",
    "run": "2026-11-22-1837",
    "blog_id": "2026-11-22_X3",
    "vidiq_post_id": "d1b441f9-6535-4f55-9cdf-dd4e83756792",
-   "publish_at": "2026-11-23T04:35+09:00"
+   "publish_at": "2026-11-23T04:35+09:00",
+   "url": "https://www.instagram.com/p/DgDkcWklNGK/"
+  },
+  {
+   "id": "IC033",
+   "account": "issue.ap",
+   "title": "18년 만에 꺼낸 10조 증안펀드 개미가 지금 볼 것",
+   "slides": 7,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-23-1037",
+   "blog_id": "2026-11-23_1030"
+  },
+  {
+   "id": "IC034",
+   "account": "issue.ap",
+   "title": "한전에서 또 털렸다 152만 명 카드번호까지",
+   "slides": 6,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-23-1037",
+   "blog_id": "2026-11-23_1900"
+  },
+  {
+   "id": "LC021",
+   "account": "legendhumormeme",
+   "title": "비 두 딸 아빠 이거 캐비아 아닌데",
+   "slides": 7,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-23-1037"
   }
  ]
 }

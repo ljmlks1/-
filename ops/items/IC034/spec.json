@@ -1,0 +1,8 @@
+{"brand":"issue","slug":"issue-kepco-leak",
+"cover":{"photo":"/home/user/-/ops/items/IC034/photos/cover.jpg","pos":"center 50%","tag":"생활 / 개인정보 유출","title":"한전에서 또 털렸다<br><a>152만 명</a>, 카드번호까지","credit":"자료사진 · 연합뉴스"},
+"pages":[
+{"photo":"/home/user/-/ops/items/IC034/photos/p1.png","pos":"center 30%","cap":"한전 홈페이지 대국민 사과문","title":"한 달 만에 <a>또 유출</a>","body":"한전ON 고객 65만 487명 + 전자조달(SRM) 86만 9,761명.<br>합계 152만여 명, 지난달 직원 3만 5,528명에 이어 또.<br>20일 해킹 정황을 알고 외부 접속·서비스를 막았고<br>22일 김동철 사장 명의 사과문을 올렸어요.","teaser":"뭐가 빠져나갔나 →","credit":"화면 · 한국전력 홈페이지"},
+{"photo":"/home/user/-/ops/items/IC034/photos/p2.jpg","pos":"center 50%","cap":"전남 나주 한국전력 본사","title":"주민번호 + <a>카드번호</a> 한꺼번에","body":"한전ON 12개 항목: 고객번호·이름·전화·주소,<br>주민·외국인등록번호, 은행·계좌번호·예금주,<br>카드사·카드번호·명의자, 요금 청구 정보.<br>조합하면 한전·카드사를 사칭한 맞춤 피싱이 가능해요.","teaser":"나도 털렸을까? →","credit":"자료사진 · 아시아경제"},
+{"photo":"/home/user/-/ops/items/IC034/photos/p3.jpg","pos":"center 40%","cap":"한국전력 서울본부","title":"내 정보, <a>이렇게 확인</a>","body":"유출 고객에겐 개별 안내를 마쳤다고 해요.<br>한전ON 고객: 한전ON 홈페이지 또는 고객센터 123<br>전자조달(SRM) 기업: 한전 ICT운영처 061-345-1520~9<br>한전 사칭 전화는 끊고 123으로 다시 거세요.","teaser":"2차 피해 막기 →","credit":"자료사진 · 뉴시스"},
+{"photo":"/home/user/-/ops/items/IC034/photos/p4.jpg","pos":"center 50%","cap":"보도·보안업계 권고 정리","title":"털렸다면 <a>지금 바로</a>","body":"카드 재발급·비밀번호 변경, 사고예방시스템·안심차단 신청,<br>엠세이퍼로 휴대폰 몰래 개통 차단.<br>돈이 빠져나갔다면 112·금융회사에 바로 지급정지 요청,<br>문자·이체 내역은 지우지 말고 남겨 두세요.","teaser":"","credit":"정리 · 이슈압축"}],
+"end":{"body2":"부모님이 한전ON 쓰셨다면 <a>공유</a>해 주세요."}}
