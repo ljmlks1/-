@@ -868,9 +868,11 @@
    "account": "issue.ap",
    "title": "심장마비 뇌졸중 30년 전부터 신호 온다",
    "slides": 7,
-   "status": "delivered_for_manual_upload",
+   "status": "scheduled",
    "run": "2026-11-24-1837",
-   "blog_id": "2026-11-24_X2"
+   "blog_id": "2026-11-24_X2",
+   "vidiq_post_id": "2d64fed1-ff1b-48b4-9afa-4f945a5f6240",
+   "publish_at": "2026-11-25T07:50+09:00"
   }
  ]
 }
