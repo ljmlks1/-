@@ -752,11 +752,12 @@
    "account": "issue.ap",
    "title": "18년 만에 꺼낸 10조 증안펀드 개미가 지금 볼 것",
    "slides": 7,
-   "status": "scheduled",
+   "status": "published",
    "run": "2026-11-23-1037",
    "blog_id": "2026-11-23_1030",
    "vidiq_post_id": "fdbad32e-a38b-4199-9aaa-b4cba023a0c0",
-   "publish_at": "2026-11-24T12:50+09:00"
+   "publish_at": "2026-11-24T12:50+09:00",
+   "url": "https://www.instagram.com/p/DgHB4h_Fkh9/"
   },
   {
    "id": "IC034",
@@ -774,10 +775,11 @@
    "account": "legendhumormeme",
    "title": "비 두 딸 아빠 이거 캐비아 아닌데",
    "slides": 7,
-   "status": "scheduled",
+   "status": "published",
    "run": "2026-11-23-1037",
    "vidiq_post_id": "f397b842-3be2-4c17-acea-f083afce1eee",
-   "publish_at": "2026-11-24T12:50+09:00"
+   "publish_at": "2026-11-24T12:50+09:00",
+   "url": "https://www.instagram.com/p/DgHB4FmANW0/"
   },
   {
    "id": "LC022",
@@ -822,36 +824,44 @@
    "account": "legendhumormeme",
    "title": "AI 만드는 회사가 이제 같이 멈추자",
    "slides": 6,
-   "status": "delivered_for_manual_upload",
+   "status": "scheduled",
    "run": "2026-11-24-1037",
-   "blog_id": "2026-11-23_X1"
+   "blog_id": "2026-11-23_X1",
+   "vidiq_post_id": "39e5a1eb-3fc3-4785-a007-09901712a39c",
+   "publish_at": "2026-11-24T21:50+09:00"
   },
   {
    "id": "LC024",
    "account": "legendhumormeme",
    "title": "머스크 내년 AI 회사들 현금 부족 엄청날 것",
    "slides": 5,
-   "status": "delivered_for_manual_upload",
+   "status": "scheduled",
    "run": "2026-11-24-1037",
-   "blog_id": "2026-11-23_X2"
+   "blog_id": "2026-11-23_X2",
+   "vidiq_post_id": "4f69898d-4f7b-435a-bf43-4a950e58f9b4",
+   "publish_at": "2026-11-25T08:50+09:00"
   },
   {
    "id": "LC025",
    "account": "legendhumormeme",
    "title": "물러난 지 11일 만에 젠슨 황 돌아왔다",
    "slides": 7,
-   "status": "delivered_for_manual_upload",
+   "status": "scheduled",
    "run": "2026-11-24-manual",
-   "blog_id": "2026-11-24_X1"
+   "blog_id": "2026-11-24_X1",
+   "vidiq_post_id": "c825199b-f605-4d07-ac2f-f7f09af10ab4",
+   "publish_at": "2026-11-24T15:50+09:00"
   },
   {
    "id": "LC026",
    "account": "legendhumormeme",
    "title": "유조선 LNG선 최대 50척 해킹당했다",
    "slides": 7,
-   "status": "delivered_for_manual_upload",
+   "status": "scheduled",
    "run": "2026-11-24-manual",
-   "blog_id": "2026-11-24_X3"
+   "blog_id": "2026-11-24_X3",
+   "vidiq_post_id": "0a0cfa8b-1881-410c-a6dc-a7418aba893b",
+   "publish_at": "2026-11-24T18:50+09:00"
   }
  ]
 }
