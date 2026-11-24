@@ -834,6 +834,24 @@
    "status": "delivered_for_manual_upload",
    "run": "2026-11-24-1037",
    "blog_id": "2026-11-23_X2"
+  },
+  {
+   "id": "LC025",
+   "account": "legendhumormeme",
+   "title": "물러난 지 11일 만에 젠슨 황 돌아왔다",
+   "slides": 7,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-24-manual",
+   "blog_id": "2026-11-24_X1"
+  },
+  {
+   "id": "LC026",
+   "account": "legendhumormeme",
+   "title": "유조선 LNG선 최대 50척 해킹당했다",
+   "slides": 7,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-24-manual",
+   "blog_id": "2026-11-24_X3"
   }
  ]
 }
