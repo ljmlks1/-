@@ -803,19 +803,37 @@
    "id": "BLOG-2026-11-23_X1",
    "account": "issue.ap",
    "title": "오픈AI 개발 한계선 제안",
-   "status": "pending_user_decision",
+   "status": "superseded",
    "run": "2026-11-23-1837",
    "blog_id": "2026-11-23_X1",
-   "note": "AI 업계(앤트로픽 포함) 직접 관련 - 이해상충 고지 후 사용자 결정 대기"
+   "note": "AI 업계(앤트로픽 포함) 직접 관련 - 이해상충 고지 후 사용자 결정 대기 → 사용자 \"유머로\" 지시, LC023/LC024로 제작"
   },
   {
    "id": "BLOG-2026-11-23_X2",
    "account": "issue.ap",
    "title": "머스크 AI 현금 부족 경고",
-   "status": "pending_user_decision",
+   "status": "superseded",
    "run": "2026-11-23-1837",
    "blog_id": "2026-11-23_X2",
-   "note": "앤트로픽 언급 - 이해상충 고지 후 사용자 결정 대기"
+   "note": "앤트로픽 언급 - 이해상충 고지 후 사용자 결정 대기 → 사용자 \"유머로\" 지시, LC023/LC024로 제작"
+  },
+  {
+   "id": "LC023",
+   "account": "legendhumormeme",
+   "title": "AI 만드는 회사가 이제 같이 멈추자",
+   "slides": 6,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-24-1037",
+   "blog_id": "2026-11-23_X1"
+  },
+  {
+   "id": "LC024",
+   "account": "legendhumormeme",
+   "title": "머스크 내년 AI 회사들 현금 부족 엄청날 것",
+   "slides": 5,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-24-1037",
+   "blog_id": "2026-11-23_X2"
   }
  ]
 }
