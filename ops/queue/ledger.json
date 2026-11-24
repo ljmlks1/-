@@ -752,43 +752,51 @@
    "account": "issue.ap",
    "title": "18년 만에 꺼낸 10조 증안펀드 개미가 지금 볼 것",
    "slides": 7,
-   "status": "delivered_for_manual_upload",
+   "status": "scheduled",
    "run": "2026-11-23-1037",
-   "blog_id": "2026-11-23_1030"
+   "blog_id": "2026-11-23_1030",
+   "vidiq_post_id": "fdbad32e-a38b-4199-9aaa-b4cba023a0c0",
+   "publish_at": "2026-11-24T12:50+09:00"
   },
   {
    "id": "IC034",
    "account": "issue.ap",
    "title": "한전에서 또 털렸다 152만 명 카드번호까지",
    "slides": 6,
-   "status": "delivered_for_manual_upload",
+   "status": "scheduled",
    "run": "2026-11-23-1037",
-   "blog_id": "2026-11-23_1900"
+   "blog_id": "2026-11-23_1900",
+   "vidiq_post_id": "ef6a3db2-d977-46d0-8463-c8596fe939ed",
+   "publish_at": "2026-11-24T15:50+09:00"
   },
   {
    "id": "LC021",
    "account": "legendhumormeme",
    "title": "비 두 딸 아빠 이거 캐비아 아닌데",
    "slides": 7,
-   "status": "delivered_for_manual_upload",
-   "run": "2026-11-23-1037"
+   "status": "scheduled",
+   "run": "2026-11-23-1037",
+   "vidiq_post_id": "f397b842-3be2-4c17-acea-f083afce1eee",
+   "publish_at": "2026-11-24T12:50+09:00"
   },
   {
    "id": "LC022",
    "account": "legendhumormeme",
    "title": "해왕성 너머에 지구급 행성이 숨어 있다",
    "slides": 7,
-   "status": "delivered_for_manual_upload",
+   "status": "published",
    "run": "2026-11-23-1837",
-   "blog_id": "2026-11-23_X3"
+   "blog_id": "2026-11-23_X3",
+   "url": "https://www.instagram.com/p/DgGtGCbFrbX/"
   },
   {
    "id": "IC035",
    "account": "issue.ap",
    "title": "최태원 9440억 다 주겠다 11년 다툼 끝나나",
    "slides": 6,
-   "status": "delivered_for_manual_upload",
-   "run": "2026-11-23-1837"
+   "status": "published_pending",
+   "run": "2026-11-23-1837",
+   "vidiq_post_id": "a06ef095-cc17-4e66-a5df-de5bd7423d57"
   },
   {
    "id": "BLOG-2026-11-23_X1",
