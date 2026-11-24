@@ -862,6 +862,15 @@
    "blog_id": "2026-11-24_X3",
    "vidiq_post_id": "0a0cfa8b-1881-410c-a6dc-a7418aba893b",
    "publish_at": "2026-11-24T18:50+09:00"
+  },
+  {
+   "id": "IC036",
+   "account": "issue.ap",
+   "title": "심장마비 뇌졸중 30년 전부터 신호 온다",
+   "slides": 7,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-24-1837",
+   "blog_id": "2026-11-24_X2"
   }
  ]
 }
