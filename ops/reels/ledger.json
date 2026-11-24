@@ -56,6 +56,14 @@
    "status": "scheduled",
    "publish_at": "2026-11-25T12:50+09:00",
    "vidiq_post_id": "ce71a3b7-9153-4e7f-9d65-66bad0d5ac93"
+  },
+  {
+   "id": "RI002",
+   "account": "issue.ap",
+   "title": "빅뱅 후 겨우 6억3천만 년 / 태양 3억6천만 배 블랙홀이 있었다",
+   "source": "NASA GSFC 2018 SMBH 시뮬레이션(퍼블릭 도메인), 뉴스: 연합 001/0016461540 + 동아사이언스 584/0000040305",
+   "status": "scheduled",
+   "publish_at": "2026-11-25T09:50+09:00"
   }
  ],
  "skipped": [],
