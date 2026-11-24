@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
-"""릴스 템플릿 (사용자 확정 2026-11-24): 1080x1920 검은 배경, 위 제목 2줄(1줄 흰색 / 2줄 주황), 가운데 원본 영상(비율 유지, 원본 소리 그대로), 아래 출처 한 줄.
+"""릴스 템플릿 (사용자 확정 2026-11-24, 실제 영상만·이모티콘 금지·캐러셀 슬라이드 사용 금지): 1080x1920 검은 배경, 위 제목 2줄(1줄 흰색 / 2줄 주황), 가운데 원본 영상(비율 유지, 원본 소리 그대로), 아래 출처 한 줄.
 사용: python3 reel.py spec.json out.mp4
 spec = {"src":"원본.mp4","start":22,"dur":30,"line1":"흰 줄","line2":"주황 줄","credit":"영상: NASA"}"""
 import json, sys, subprocess, pathlib, base64, os, tempfile
 s = json.load(open(sys.argv[1])); out = sys.argv[2]
+import re
+EMO = re.compile("[\U0001F000-\U0001FAFF\u2600-\u27BF\uFE0F\u200D\u2B00-\u2BFF\u2190-\u21FF\u2300-\u23FF]")
+for k in ("line1", "line2", "credit"): s[k] = EMO.sub("", s.get(k, "")).strip()  # 릴스 이모티콘 절대 금지(사용자 확정)
 HERE = pathlib.Path(__file__).resolve().parent
 font = lambda w: base64.b64encode((HERE / "fonts" / f"nskr-{w}.woff2").read_bytes()).decode()
 esc = lambda t: str(t).replace("&", "&amp;").replace("<", "&lt;")
