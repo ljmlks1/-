@@ -11,12 +11,15 @@ html = f"""<html><head><meta charset="utf-8"><style>
 @font-face{{font-family:K;font-weight:800;src:url(data:font/woff2;base64,{font(800)})}}
 @font-face{{font-family:K;font-weight:500;src:url(data:font/woff2;base64,{font(500)})}}
 body{{margin:0;width:1080px;height:1920px;background:transparent;font-family:K}}
-.t{{position:absolute;top:150px;left:40px;right:40px;text-align:center;font-weight:800;line-height:1.22;letter-spacing:-2px}}
-.t div{{white-space:nowrap;font-size:84px}} .a{{color:#fff}} .b{{color:#FF8A00}}
-.c{{position:absolute;bottom:250px;left:40px;right:40px;text-align:center;color:#cfcfcf;font-weight:500;font-size:40px}}
+.t{{position:absolute;bottom:TITLE_BOTTOMpx;left:30px;right:30px;text-align:center;font-weight:800;line-height:1.22;letter-spacing:-2px}}
+.t div{{white-space:nowrap;font-size:108px}} .a{{color:#fff}} .b{{color:#FF8A00}}
+.c{{position:absolute;top:CREDIT_TOPpx;left:40px;right:40px;text-align:center;color:#cfcfcf;font-weight:500;font-size:40px}}
 </style></head><body><div class=t><div class=a>{esc(s['line1'])}</div><div class=b>{esc(s['line2'])}</div></div>
 <div class=c>{esc(s.get('credit',''))}</div>
-<script>for(const d of document.querySelectorAll('.t div')){{let f=84;while(d.scrollWidth>1000&&f>48){{f-=2;d.style.fontSize=f+'px'}}}}</script></body></html>"""
+<script>for(const d of document.querySelectorAll('.t div')){{let f=108;while(d.scrollWidth>1020&&f>56){{f-=2;d.style.fontSize=f+'px'}}}}</script></body></html>"""
+w,h=map(int,subprocess.run(["ffprobe","-v","error","-select_streams","v:0","-show_entries","stream=width,height","-of","csv=p=0",s["src"]],capture_output=True,text=True).stdout.strip().split(",")[:2])
+vh=min(1220,round(1080*h/w)); vh-=vh%2; vtop=420+(1220-vh)//2; vbot=vtop+vh
+html=html.replace("TITLE_BOTTOM",str(1920-vtop+60)).replace("CREDIT_TOP",str(vbot+40))
 tmp = tempfile.mkdtemp(); hp = os.path.join(tmp, "o.html"); png = os.path.join(tmp, "o.png"); open(hp, "w").write(html)
 subprocess.run(["node", "-e", f"""const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage({{viewport:{{width:1080,height:1920}}}});await p.goto('file://{hp}');await p.waitForTimeout(400);await p.screenshot({{path:'{png}',omitBackground:true}});await b.close()}})()"""], check=True)
 # 영상 영역: 제목 아래(y=420)~출처 위(y=1640), 가로 1080에 맞추고 세로 가운데
