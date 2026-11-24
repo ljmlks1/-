@@ -1,1 +1,71 @@
-{"items":[{"id":"RI001","account":"issue.ap","title":"달 로켓 엔진 하나 켰더니 / 숲이 통째로 구름에 덮였다","source":"NASA (퍼블릭 도메인) RS-25 엔진 시험 2026-11-18","status":"published","posted_at":"2026-11-25T00:45+09:00","url":"https://www.instagram.com/reel/DgITcgDEY45/"}],"skipped":[]}
+{
+ "items": [
+  {
+   "id": "RI001",
+   "account": "issue.ap",
+   "title": "달 로켓 엔진 하나 켰더니 / 숲이 통째로 구름에 덮였다",
+   "source": "NASA (퍼블릭 도메인) RS-25 엔진 시험 2026-11-18",
+   "status": "published",
+   "posted_at": "2026-11-25T00:45+09:00",
+   "url": "https://www.instagram.com/reel/DgITcgDEY45/"
+  },
+  {
+   "id": "RH009",
+   "account": "legendhumormeme",
+   "source_id": "DR2jByxyYB0",
+   "title": "허경환이 누군데?",
+   "status": "publishing",
+   "publish_at": "now",
+   "vidiq_post_id": "f527b4b9-872c-45f4-9ecf-0f41924bd471"
+  },
+  {
+   "id": "RH008",
+   "account": "legendhumormeme",
+   "source_id": "uY6hzl3uQEs",
+   "title": "코끼리 물벼락",
+   "status": "scheduled",
+   "publish_at": "2026-11-25T04:20+09:00",
+   "vidiq_post_id": "5acffa42-4003-482f-aff5-70a7d0ce9858"
+  },
+  {
+   "id": "RH001",
+   "account": "legendhumormeme",
+   "source_id": "h9h3GwYDV_w",
+   "title": "노래방 서비스",
+   "status": "scheduled",
+   "publish_at": "2026-11-25T06:20+09:00",
+   "vidiq_post_id": "a552d469-cd52-4c37-953c-aa4b788ec556"
+  },
+  {
+   "id": "RH005",
+   "account": "legendhumormeme",
+   "source_id": "BNi1-P6k_zQ",
+   "title": "최고의 개그맨",
+   "status": "scheduled",
+   "publish_at": "2026-11-25T10:50+09:00",
+   "vidiq_post_id": "35a3ab85-3ae9-4bc5-a010-fde2079d730a"
+  },
+  {
+   "id": "RH003",
+   "account": "legendhumormeme",
+   "source_id": "YYdDJwQpOtI",
+   "title": "성인 인증",
+   "status": "scheduled",
+   "publish_at": "2026-11-25T12:50+09:00",
+   "vidiq_post_id": "ce71a3b7-9153-4e7f-9d65-66bad0d5ac93"
+  }
+ ],
+ "skipped": [],
+ "used_sources": [
+  "DR2jByxyYB0",
+  "uY6hzl3uQEs",
+  "h9h3GwYDV_w",
+  "BNi1-P6k_zQ",
+  "YYdDJwQpOtI",
+  "jozI_iYzzlA(제외)",
+  "L-0ob441TLE(보류)",
+  "_NrG2zCq61M(보류)",
+  "_BE_o4IYD8A(보류)",
+  "uRwg-NopAUk(제외)"
+ ]
+}
