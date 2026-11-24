@@ -70,3 +70,6 @@
 ## 계정 배정: 우주 소재 (2026-11-22 사용자 지시)
 - 우주·천문 관련 소재(블로그 변환 포함)는 웬만하면 모두 @legendhumormeme(brand humor)로 제작한다.
 - 결과 전달 시 최종본 슬라이드 전체를 건별로 순서대로 나열해 보여준다(표지만 보내지 않음).
+
+## 블로그 제작법 적용 (2026-11-24)
+- 모든 캐러셀은 ops/BLOG_METHOD_FOR_CAROUSEL.md 를 따른다: 블로그식 전체 원고를 먼저 쓰고(draft.md) 줄여서 슬라이드로. 소재는 ops/blogkit/collect.py, 사실 확인은 newsfind.py(2곳 대조), 사진은 realphoto.py(자유 이용 사진) 먼저.
