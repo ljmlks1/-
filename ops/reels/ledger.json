@@ -44,9 +44,10 @@
    "account": "legendhumormeme",
    "source_id": "BNi1-P6k_zQ",
    "title": "최고의 개그맨",
-   "status": "scheduled",
+   "status": "published",
    "publish_at": "2026-11-25T10:50+09:00",
-   "vidiq_post_id": "35a3ab85-3ae9-4bc5-a010-fde2079d730a"
+   "vidiq_post_id": "35a3ab85-3ae9-4bc5-a010-fde2079d730a",
+   "post_url": "https://www.instagram.com/reel/DgJY5vKB8cD/"
   },
   {
    "id": "RH003",
@@ -65,7 +66,17 @@
    "status": "published",
    "publish_at": "2026-11-25T09:50+09:00",
    "published_at": "2026-11-25T10:58+09:00",
-   "vidiq_post_id": "dee837d1-2be3-456b-a59c-e24899b41289"
+   "vidiq_post_id": "dee837d1-2be3-456b-a59c-e24899b41289",
+   "post_url": "https://www.instagram.com/reel/DgJacOxAeQ4/"
+  },
+  {
+   "id": "RH011",
+   "account": "legendhumormeme",
+   "title": "다 들어놓고 아무도 대답 안 하는 / 단체 모임의 그 순간",
+   "source": "놀면 뭐하니? TtlC9ekV0rY (1196만 뷰)",
+   "status": "scheduled",
+   "publish_at": "2026-11-25T14:50+09:00",
+   "vidiq_post_id": "c368d55d-2dd2-4ae6-ae7a-f66910d5b3b3"
   }
  ],
  "skipped": [],
@@ -79,6 +90,7 @@
   "L-0ob441TLE(보류)",
   "_NrG2zCq61M(보류)",
   "_BE_o4IYD8A(보류)",
-  "uRwg-NopAUk(제외)"
+  "uRwg-NopAUk(제외)",
+  "TtlC9ekV0rY"
  ]
 }
