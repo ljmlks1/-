@@ -887,11 +887,12 @@
    "account": "issue.ap",
    "title": "17억 로또에 5만 명 몰렸다? 잠실 줍줍, 당첨돼도 못 사는 이유",
    "slides": 7,
-   "status": "published_pending_check",
+   "status": "published",
    "run": "2026-11-25-1037",
    "blog_id": "2026-11-25_1030",
    "vidiq_post_id": "4d15b081-8eb8-4ccd-aad4-ba2a8488f3d4",
-   "publish_at": "2026-11-25T19:15+09:00"
+   "publish_at": "2026-11-25T19:15+09:00",
+   "post_url": "https://www.instagram.com/p/DgKRJD9kdzH/"
   },
   {
    "id": "IC038",
@@ -928,9 +929,11 @@
    "account": "legendhumormeme",
    "title": "우주 탄생 6억 년 만에 태양 3억6천만 배 블랙홀?",
    "slides": 8,
-   "status": "delivered_for_manual_upload",
+   "status": "scheduled",
    "run": "2026-11-25-1837",
-   "blog_id": "2026-11-25_X3"
+   "blog_id": "2026-11-25_X3",
+   "vidiq_post_id": "fc09b387-8828-48c1-99e4-ea629dc6c3ac",
+   "publish_at": "2026-11-25T21:50+09:00"
   },
   {
    "id": "BLOG-2026-11-25_X1",
@@ -946,9 +949,11 @@
    "account": "legendhumormeme",
    "title": "아웃룩·팀즈 24시간 먹통 MS가 '코드 레드' 걸었다",
    "slides": 8,
-   "status": "confirmed",
+   "status": "scheduled",
    "blog_id": "2026-11-25_X2",
-   "note": "IC039 유머밈 버전"
+   "note": "IC039 유머밈 버전",
+   "vidiq_post_id": "3e8e696c-7ea0-4ed7-83f6-19488143b72c",
+   "publish_at": "2026-11-26T10:50+09:00"
   }
  ]
 }
