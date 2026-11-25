@@ -757,18 +757,20 @@
    "blog_id": "2026-11-23_1030",
    "vidiq_post_id": "fdbad32e-a38b-4199-9aaa-b4cba023a0c0",
    "publish_at": "2026-11-24T12:50+09:00",
-   "url": "https://www.instagram.com/p/DgHB4h_Fkh9/"
+   "url": "https://www.instagram.com/p/DgHB4h_Fkh9/",
+   "post_url": "https://www.instagram.com/p/DgHB4h_Fkh9/"
   },
   {
    "id": "IC034",
    "account": "issue.ap",
    "title": "한전에서 또 털렸다 152만 명 카드번호까지",
    "slides": 6,
-   "status": "scheduled",
+   "status": "published",
    "run": "2026-11-23-1037",
    "blog_id": "2026-11-23_1900",
    "vidiq_post_id": "ef6a3db2-d977-46d0-8463-c8596fe939ed",
-   "publish_at": "2026-11-24T15:50+09:00"
+   "publish_at": "2026-11-24T15:50+09:00",
+   "post_url": "https://www.instagram.com/p/DgHWefglijc/"
   },
   {
    "id": "LC021",
@@ -799,7 +801,8 @@
    "status": "published",
    "run": "2026-11-23-1837",
    "vidiq_post_id": "a06ef095-cc17-4e66-a5df-de5bd7423d57",
-   "url": "https://www.instagram.com/p/DgGtlkPDcu1/"
+   "url": "https://www.instagram.com/p/DgGtlkPDcu1/",
+   "post_url": "https://www.instagram.com/p/DgGtlkPDcu1/"
   },
   {
    "id": "BLOG-2026-11-23_X1",
@@ -824,55 +827,60 @@
    "account": "legendhumormeme",
    "title": "AI 만드는 회사가 이제 같이 멈추자",
    "slides": 6,
-   "status": "scheduled",
+   "status": "published",
    "run": "2026-11-24-1037",
    "blog_id": "2026-11-23_X1",
    "vidiq_post_id": "39e5a1eb-3fc3-4785-a007-09901712a39c",
-   "publish_at": "2026-11-24T21:50+09:00"
+   "publish_at": "2026-11-24T21:50+09:00",
+   "post_url": "https://www.instagram.com/p/DgH_rg8FiGq/"
   },
   {
    "id": "LC024",
    "account": "legendhumormeme",
    "title": "머스크 내년 AI 회사들 현금 부족 엄청날 것",
    "slides": 5,
-   "status": "scheduled",
+   "status": "published",
    "run": "2026-11-24-1037",
    "blog_id": "2026-11-23_X2",
    "vidiq_post_id": "4f69898d-4f7b-435a-bf43-4a950e58f9b4",
-   "publish_at": "2026-11-25T08:50+09:00"
+   "publish_at": "2026-11-25T08:50+09:00",
+   "post_url": "https://www.instagram.com/p/DgJLM3ODaMs/"
   },
   {
    "id": "LC025",
    "account": "legendhumormeme",
    "title": "물러난 지 11일 만에 젠슨 황 돌아왔다",
    "slides": 7,
-   "status": "scheduled",
+   "status": "published",
    "run": "2026-11-24-manual",
    "blog_id": "2026-11-24_X1",
    "vidiq_post_id": "c825199b-f605-4d07-ac2f-f7f09af10ab4",
-   "publish_at": "2026-11-24T15:50+09:00"
+   "publish_at": "2026-11-24T15:50+09:00",
+   "post_url": "https://www.instagram.com/p/DgHWesKlnhA/"
   },
   {
    "id": "LC026",
    "account": "legendhumormeme",
    "title": "유조선 LNG선 최대 50척 해킹당했다",
    "slides": 7,
-   "status": "scheduled",
+   "status": "published",
    "run": "2026-11-24-manual",
    "blog_id": "2026-11-24_X3",
    "vidiq_post_id": "0a0cfa8b-1881-410c-a6dc-a7418aba893b",
-   "publish_at": "2026-11-24T18:50+09:00"
+   "publish_at": "2026-11-24T18:50+09:00",
+   "post_url": "https://www.instagram.com/p/DgHrE_GFjKb/"
   },
   {
    "id": "IC036",
    "account": "issue.ap",
    "title": "심장마비 뇌졸중 30년 전부터 신호 온다",
    "slides": 7,
-   "status": "scheduled",
+   "status": "published",
    "run": "2026-11-24-1837",
    "blog_id": "2026-11-24_X2",
    "vidiq_post_id": "2d64fed1-ff1b-48b4-9afa-4f945a5f6240",
-   "publish_at": "2026-11-25T07:50+09:00"
+   "publish_at": "2026-11-25T07:50+09:00",
+   "post_url": "https://www.instagram.com/p/DgJEVMsFERf/"
   },
   {
    "id": "IC037",
