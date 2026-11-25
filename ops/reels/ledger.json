@@ -87,6 +87,31 @@
    "publish_at": "2026-11-25T20:00+09:00",
    "vidiq_post_id": "b958c32f-7e04-476d-a907-826d9b0fe901",
    "note": "사용자: 24초 안에 뭘 말하는지 모르겠음 → 20:00 예약 취소. 수정안 RI003b(사건 설명 자막) 확인 대기"
+  },
+  {
+   "id": "RI005",
+   "account": "issue.ap",
+   "title": "민폐 KTX 승객의 / 최후",
+   "source": "JTBC News enQQNOsAy8o",
+   "status": "scheduled",
+   "publish_at": "2026-11-26T07:00+09:00",
+   "vidiq_post_id": "3a7ae46c-c9ff-4c30-be84-e5666a758fbf"
+  },
+  {
+   "id": "RI006",
+   "account": "issue.ap",
+   "title": "1km를 1시간째 / 마라톤에 결혼식 폭망?",
+   "source": "SBS 뉴스 RkadOBNepFA",
+   "status": "scheduled",
+   "publish_at": "2026-11-26T10:00+09:00",
+   "vidiq_post_id": "8238e9a0-a38a-4054-bbbb-552d64738598"
+  },
+  {
+   "id": "RI007",
+   "account": "issue.ap",
+   "title": "대만인, 일본 열차서 / 한국 여권 주워",
+   "source": "MBCNEWS xRBVZ1Qor0w",
+   "status": "ready_not_selected"
   }
  ],
  "skipped": [
@@ -107,6 +132,8 @@
   "_NrG2zCq61M(보류)",
   "_BE_o4IYD8A(보류)",
   "uRwg-NopAUk(제외)",
-  "TtlC9ekV0rY"
+  "TtlC9ekV0rY",
+  "enQQNOsAy8o",
+  "RkadOBNepFA"
  ]
 }
