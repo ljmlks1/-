@@ -79,7 +79,13 @@
    "vidiq_post_id": "c368d55d-2dd2-4ae6-ae7a-f66910d5b3b3"
   }
  ],
- "skipped": [],
+ "skipped": [
+  {
+   "slot": "2026-11-25T13:00+09:00",
+   "account": "issue.ap",
+   "reason": "영상 없음: KAIST 생체시계(초파리 CC 영상은 위키미디어 다운로드 차단), 일본 이오지마 새 땅(NASA 통가 영상의 분화 장면은 통가 정부 제공이라 사용 불가), 안드로메다 별 병합(NASA 영상 없음)"
+  }
+ ],
  "used_sources": [
   "DR2jByxyYB0",
   "uY6hzl3uQEs",
