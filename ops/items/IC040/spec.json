@@ -1,0 +1,70 @@
+{
+ "brand": "issue",
+ "slug": "issue-taiwan-ai-bonus",
+ "cover": {
+  "photo": "/home/user/-/ops/items/IC040/photos/cover.jpg",
+  "pos": "center 50%",
+  "tag": "경제 / 대만",
+  "title": "대만 전 국민 81만원?<br><a>AI 보너스</a> 진짜 받을까",
+  "credit": "사진 · sese_87, CC BY-SA 2.0"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/IC040/photos/p1.jpg",
+   "pos": "center 50%",
+   "cap": "대만 입법원 의정박물관",
+   "title": "1인당 <a>2만 대만달러</a>",
+   "body": "11월 20일(현지) 대만 입법원(국회)이<br>전 국민 1인당 2만 대만달러(약 81만원) 법안을 통과시켰어요.<br>소득·나이·지역 제한 없음.<br>표결은 찬성 50, 반대 46. 겨우 4표 차였어요.",
+   "teaser": "돈은 어디서? →",
+   "credit": "사진 · Fcuk1203, CC BY-SA 3.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC040/photos/p2.jpg",
+   "pos": "center 50%",
+   "cap": "반도체 웨이퍼 (자료사진)",
+   "title": "AI 반도체로 <a>세금이 남았다</a>",
+   "body": "대만엔 세계 최대 반도체 위탁생산 회사 TSMC,<br>폭스콘·위스트론 같은 AI 서버 회사가 있어요.<br>AI 붐으로 이익이 늘면서 법인세가 예상보다 많이 걷혔고<br>그 초과 세수를 국민에게 돌려주자는 거예요.",
+   "teaser": "진짜 받을까? →",
+   "credit": "사진 · oskay, CC BY 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC040/photos/p3.jpg",
+   "pos": "center 50%",
+   "cap": "대만 타이베이 야경 (자료사진)",
+   "title": "결론은 <a>아직 미정</a>",
+   "body": "법안은 제1야당 국민당 주도로 통과됐고<br>집권 민진당은 반대했어요.<br>돈을 실제로 집행하는 건 정부(행정원)라<br>법 통과만으로 바로 입금되는 게 아니에요.",
+   "teaser": "얼마가 될까 →",
+   "credit": "사진 · Taiwan Scenery Gallery, CC BY-SA 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC040/photos/p4.jpg",
+   "pos": "center 50%",
+   "cap": "대만 타이베이 (자료사진)",
+   "title": "40만원 vs <a>81만원</a>",
+   "body": "여당: 내년 예산에 이미 1인당 1만 대만달러(약 40만원)를 넣었다.<br>야당: 2만 대만달러(약 81만원)로.<br>지방선거도 앞두고 있어<br>지급 여부·금액이 정해지기까지 시간이 걸릴 전망이에요.",
+   "teaser": "전에도 줬다? →",
+   "credit": "사진 · daymin, CC BY 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC040/photos/p5.jpg",
+   "pos": "center 50%",
+   "cap": "대만 5달러 동전",
+   "title": "작년에도 <a>1인당 40만원</a>",
+   "body": "대만은 현금·쿠폰을 나눠준 경험이 많아요.<br>금융위기 땐 1인당 3,600 대만달러 소비쿠폰,<br>코로나19 땐 3,000·5,000 대만달러 쿠폰,<br>작년엔 1인당 1만 대만달러(약 40만원)를 줬어요.",
+   "teaser": "우리랑은? →",
+   "credit": "사진 · OnionBulb, CC BY-SA 4.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC040/photos/p6.jpg",
+   "pos": "center 50%",
+   "cap": "대만 타이베이 101 (자료사진)",
+   "title": "우리 지갑엔 <a>무슨 의미</a>?",
+   "body": "대만 국민 대상이라 여행 가도 못 받아요.<br>81만원은 1대만달러 약 40원 기준이라 환율 따라 달라져요.<br>남의 나라 부러워하기 전에<br>정부24 '보조금24'에서 내 지원금부터 조회해 보세요.",
+   "teaser": "",
+   "credit": "사진 · Rutger van der Maar, CC BY 2.0"
+  }
+ ],
+ "end": {
+  "body2": "대만 여행 좋아하는 친구에게 <a>공유</a>해 주세요."
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "brand": "humor",
+ "slug": "humor-farthest-quasar",
+ "cover": {
+  "photo": "/home/user/-/ops/items/LC027/photos/cover.jpg",
+  "pos": "center 50%",
+  "tag": "우주 / 블랙홀",
+  "title": "우주 탄생 6억 년 만에<br>태양 <a>3억6천만 배</a> 블랙홀?",
+  "credit": "상상도 · NASA/ESA (퍼블릭 도메인)"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/LC027/photos/p1.jpg",
+   "pos": "center 50%",
+   "cap": "퀘이사 상상도 (NASA)",
+   "title": "퀘이사가 <a>뭐길래</a>",
+   "body": "은하 한가운데 초대질량 블랙홀이 가스를 빨아들이며<br>은하 전체보다 수백~수천 배 밝게 빛나는 천체예요.<br>그래서 아주 먼 우주에서도 보여요.<br>블랙홀은 안 보여도 이 빛으로 무게를 잴 수 있어요.",
+   "teaser": "이번에 찾은 건 →",
+   "credit": "상상도 · NASA/JPL-Caltech/GSFC"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC027/photos/p2.jpg",
+   "pos": "center 50%",
+   "cap": "블랙홀 상상도 (NASA, 실제 모습 아님)",
+   "title": "역대 <a>가장 먼</a> 퀘이사",
+   "body": "이름 J1504+6252, 별명 '둔 앵거스'.<br>적색편이 8.13, 퀘이사로는 처음 8을 넘었어요.<br>빛이 출발한 건 약 131억 년 전,<br>당시 우주 나이는 약 6억 3천만 년이에요.",
+   "teaser": "누가 찾았나 →",
+   "credit": "상상도 · NASA/JPL-Caltech"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC027/photos/p3.jpg",
+   "pos": "center 50%",
+   "cap": "유클리드 우주망원경 (클린룸)",
+   "title": "처음 찾은 건 <a>유클리드</a>",
+   "body": "유럽우주국(ESA) 유클리드 우주망원경이 후보를 찾았어요.<br>2023년 7월 발사, 약 18개월 동안 수백만 개 천체를 훑었죠.<br>11월 24일 학술지 '천문학과 천체물리학'에 발표됐어요.",
+   "teaser": "확인은 누가 →",
+   "credit": "사진 · ESA"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC027/photos/p4.jpg",
+   "pos": "center 50%",
+   "cap": "제임스웹 우주망원경 주경 (NASA)",
+   "title": "망원경 <a>4대</a>가 확인",
+   "body": "후보를 찾은 뒤 켁 천문대, 허블,<br>대형쌍안망원경(LBT), 제임스웹까지 동원해<br>정체와 블랙홀 무게를 확인했어요.<br>블랙홀 질량은 태양의 약 3억 6천만 배예요.",
+   "teaser": "왜 놀랐나 →",
+   "credit": "사진 · NASA"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC027/photos/p5.jpg",
+   "pos": "center 50%",
+   "cap": "허블 우주망원경 (NASA)",
+   "title": "이론으로 <a>설명이 안 된다</a>",
+   "body": "블랙홀은 무한정 빨리 못 커요(에딩턴 한계).<br>그런데 이 블랙홀은 한계보다 훨씬 느리게 먹고 있었어요.<br>처음부터 이렇게 컸다면 6억 년 만에<br>3억 6천만 배까지 자라는 게 설명이 안 돼요.",
+   "teaser": "그럼 어떻게? →",
+   "credit": "사진 · NASA"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC027/photos/p6.jpg",
+   "pos": "center 50%",
+   "cap": "하와이 켁 천문대 (NASA)",
+   "title": "유력 시나리오 <a>직접붕괴</a>",
+   "body": "거대한 가스 구름이 별 단계를 건너뛰고<br>처음부터 큰 블랙홀로 무너졌을 가능성.<br>한때 한계를 넘게 폭식했을 수도 있대요.<br>유클리드는 1년 반 만에 초기 우주 퀘이사 31개를 찾았어요.",
+   "teaser": "",
+   "credit": "사진 · NASA/JPL"
+  }
+ ],
+ "end": {
+  "body2": "우주 좋아하는 친구 <a>태그</a>해 주세요."
+ }
+}

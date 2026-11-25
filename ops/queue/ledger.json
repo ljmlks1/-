@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T10:37+09:00",
+ "updated_at": "2026-11-25T18:37+09:00",
  "note": "공용 대기열. 상태: draft|review|approved|in_progress|published|hold. vidIQ social_post_list가 게시 사실의 기준.",
  "items": [
   {
@@ -891,6 +891,42 @@
    "status": "delivered_for_manual_upload",
    "run": "2026-11-25-1037",
    "blog_id": "2026-11-25_1900"
+  },
+  {
+   "id": "IC039",
+   "account": "issue.ap",
+   "title": "24시간 전 세계 먹통 MS '코드 레드' 선포한 이유",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-25-1837",
+   "blog_id": "2026-11-25_X2"
+  },
+  {
+   "id": "IC040",
+   "account": "issue.ap",
+   "title": "대만 전 국민 81만원? AI 보너스 진짜 받을까",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-25-1837",
+   "blog_id": "2026-11-25_F1"
+  },
+  {
+   "id": "LC027",
+   "account": "legendhumormeme",
+   "title": "우주 탄생 6억 년 만에 태양 3억6천만 배 블랙홀?",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-25-1837",
+   "blog_id": "2026-11-25_X3"
+  },
+  {
+   "id": "BLOG-2026-11-25_X1",
+   "account": "issue.ap",
+   "title": "젠슨 황 복귀·엔비디아 31% 폭등",
+   "status": "superseded",
+   "run": "2026-11-25-1837",
+   "blog_id": "2026-11-25_X1",
+   "note": "LC025(젠슨 황 복귀)와 같은 주제라 제작 안 함"
   }
  ]
 }
