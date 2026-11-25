@@ -83,9 +83,10 @@
    "account": "issue.ap",
    "title": "젠슨 황 효과 / 딱 하루였다",
    "source": "백악관 YT 6UBA8iL3x54 (퍼블릭 도메인, 2026-09), 뉴스: 국민일보 005/0001887429·서울신문 081/0003703198·KBS 056/0012301012·한국일보 469/0000967774",
-   "status": "scheduled",
+   "status": "cancelled_draft",
    "publish_at": "2026-11-25T20:00+09:00",
-   "vidiq_post_id": "b958c32f-7e04-476d-a907-826d9b0fe901"
+   "vidiq_post_id": "b958c32f-7e04-476d-a907-826d9b0fe901",
+   "note": "사용자: 24초 안에 뭘 말하는지 모르겠음 → 20:00 예약 취소. 수정안 RI003b(사건 설명 자막) 확인 대기"
   }
  ],
  "skipped": [
