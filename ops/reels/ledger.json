@@ -111,7 +111,8 @@
    "account": "issue.ap",
    "title": "대만인, 일본 열차서 / 한국 여권 주워",
    "source": "MBCNEWS xRBVZ1Qor0w",
-   "status": "ready_not_selected"
+   "status": "rejected",
+   "note": "사용자: 별로, 영어 영상"
   }
  ],
  "skipped": [
@@ -134,6 +135,7 @@
   "uRwg-NopAUk(제외)",
   "TtlC9ekV0rY",
   "enQQNOsAy8o",
-  "RkadOBNepFA"
+  "RkadOBNepFA",
+  "xRBVZ1Qor0w(제외)"
  ]
 }
