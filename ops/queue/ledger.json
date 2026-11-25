@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T19:30:00+09:00",
+ "updated_at": "2026-11-25T10:37+09:00",
  "note": "공용 대기열. 상태: draft|review|approved|in_progress|published|hold. vidIQ social_post_list가 게시 사실의 기준.",
  "items": [
   {
@@ -873,6 +873,24 @@
    "blog_id": "2026-11-24_X2",
    "vidiq_post_id": "2d64fed1-ff1b-48b4-9afa-4f945a5f6240",
    "publish_at": "2026-11-25T07:50+09:00"
+  },
+  {
+   "id": "IC037",
+   "account": "issue.ap",
+   "title": "17억 로또에 5만 명 몰렸다? 잠실 줍줍, 당첨돼도 못 사는 이유",
+   "slides": 7,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-25-1037",
+   "blog_id": "2026-11-25_1030"
+  },
+  {
+   "id": "IC038",
+   "account": "issue.ap",
+   "title": "연말정산 또 토해낼 뻔? 12월 31일 전 꼭 할 것",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-25-1037",
+   "blog_id": "2026-11-25_1900"
   }
  ]
 }
