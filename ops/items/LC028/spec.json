@@ -1,0 +1,70 @@
+{
+ "brand": "humor",
+ "slug": "humor-ms-codered",
+ "cover": {
+  "photo": "/home/user/-/ops/items/LC028/photos/cover.jpg",
+  "pos": "center 50%",
+  "tag": "IT / 마이크로소프트",
+  "title": "아웃룩·팀즈 24시간 먹통<br>MS가 <a>'코드 레드'</a> 걸었다",
+  "credit": "사진 · Wonderlane, CC0"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/LC028/photos/p1.jpg",
+   "pos": "center 50%",
+   "cap": "노트북 업무 (자료사진)",
+   "title": "아웃룩·팀즈가 <a>멈췄다</a>",
+   "body": "11월 12~13일, 약 24시간 동안<br>아웃룩·익스체인지 온라인·팀즈·코파일럿 접속 장애.<br>미국·호주·일본 정부 업무가 차질을 빚었고<br>금융 거래 지연, 항공사 통신에도 문제가 생겼어요.",
+   "teaser": "얼마나 컸나 →",
+   "credit": "사진 · Wonderlane, CC BY 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC028/photos/p2.jpg",
+   "pos": "center 50%",
+   "cap": "사무실 (자료사진)",
+   "title": "아웃룩 신고 <a>13만 건</a>",
+   "body": "장애가 가장 심할 때 다운디텍터 신고가 13만 건을 넘었어요.<br>피해자 수가 아니라 '신고 건수'예요.<br>MS 365 담당 사장은 이번 일을<br>익스체인지 온라인 역사상 가장 심각한 사고라고 했어요.",
+   "teaser": "원인은? →",
+   "credit": "사진 · wbaiv, CC BY-SA 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC028/photos/p3.jpg",
+   "pos": "center 50%",
+   "cap": "코드 화면 (자료사진)",
+   "title": "해킹도 AI도 <a>아니었다</a>",
+   "body": "처음엔 인프라 과부하·서버 점검 오류가 꼽혔지만<br>근본 원인은 7월에 들어간 윈도 확장 기능 결함.<br>MS는 사이버 공격·AI 에이전트 원인 가능성은 배제했어요.<br>넉 달 전 숨어든 버그 하나였던 셈이에요.",
+   "teaser": "복구 현장은 →",
+   "credit": "사진 · qubodup, CC BY 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC028/photos/p4.jpg",
+   "pos": "center 50%",
+   "cap": "회의 중인 사람들 (자료사진)",
+   "title": "복구 현장은 <a>'전쟁의 안개'</a>",
+   "body": "대응팀은 팀즈 채팅방 11개에서<br>1만 1,000건 넘는 메시지를 주고받았대요.<br>진단 정보가 여러 시스템에 흩어져 있었고<br>담당 부사장은 '전쟁의 안개'라고 표현했어요.",
+   "teaser": "MS 대책은 →",
+   "credit": "사진 · Phillie Casablanca, CC BY 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC028/photos/p5.jpg",
+   "pos": "center 30%",
+   "cap": "사티아 나델라 MS CEO (2013년)",
+   "title": "목표는 <a>1시간</a> 안 복구",
+   "body": "사티아 나델라 CEO는 공개 사과했어요.<br>사고가 나면 1시간 안에 전 세계 서비스를 복구하는 게 목표.<br>트래픽 지역 분리, AI로 장애 진단,<br>엔지니어링 리더들이 매일 진행 상황을 점검해요.",
+   "teaser": "우리 회사는 →",
+   "credit": "사진 · LeWeb14, CC BY 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC028/photos/p6.jpg",
+   "pos": "center 50%",
+   "cap": "마이크로소프트 사옥 (자료사진)",
+   "title": "우리 회사도 <a>대비</a>하려면",
+   "body": "중요한 메일·파일은 로컬에도 사본.<br>메신저가 막힐 때 쓸 비상 연락 수단 하나.<br>장애가 나면 서비스 상태 페이지부터 확인.<br>클라우드 하나에 모든 업무를 맡기면 또 멈출 수 있어요.",
+   "teaser": "",
+   "credit": "사진 · Bobbie, CC BY 2.0"
+  }
+ ],
+ "end": {
+  "body2": "그날 메일 안 열려서 멘붕 온 친구 <a>태그</a>해 주세요."
+ }
+}

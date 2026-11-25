@@ -887,27 +887,32 @@
    "account": "issue.ap",
    "title": "17억 로또에 5만 명 몰렸다? 잠실 줍줍, 당첨돼도 못 사는 이유",
    "slides": 7,
-   "status": "delivered_for_manual_upload",
+   "status": "published_pending_check",
    "run": "2026-11-25-1037",
-   "blog_id": "2026-11-25_1030"
+   "blog_id": "2026-11-25_1030",
+   "vidiq_post_id": "4d15b081-8eb8-4ccd-aad4-ba2a8488f3d4",
+   "publish_at": "2026-11-25T19:15+09:00"
   },
   {
    "id": "IC038",
    "account": "issue.ap",
    "title": "연말정산 또 토해낼 뻔? 12월 31일 전 꼭 할 것",
    "slides": 8,
-   "status": "delivered_for_manual_upload",
+   "status": "scheduled",
    "run": "2026-11-25-1037",
-   "blog_id": "2026-11-25_1900"
+   "blog_id": "2026-11-25_1900",
+   "vidiq_post_id": "96adf658-3c28-490a-95bc-a9512e8df929",
+   "publish_at": "2026-11-25T21:10+09:00"
   },
   {
    "id": "IC039",
    "account": "issue.ap",
    "title": "24시간 전 세계 먹통 MS '코드 레드' 선포한 이유",
    "slides": 8,
-   "status": "delivered_for_manual_upload",
+   "status": "superseded",
    "run": "2026-11-25-1837",
-   "blog_id": "2026-11-25_X2"
+   "blog_id": "2026-11-25_X2",
+   "note": "사용자 지시로 유머밈 LC028로 변환"
   },
   {
    "id": "IC040",
@@ -935,6 +940,15 @@
    "run": "2026-11-25-1837",
    "blog_id": "2026-11-25_X1",
    "note": "LC025(젠슨 황 복귀)와 같은 주제라 제작 안 함"
+  },
+  {
+   "id": "LC028",
+   "account": "legendhumormeme",
+   "title": "아웃룩·팀즈 24시간 먹통 MS가 '코드 레드' 걸었다",
+   "slides": 8,
+   "status": "confirmed",
+   "blog_id": "2026-11-25_X2",
+   "note": "IC039 유머밈 버전"
   }
  ]
 }
