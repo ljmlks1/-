@@ -954,6 +954,23 @@
    "note": "IC039 유머밈 버전",
    "vidiq_post_id": "3e8e696c-7ea0-4ed7-83f6-19488143b72c",
    "publish_at": "2026-11-26T10:50+09:00"
+  },
+  {
+   "id": "LC029",
+   "account": "legendhumormeme",
+   "title": "'트로트 안 좋아해'던 엄마 임영웅한테 녹았다",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-26-1037"
+  },
+  {
+   "id": "BLOG-2026-11-25_F2",
+   "account": "issue.ap",
+   "title": "크리스마스이브 슈퍼문",
+   "status": "superseded",
+   "run": "2026-11-26-1037",
+   "blog_id": "2026-11-25_F2",
+   "note": "IC019(슈퍼문 24일, 진짜 큰 달은 크리스마스이브)와 같은 주제"
   }
  ]
 }

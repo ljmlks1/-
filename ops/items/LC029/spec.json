@@ -1,0 +1,70 @@
+{
+ "brand": "humor",
+ "slug": "humor-dindin-radiostar",
+ "cover": {
+  "photo": "/home/user/-/ops/items/LC029/photos/cover.jpg",
+  "pos": "center 30%",
+  "tag": "예능 / 라디오스타",
+  "title": "'트로트 안 좋아해'던 엄마<br><a>임영웅</a>한테 녹았다",
+  "credit": "사진 · 엑스포츠뉴스"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/LC029/photos/collage.jpg",
+   "pos": "center 40%",
+   "cap": "MBC '라디오스타' (11월 25일)",
+   "title": "라스에서 <a>썰 대방출</a>",
+   "body": "25일 MBC '라디오스타'에 진성·최재림·딘딘·이무진 출연.<br>'내 장르에 태클을 걸지 마' 특집이었어요.<br>딘딘이 어머니 이야기부터<br>누나 친구 이야기까지 다 풀었어요.",
+   "teaser": "엄마 얘기 →",
+   "credit": "사진 · 엑스포츠뉴스·MBC"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC029/photos/insta.jpg",
+   "pos": "center 30%",
+   "cap": "딘딘",
+   "title": "미우새 하차, <a>먼저 들은 건 딘딘</a>",
+   "body": "어머니의 SBS '미운 우리 새끼' 하차 소식을<br>제작진에게 먼저 전해 들었대요.<br>방송을 그렇게 좋아하셨던 어머니는<br>1년 가까이 아쉬워하며 시청률까지 챙기셨대요.",
+   "teaser": "그런데 반전 →",
+   "credit": "사진 · 딘딘 인스타그램(매일경제 게재)"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC029/photos/trot.jpg",
+   "pos": "center 40%",
+   "cap": "MBC '라디오스타' 방송 화면",
+   "title": "\"엄마는 <a>트로트 안 좋아해</a>\"",
+   "body": "트로트 열풍 때 어머니가 전화로<br>'엄마는 트로트 안 좋아해, 우리 아들이 최고야'.<br>그런데 집에 가 보니 임영웅 무대를 보고 계셨고<br>딘딘이 들어오자 황급히 TV를 껐대요.",
+   "teaser": "임영웅이 한 일 →",
+   "credit": "사진 · MBC '라디오스타'(MHN 게재)"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC029/photos/hermes.jpg",
+   "pos": "center 40%",
+   "cap": "MBC '라디오스타' 방송 화면",
+   "title": "임영웅의 <a>에르메스 스카프</a>",
+   "body": "임영웅이 '미우새'에 게스트로 나왔을 때<br>어머님들 스카프를 하나하나 다 사 왔대요.<br>딘딘 표현으로는<br>'거기에 엄마가 녹았다'.",
+   "teaser": "엄마의 한마디 →",
+   "credit": "사진 · MBC '라디오스타'(스포츠서울 게재)"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC029/photos/hero.jpg",
+   "pos": "center 40%",
+   "cap": "MBC '라디오스타' 방송 화면",
+   "title": "\"우리 아들이 <a>영웅이었으면</a>\"",
+   "body": "어머니가 이렇게 말씀하셨대요.<br>임영웅이 어머님들을 콘서트에 초대했는데<br>다들 찐팬이라 그것도 마다하고<br>'직접 티케팅하겠다'고 하셨다고.",
+   "teaser": "딘딘의 첫사랑? →",
+   "credit": "사진 · MBC '라디오스타'(MHN 게재)"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC029/photos/shb_sim.jpg",
+   "pos": "center 30%",
+   "cap": "MBC '라디오스타' 방송 화면",
+   "title": "누나 친구 <a>신현빈</a>과 결혼하면?",
+   "body": "작은누나의 초등학교 때부터 절친인 배우 신현빈.<br>셋이 간 상하이 여행 영상에 '딘딘 첫사랑'이란 댓글이 달렸고<br>영상을 보니 '광대가 승천해 있더라'며<br>결혼 후 상황까지 시뮬레이션해 MC들이 '상상해봤네'.",
+   "teaser": "",
+   "credit": "사진 · MBC '라디오스타'(마이데일리 게재)"
+  }
+ ],
+ "end": {
+  "body2": "엄마랑 같이 보고 싶은 친구 <a>태그</a>해 주세요."
+ }
+}
