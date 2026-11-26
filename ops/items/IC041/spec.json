@@ -1,0 +1,70 @@
+{
+ "brand": "issue",
+ "slug": "issue-apple-ftc",
+ "cover": {
+  "photo": "/home/user/-/ops/items/IC041/photos/cover.jpg",
+  "pos": "center 50%",
+  "tag": "IT / 애플",
+  "title": "아이폰16 AI 광고 속였다?<br>과징금 <a>최대 536억</a>",
+  "credit": "사진 · Anthony Quintano, CC BY 2.0"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/IC041/photos/p1.jpg",
+   "pos": "center 50%",
+   "cap": "애플스토어 (자료사진)",
+   "title": "공정위, 애플 <a>제재 절차</a> 시작",
+   "body": "공정위 심사관이 11월 24일 심사보고서를 위원회에 냈어요.<br>혐의는 표시광고법 위반(기만 광고), 대상은 아이폰16 시리즈.<br>관련 매출 약 3조 3,527억 원, 과징금 약 268억~536억 원.<br>단, 심사관 의견이라 최종 결론은 위원회 심의 뒤에 나와요.",
+   "teaser": "뭐가 문제? →",
+   "credit": "사진 · Håkan Dahlström, CC BY 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC041/photos/p2.jpg",
+   "pos": "center 50%",
+   "cap": "아이폰16 (자료사진)",
+   "title": "광고한 9개 중 <a>4개</a>가 문제",
+   "body": "애플 인텔리전스 AI 기능 9가지를 광고했는데<br>젠모지, 이미지 플레이그라운드, 개인 맥락 이해 시리,<br>단계별 가이드 4가지가 광고대로 안 나왔다는 판단이에요.<br>시리 한국어는 작년 4월 초 예고, 실제는 올해 10월.",
+   "teaser": "미국에선? →",
+   "credit": "사진 · MIKI Yoshihito, CC BY 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC041/photos/p3.jpg",
+   "pos": "center 50%",
+   "cap": "런던 애플스토어 (자료사진)",
+   "title": "미국에선 <a>3,600억 원</a> 합의",
+   "body": "올해 5월 미국 집단소송을 2억 5,000만 달러에 합의했어요.<br>위법 인정은 아니고, 법원 최종 승인 심리는 내년 2월.<br>대상 약 3,556만 대, 1대당 25달러 기준·최대 95달러.<br>원고 측은 1대당 61.06달러 이상을 예상했어요.",
+   "teaser": "애플 입장은 →",
+   "credit": "사진 · lynxman, CC BY 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC041/photos/p4.jpg",
+   "pos": "center 50%",
+   "cap": "뉴욕 애플스토어 (자료사진)",
+   "title": "애플 \"<a>동의 못 해</a>\"",
+   "body": "애플은 심사보고서 결론에 동의하지 않는다고 밝혔어요.<br>한국어 애플 인텔리전스 기능을 이미 쓸 수 있고<br>새 시리 AI 한국어도 시작했다는 설명이에요.<br>보고서를 받은 날부터 6주 안에 의견을 낼 수 있어요.",
+   "teaser": "나는 뭐가 달라? →",
+   "credit": "사진 · Synthesis Studios, CC BY-SA 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC041/photos/p5.jpg",
+   "pos": "center 50%",
+   "cap": "도쿄 긴자 애플스토어 (자료사진)",
+   "title": "과징금은 <a>국가</a>로 가요",
+   "body": "한국 이용자 개인 보상이 정해진 건 아직 없어요.<br>미국 합의는 미국 구매자만 대상이에요.<br>새 시리 AI는 구글 제미나이 기술로 만들었고<br>한국어 지원도 시작했어요.",
+   "teaser": "체크할 것 →",
+   "credit": "사진 · Ian Muttoo, CC BY-SA 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC041/photos/p6.jpg",
+   "pos": "center 50%",
+   "cap": "아이폰16 출시일 애플스토어 (자료사진)",
+   "title": "'나중에 제공' <a>꼭 확인</a>",
+   "body": "'업데이트로 나중에 제공' 문구가 붙은 AI 기능은<br>출시 시기를 꼭 확인하세요.<br>'먼저 광고하고 나중에 만드는' AI 폰 마케팅이<br>이번 일로 시험대에 올랐어요.",
+   "teaser": "",
+   "credit": "사진 · Anthony Quintano, CC BY 2.0"
+  }
+ ],
+ "end": {
+  "body2": "아이폰16 쓰는 친구에게 <a>공유</a>해 주세요."
+ }
+}

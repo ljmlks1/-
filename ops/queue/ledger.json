@@ -973,6 +973,32 @@
    "run": "2026-11-26-1037",
    "blog_id": "2026-11-25_F2",
    "note": "IC019(슈퍼문 24일, 진짜 큰 달은 크리스마스이브)와 같은 주제"
+  },
+  {
+   "id": "IC041",
+   "account": "issue.ap",
+   "title": "아이폰16 AI 광고 속였다? 과징금 최대 536억",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-26-1837",
+   "blog_id": "2026-11-26_X1"
+  }
+ ],
+ "pending_blogs": [
+  {
+   "blog_id": "2026-11-26_F1",
+   "plan": "LC030 비 강남빌딩(유머밈)",
+   "reason": "사진 소스(Openverse) 429 제한"
+  },
+  {
+   "blog_id": "2026-11-26_X2",
+   "plan": "IC042 뉴럴링크",
+   "reason": "사진 소스 429"
+  },
+  {
+   "blog_id": "2026-11-26_X3",
+   "plan": "IC043 5G SA",
+   "reason": "사진 소스 429"
   }
  ]
 }
