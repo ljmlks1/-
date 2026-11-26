@@ -960,8 +960,10 @@
    "account": "legendhumormeme",
    "title": "'트로트 안 좋아해'던 엄마 임영웅한테 녹았다",
    "slides": 8,
-   "status": "delivered_for_manual_upload",
-   "run": "2026-11-26-1037"
+   "status": "scheduled",
+   "run": "2026-11-26-1037",
+   "vidiq_post_id": "516a2ab9-8194-45da-b5be-2cf032b2c16d",
+   "publish_at": "2026-11-26T13:50+09:00"
   },
   {
    "id": "BLOG-2026-11-25_F2",
