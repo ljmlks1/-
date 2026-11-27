@@ -113,6 +113,43 @@
    "source": "MBCNEWS xRBVZ1Qor0w",
    "status": "rejected",
    "note": "사용자: 별로, 영어 영상"
+  },
+  {
+   "id": "RI008",
+   "account": "issue.ap",
+   "title": "장 보는 어르신 카트에 '휙' / 가정교육이 중요한 이유",
+   "source": "SBS 뉴스 xPmluEGw_TI (원본 음성)",
+   "status": "published_pending_check",
+   "vidiq_post_id": "0e35f0ac-3452-4c1d-9888-e7da6594b9b3",
+   "publish_at": "2026-11-27 now"
+  },
+  {
+   "id": "RI009",
+   "account": "issue.ap",
+   "status": "dropped",
+   "note": "유튜브 자동 영어 더빙 음성만 받아짐"
+  },
+  {
+   "id": "RI010",
+   "account": "issue.ap",
+   "status": "dropped",
+   "note": "유튜브 자동 영어 더빙 음성만 받아짐"
+  },
+  {
+   "id": "RI013",
+   "account": "issue.ap",
+   "status": "dropped",
+   "note": "유튜브 자동 영어 더빙 음성만 받아짐"
+  },
+  {
+   "id": "RI011",
+   "account": "issue.ap",
+   "status": "not_selected"
+  },
+  {
+   "id": "RI012",
+   "account": "issue.ap",
+   "status": "not_selected"
   }
  ],
  "skipped": [
@@ -136,6 +173,7 @@
   "TtlC9ekV0rY",
   "enQQNOsAy8o",
   "RkadOBNepFA",
-  "xRBVZ1Qor0w(제외)"
+  "xRBVZ1Qor0w(제외)",
+  "xPmluEGw_TI"
  ]
 }
