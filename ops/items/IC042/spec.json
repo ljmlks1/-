@@ -1,0 +1,70 @@
+{
+ "brand": "issue",
+ "slug": "issue-jongbuse-2026",
+ "cover": {
+  "photo": "/home/user/-/ops/items/IC042/photos/cover.jpg",
+  "pos": "center 50%",
+  "tag": "부동산 / 세금",
+  "title": "종부세 고지서 73만 명<br>1주택자 <a>42% 껑충</a>",
+  "credit": "사진 · tkazec, CC BY 2.0"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/IC042/photos/p1.jpg",
+   "pos": "center 50%",
+   "cap": "세금 계산 (자료사진)",
+   "title": "주택분 <a>72만 6천 명</a>",
+   "body": "재경부가 26일 발표한 올해 종부세 고지예요.<br>주택분 72만 6천 명(+34.5%), 세액 2조 3천억 원(+35.3%).<br>1세대 1주택자는 23만 1천 명(+53%), 3,660억 원.<br>인원·세액 모두 2022년 이후 가장 많아요.",
+   "teaser": "1주택자는? →",
+   "credit": "사진 · Dave Dugdale, CC BY-SA 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC042/photos/p2.jpg",
+   "pos": "center 50%",
+   "cap": "서울 아파트 (자료사진)",
+   "title": "1주택자 평균 <a>158만 6천 원</a>",
+   "body": "1세대 1주택자 평균 종부세가<br>작년보다 47만 2천 원(42.4%) 늘었어요.<br>통계가 있는 2017년 이후 가장 높아요.<br>개인 1인당 평균은 199만 4천 원(+24.1%).",
+   "teaser": "왜 늘었나 →",
+   "credit": "사진 · Ox1997cow, CC BY-SA 3.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC042/photos/p3.jpg",
+   "pos": "center 50%",
+   "cap": "서울 아파트 단지 (자료사진)",
+   "title": "세법은 그대로, <a>공시가</a>가 올랐다",
+   "body": "재경부는 제도 변화가 아니라 시장 요인이라고 설명했어요.<br>올해 공동주택 공시가격이 전국 9.1%, 서울 18.6% 올랐거든요.<br>서울 대상자만 45만 9천 명으로 13만 1천 명 늘었고<br>수도권이 전체의 86.3%예요.",
+   "teaser": "기준은? →",
+   "credit": "사진 · InSapphoWeTrust, CC BY-SA 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC042/photos/p4.jpg",
+   "pos": "center 50%",
+   "cap": "세금 계산기 (자료사진)",
+   "title": "1주택은 공시가 <a>12억</a> 넘으면",
+   "body": "1세대 1주택은 공시가 12억 원 초과(시가 약 17억 원),<br>다주택자는 공시가 합계 9억 원 초과부터 내요.<br>1주택자는 나이·보유기간 공제를 합쳐 최대 80%까지.<br>고지서에 이 공제가 빠졌는지 먼저 확인하세요.",
+   "teaser": "12월 15일 전 →",
+   "credit": "사진 · Dave Dugdale, CC BY-SA 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC042/photos/p5.jpg",
+   "pos": "center 50%",
+   "cap": "세금 서류 (자료사진)",
+   "title": "<a>12월 15일</a> 전 체크 5가지",
+   "body": "공시가격이 알리미 금액과 같은지, 6월 1일 기준 주택 수,<br>1주택 공제, 공동명의 방식, 임대주택 합산배제.<br>틀렸다면 관할 세무서에 묻고<br>12월 15일까지 직접 신고해도 돼요.",
+   "teaser": "목돈 부담이면 →",
+   "credit": "사진 · Images_of_Money, CC BY 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC042/photos/p6.jpg",
+   "pos": "center 50%",
+   "cap": "한국은행 화폐박물관 (자료사진)",
+   "title": "<a>분납</a>·납부유예도 있어요",
+   "body": "종부세 250만 원이 넘으면 일부를 6개월 안에 나눠 낼 수 있어요.<br>1주택·60세 이상 또는 5년 보유 등 조건이면<br>집을 팔 때까지 미루는 납부유예도 가능(이자 붙음).<br>문의: 국세상담센터 126",
+   "teaser": "",
+   "credit": "사진 · travel oriented, CC BY-SA 2.0"
+  }
+ ],
+ "end": {
+  "body2": "고지서 받은 부모님께 <a>공유</a>해 주세요."
+ }
+}

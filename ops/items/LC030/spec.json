@@ -1,0 +1,70 @@
+{
+ "brand": "humor",
+ "slug": "humor-musk-samsung-memory",
+ "cover": {
+  "photo": "/home/user/-/ops/items/LC030/photos/cover.jpg",
+  "pos": "center 30%",
+  "tag": "IT / 화제",
+  "title": "머스크도 퇴짜?<br>\"<a>뭘 더 해줄 건데</a>\"",
+  "credit": "사진 · jurvetson, CC BY 2.0"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/LC030/photos/p1.jpg",
+   "pos": "center 30%",
+   "cap": "일론 머스크 (자료사진)",
+   "title": "\"칩 오래 사 줄게요\" <a>→ 그래서?</a>",
+   "body": "WSJ가 25일(현지) 전한 일화예요.<br>머스크가 테슬라가 칩을 장기 계약으로 사겠다고 하자<br>\"다들 그 제안 해요. 뭘 더 해줄 수 있죠?\"<br>공장 자금 보증까지 말해도 \"다들 그래요. 뭘 더?\"",
+   "teaser": "진짜야? →",
+   "credit": "사진 · jurvetson, CC BY 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC030/photos/p2.jpg",
+   "pos": "center 50%",
+   "cap": "반도체 웨이퍼 (자료사진)",
+   "title": "공식 확인은 <a>아니에요</a>",
+   "body": "미국 자산운용사 캐피털그룹 펀드매니저 칼 카와자가<br>6월 한 콘퍼런스에서 머스크와 나눈 대화를 전했고<br>WSJ가 옮긴 거예요.<br>삼성·테슬라가 공식으로 밝힌 내용은 아니에요.",
+   "teaser": "왜 이렇게 귀해? →",
+   "credit": "사진 · yellowcloud, CC BY 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC030/photos/p3.jpg",
+   "pos": "center 50%",
+   "cap": "메모리 칩 (자료사진)",
+   "title": "범인은 <a>AI 데이터센터</a>",
+   "body": "빅테크가 AI 데이터센터를 한꺼번에 지으면서<br>메모리 반도체가 모자라졌어요.<br>WSJ 표현으로는 '한 세대에 한 번 있을 법한 공급난'.<br>파는 쪽 삼성·SK하이닉스가 갑이 된 상황이에요.",
+   "teaser": "쟁탈전 수준 →",
+   "credit": "사진 · yellowcloud, CC BY 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC030/photos/p4.jpg",
+   "pos": "center 50%",
+   "cap": "메모리 모듈 (자료사진)",
+   "title": "공장 앞 숙소, <a>단골 고깃집</a>까지",
+   "body": "최장 5년 장기 계약, 대금 25~30% 선지급.<br>일부 AI 기업은 삼성 공장 앞에 숙소를 잡았고<br>미국 카르마 CEO는 6개월에 한국을 4번 오다 단골 고깃집이 생겼대요.<br>밀린 업체는 경매 사이트에서 예산 40배에 사기도.",
+   "teaser": "내 지갑엔? →",
+   "credit": "사진 · corvazo, 퍼블릭 도메인"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC030/photos/p5.jpg",
+   "pos": "center 50%",
+   "cap": "노트북 (자료사진)",
+   "title": "전자제품 값도 <a>올랐다</a>",
+   "body": "WSJ가 든 해외 사례예요.<br>맥북 모델별 100~500달러, 엑스박스 약 33%, 에코닷 약 60% 인상.<br>국내 판매가가 똑같이 오른 건 확인되지 않았어요.<br>WSJ는 새 공장이 도는 2028년까지 부족이 이어진다고 봤어요.",
+   "teaser": "살 때 체크 →",
+   "credit": "사진 · SamJJordan, CC BY-SA 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/LC030/photos/p6.jpg",
+   "pos": "center 50%",
+   "cap": "노트북 (자료사진)",
+   "title": "살 때 <a>이것만</a> 체크",
+   "body": "꼭 필요하면 가격 알림 걸어 두기.<br>메모리 옵션은 실제 쓰는 용량부터 확인.<br>지금 기기는 배터리 교체로 수명 늘리기.<br>리퍼·전시상품도 비교해 보세요.",
+   "teaser": "",
+   "credit": "사진 · MattsMacintosh, CC BY 2.0"
+  }
+ ],
+ "end": {
+  "body2": "노트북 바꾸려던 친구 <a>태그</a>해 주세요."
+ }
+}

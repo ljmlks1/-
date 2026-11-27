@@ -982,6 +982,24 @@
    "status": "delivered_for_manual_upload",
    "run": "2026-11-26-1837",
    "blog_id": "2026-11-26_X1"
+  },
+  {
+   "id": "IC042",
+   "account": "issue.ap",
+   "title": "종부세 고지서 73만 명 1주택자 42% 껑충",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-27-1037",
+   "blog_id": "2026-11-27_1030"
+  },
+  {
+   "id": "LC030",
+   "account": "legendhumormeme",
+   "title": "머스크도 퇴짜? 뭘 더 해줄 건데",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-27-1037",
+   "blog_id": "2026-11-26_F2"
   }
  ],
  "pending_blogs": [
@@ -999,6 +1017,11 @@
    "blog_id": "2026-11-26_X3",
    "plan": "IC043 5G SA",
    "reason": "사진 소스 429"
+  },
+  {
+   "blog_id": "2026-11-27_1900",
+   "plan": "IC043 기준금리",
+   "reason": "이번 회차 분량, 18:37 회차로"
   }
  ]
 }
