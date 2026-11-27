@@ -1000,6 +1000,15 @@
    "status": "delivered_for_manual_upload",
    "run": "2026-11-27-1037",
    "blog_id": "2026-11-26_F2"
+  },
+  {
+   "id": "IC043",
+   "account": "issue.ap",
+   "title": "기준금리 또 올랐다 대출 4억이면 연 100만원 더",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-27-1837",
+   "blog_id": "2026-11-27_1900"
   }
  ],
  "pending_blogs": [
@@ -1017,11 +1026,6 @@
    "blog_id": "2026-11-26_X3",
    "plan": "IC043 5G SA",
    "reason": "사진 소스 429"
-  },
-  {
-   "blog_id": "2026-11-27_1900",
-   "plan": "IC043 기준금리",
-   "reason": "이번 회차 분량, 18:37 회차로"
   }
  ]
 }

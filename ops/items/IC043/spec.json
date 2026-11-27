@@ -1,0 +1,70 @@
+{
+ "brand": "issue",
+ "slug": "issue-base-rate-325",
+ "cover": {
+  "photo": "/home/user/-/ops/items/IC043/photos/cover.jpg",
+  "pos": "center 50%",
+  "tag": "경제 / 금리",
+  "title": "기준금리 또 올랐다<br>대출 4억이면 <a>연 100만원</a> 더",
+  "credit": "사진 · InSapphoWeTrust, CC BY-SA 2.0"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/IC043/photos/p1.jpg",
+   "pos": "center 50%",
+   "cap": "한국은행 화폐금융박물관",
+   "title": "3.00% → <a>3.25%</a>",
+   "body": "한국은행이 11월 26일 기준금리를 0.25%p 올렸어요.<br>7월·8월·11월, 올해만 세 번째 인상이에요.<br>반도체 호황으로 성장은 빠른데(올해 3.9% 전망)<br>10월 물가가 2.8%로 목표(2%)보다 높아서예요.",
+   "teaser": "내 이자는? →",
+   "credit": "사진 · travel oriented, CC BY-SA 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC043/photos/p2.jpg",
+   "pos": "center 50%",
+   "cap": "계산기 (자료사진)",
+   "title": "대출 4억이면 <a>연 100만 원</a>",
+   "body": "인상폭이 대출금리에 그대로 붙는다고 가정하면<br>1억 연 25만 원, 2억 연 50만 원,<br>3억 연 75만 원, 4억 연 100만 원(월 약 8만 3천 원).<br>가계 전체로는 이자가 3조 3천억 원 늘어난다고 봤어요(한은).",
+   "teaser": "지금 금리는 →",
+   "credit": "사진 · Images_of_Money, CC BY 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC043/photos/p3.jpg",
+   "pos": "center 50%",
+   "cap": "한국은행 화폐금융박물관",
+   "title": "주담대 평균 <a>4.98%</a>",
+   "body": "10월 주담대 평균 금리 4.98%로 14년 7개월 만에 최고.<br>가계대출 평균 5.02%, 마이너스통장 평균 5.69%.<br>5대 은행 변동형 주담대는 4.51~6.51%예요.<br>내년 추가 인상 땐 7%대 관측도 나와요.",
+   "teaser": "변동금리라면 →",
+   "credit": "사진 · sellyourseoul, CC BY 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC043/photos/p4.jpg",
+   "pos": "center 50%",
+   "cap": "서울 아파트 단지 (자료사진)",
+   "title": "변동금리 <a>76%</a>, 더 조심",
+   "body": "올해 7~10월 새 주담대의 76%가 변동형이었어요.<br>보통 6개월마다 금리를 다시 매겨서<br>재산정 날 이자가 한꺼번에 오를 수 있어요.<br>대출 금리는 인상 후 약 5개월 뒤 가장 크게 반응(한은 분석).",
+   "teaser": "지금 할 것 →",
+   "credit": "사진 · InSapphoWeTrust, CC BY-SA 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC043/photos/p5.jpg",
+   "pos": "center 50%",
+   "cap": "서울 (자료사진)",
+   "title": "지금 할 수 있는 <a>5가지</a>",
+   "body": "① 대출 금리 재산정일·기준 지표 확인<br>② 연봉·신용점수 올랐으면 금리인하요구권<br>③ 고정형·다른 은행으로 갈아타기 비교(중도상환수수료 확인)<br>④ 여윳돈은 금리 높은 신용대출·마통부터 ⑤ 예금은 짧게",
+   "teaser": "빚투라면 →",
+   "credit": "사진 · sunbeams879, CC BY 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC043/photos/p6.jpg",
+   "pos": "center 50%",
+   "cap": "서울 강남 (자료사진)",
+   "title": "빚투·영끌은 <a>이중 부담</a>",
+   "body": "마이너스통장 평균 금리는 1년 전 4.57%에서 5.69%로.<br>주가는 출렁이는데 이자는 오르는 상황이에요.<br>이자를 월급으로 감당할 수 있는지부터 따져 보세요.<br>금리는 못 정해도 갈아타기·인하요구는 내가 할 수 있어요.",
+   "teaser": "",
+   "credit": "사진 · travel oriented, CC BY-SA 2.0"
+  }
+ ],
+ "end": {
+  "body2": "대출 있는 친구에게 <a>공유</a>해 주세요."
+ }
+}
