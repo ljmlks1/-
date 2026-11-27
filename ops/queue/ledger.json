@@ -988,9 +988,11 @@
    "account": "issue.ap",
    "title": "종부세 고지서 73만 명 1주택자 42% 껑충",
    "slides": 8,
-   "status": "delivered_for_manual_upload",
+   "status": "published",
    "run": "2026-11-27-1037",
-   "blog_id": "2026-11-27_1030"
+   "blog_id": "2026-11-27_1030",
+   "post_url": "https://www.instagram.com/p/DgPze52IPRj/",
+   "vidiq_post_id": "cb7c7c77-1fc0-4dbe-ba63-0b67ad6cc1b7"
   },
   {
    "id": "LC030",
@@ -1006,9 +1008,11 @@
    "account": "issue.ap",
    "title": "기준금리 또 올랐다 대출 4억이면 연 100만원 더",
    "slides": 8,
-   "status": "delivered_for_manual_upload",
+   "status": "scheduled",
    "run": "2026-11-27-1837",
-   "blog_id": "2026-11-27_1900"
+   "blog_id": "2026-11-27_1900",
+   "publish_at": "2026-11-28T09:00+09:00",
+   "vidiq_post_id": "b4d1ff17-093f-4dd2-a753-c14beef461fc"
   }
  ],
  "pending_blogs": [
