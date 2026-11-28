@@ -1013,6 +1013,24 @@
    "blog_id": "2026-11-27_1900",
    "publish_at": "2026-11-28T09:00+09:00",
    "vidiq_post_id": "b4d1ff17-093f-4dd2-a753-c14beef461fc"
+  },
+  {
+   "id": "IC044",
+   "account": "issue.ap",
+   "title": "AI 안경 쓰고 15분 8문제 전부 정답?",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-28-1037",
+   "blog_id": "2026-11-27_X2"
+  },
+  {
+   "id": "LC031",
+   "account": "legendhumormeme",
+   "title": "374원 받던 통장에 4,601원이 꽂혔다",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-28-1037",
+   "blog_id": "2026-11-27_F1"
   }
  ],
  "pending_blogs": [
@@ -1030,6 +1048,18 @@
    "blog_id": "2026-11-26_X3",
    "plan": "IC043 5G SA",
    "reason": "사진 소스 429"
+  },
+  {
+   "blog_id": "2026-11-27_F2",
+   "reason": "이번 회차 분량"
+  },
+  {
+   "blog_id": "2026-11-27_X1",
+   "reason": "이번 회차 분량"
+  },
+  {
+   "blog_id": "2026-11-27_X3",
+   "reason": "이번 회차 분량"
   }
  ]
 }
