@@ -1,0 +1,70 @@
+{
+ "brand": "issue",
+ "slug": "issue-epost-leak",
+ "cover": {
+  "photo": "/home/user/-/ops/items/IC045/photos/cover.jpg",
+  "pos": "center 50%",
+  "tag": "사회 / 개인정보",
+  "title": "인터넷우체국도 털렸다<br>하루치만 <a>11만 명</a>",
+  "credit": "사진 · Bigsmile20, CC BY-SA 4.0"
+ },
+ "pages": [
+  {
+   "photo": "/home/user/-/ops/items/IC045/photos/p1.jpg",
+   "pos": "center 50%",
+   "cap": "우체국 (자료사진)",
+   "title": "등기 받는 사람 정보가 <a>8일간</a>",
+   "body": "해외 IP를 쓴 해커가 11월 17일~24일 8일 동안<br>등기우편 받는 사람의 이름·주소·전화번호를 들여다봤어요.<br>하루치만 분석했는데 11만 3,855명.<br>나머지는 집계 중이라 더 늘어날 수 있어요.",
+   "teaser": "어디가 뚫렸나 →",
+   "credit": "사진 · Narubaru7, CC BY 4.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC045/photos/p2.jpg",
+   "pos": "center 50%",
+   "cap": "이동 우체국 차량 (자료사진)",
+   "title": "<a>배달장소 변경</a> 서비스",
+   "body": "뚫린 곳은 모바일 인터넷우체국의 '수취인 배달장소 변경서비스'.<br>등기가 오면 문자로 알리고 받을 곳을 바꿔 주는 기능이었어요.<br>우체국은 서비스·비회원 로그인을 중단하고 해외 IP를 차단,<br>개인정보위 신고·경찰 수사 의뢰를 했어요.",
+   "teaser": "진짜 위험한 건 →",
+   "credit": "사진 · hyolee2, CC BY-SA 3.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC045/photos/p3.jpg",
+   "pos": "center 50%",
+   "cap": "휴대폰 문자 (자료사진)",
+   "title": "<a>내 이름·주소</a> 적힌 가짜 문자",
+   "body": "실명·집 주소·번호가 한꺼번에 나가서<br>내 이름과 주소가 정확히 적힌 '우체국 문자'가 올 수 있어요.<br>'주소 불명 반송, 링크에서 재확인'<br>'추가 배송비 결제 필요' '법원 등기 반송' 같은 문자 주의.",
+   "teaser": "지금 할 일 →",
+   "credit": "사진 · nSeika, CC BY 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC045/photos/p4.jpg",
+   "pos": "center 50%",
+   "cap": "우체국 (자료사진)",
+   "title": "지금 바로 <a>5가지</a>",
+   "body": "① 링크 붙은 우편·택배 문자는 바로 삭제<br>② 우체국은 앱 설치·추가 결제·금융정보 입력을 요구 안 해요<br>③ 통신사에서 소액결제 차단 ④ 번호도용 문자차단 신청<br>⑤ 가족 단톡방에 공유",
+   "teaser": "이미 눌렀다면 →",
+   "credit": "사진 · Narubaru7, CC BY 4.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC045/photos/p5.jpg",
+   "pos": "center 50%",
+   "cap": "코드 화면 (자료사진)",
+   "title": "이미 눌렀다면 <a>비행기 모드</a>",
+   "body": "링크를 눌렀거나 앱이 깔린 것 같으면 비행기 모드로 통신부터 끊고<br>경찰청 112·금융감독원 1332·KISA 118에 신고,<br>계좌 지급정지를 요청하세요.",
+   "teaser": "내가 대상인지 →",
+   "credit": "사진 · qubodup, CC BY 2.0"
+  },
+  {
+   "photo": "/home/user/-/ops/items/IC045/photos/p6.jpg",
+   "pos": "center 50%",
+   "cap": "스마트폰 (자료사진)",
+   "title": "'유출 확인 링크'는 <a>의심</a>",
+   "body": "우정사업본부가 피해가 확인되는 고객에게 직접 안내할 예정이에요.<br>그 전에 오는 '유출 확인 링크' 문자는 오히려 의심하세요.<br>공개된 유출 항목은 이름·주소·전화번호예요.<br>부모님께 꼭 한 번 알려 드리세요.",
+   "teaser": "",
+   "credit": "사진 · Artem Beliaikin, CC0"
+  }
+ ],
+ "end": {
+  "body2": "부모님께 꼭 <a>공유</a>해 주세요."
+ }
+}

@@ -1031,6 +1031,15 @@
    "status": "delivered_for_manual_upload",
    "run": "2026-11-28-1037",
    "blog_id": "2026-11-27_F1"
+  },
+  {
+   "id": "IC045",
+   "account": "issue.ap",
+   "title": "인터넷우체국도 털렸다 하루치만 11만 명",
+   "slides": 8,
+   "status": "delivered_for_manual_upload",
+   "run": "2026-11-28-1837",
+   "blog_id": "2026-11-28_X2"
   }
  ],
  "pending_blogs": [
@@ -1059,6 +1068,18 @@
   },
   {
    "blog_id": "2026-11-27_X3",
+   "reason": "이번 회차 분량"
+  },
+  {
+   "blog_id": "2026-11-28_F1",
+   "reason": "이번 회차 분량"
+  },
+  {
+   "blog_id": "2026-11-28_X1",
+   "reason": "이번 회차 분량"
+  },
+  {
+   "blog_id": "2026-11-28_X3",
    "reason": "이번 회차 분량"
   }
  ]
